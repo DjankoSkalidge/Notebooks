@@ -1,0 +1,728 @@
+{
+  "items": [
+    {
+      "accumulated_reward_amount": -22754,
+      "day": "2017-10-11T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -25254,
+      "day": "2018-01-22T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -27754,
+      "day": "2018-01-26T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -26339,
+      "day": "2018-01-27T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -30254,
+      "day": "2018-01-28T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -32754,
+      "day": "2018-02-05T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -35254,
+      "day": "2018-02-07T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -33770,
+      "day": "2018-02-08T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -25767,
+      "day": "2018-02-09T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -40167,
+      "day": "2018-02-10T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -33341,
+      "day": "2018-02-11T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -42626,
+      "day": "2018-02-12T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -42649,
+      "day": "2018-02-13T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -47626,
+      "day": "2018-02-14T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -50126,
+      "day": "2018-02-15T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -52626,
+      "day": "2018-02-17T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -55126,
+      "day": "2018-02-18T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -57626,
+      "day": "2018-02-19T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -51360,
+      "day": "2018-02-20T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -50173,
+      "day": "2018-02-21T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -51339,
+      "day": "2018-02-22T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -55019,
+      "day": "2018-02-23T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -60111,
+      "day": "2018-02-24T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -62611,
+      "day": "2018-02-25T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -65111,
+      "day": "2018-02-26T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -67507,
+      "day": "2018-02-27T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -70007,
+      "day": "2018-02-28T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -72507,
+      "day": "2018-03-01T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -75007,
+      "day": "2018-03-02T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -77497,
+      "day": "2018-03-03T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -79997,
+      "day": "2018-03-04T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -82476,
+      "day": "2018-03-06T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -74967,
+      "day": "2018-03-07T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -84904,
+      "day": "2018-03-08T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -81215,
+      "day": "2018-03-09T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -79787,
+      "day": "2018-03-10T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -78605,
+      "day": "2018-03-11T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -77758,
+      "day": "2018-03-12T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -82033,
+      "day": "2018-03-13T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -85803,
+      "day": "2018-03-14T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -92303,
+      "day": "2018-03-15T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -94803,
+      "day": "2018-03-16T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -91489,
+      "day": "2018-03-17T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -92289,
+      "day": "2018-03-18T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -93279,
+      "day": "2018-03-19T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -99779,
+      "day": "2018-03-20T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -99085,
+      "day": "2018-03-21T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -98028,
+      "day": "2018-03-22T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -93753,
+      "day": "2018-03-23T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -93588,
+      "day": "2018-03-25T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -98751,
+      "day": "2018-03-26T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -104751,
+      "day": "2018-03-27T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -107251,
+      "day": "2018-03-28T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -104915,
+      "day": "2018-03-29T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -98165,
+      "day": "2018-03-30T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -103982,
+      "day": "2018-04-01T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -104327,
+      "day": "2018-04-02T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -108057,
+      "day": "2018-04-03T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -107792,
+      "day": "2018-04-04T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -106771,
+      "day": "2018-04-05T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -102183,
+      "day": "2018-04-06T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -103083,
+      "day": "2018-04-07T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -109283,
+      "day": "2018-04-08T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -101256,
+      "day": "2018-04-09T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -109587,
+      "day": "2018-04-10T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -100757,
+      "day": "2018-04-11T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -93821,
+      "day": "2018-04-12T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -86194,
+      "day": "2018-04-13T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -89177,
+      "day": "2018-04-14T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -89026,
+      "day": "2018-04-15T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -88425,
+      "day": "2018-04-16T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -87737,
+      "day": "2018-04-17T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -90051,
+      "day": "2018-04-18T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -90439,
+      "day": "2018-04-19T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -89041,
+      "day": "2018-04-20T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -89142,
+      "day": "2018-04-21T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -75684,
+      "day": "2018-04-22T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -80284,
+      "day": "2018-04-23T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -75459,
+      "day": "2018-04-24T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -94059,
+      "day": "2018-04-25T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -91896,
+      "day": "2018-04-26T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -92896,
+      "day": "2018-04-28T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -92207,
+      "day": "2018-04-29T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -93207,
+      "day": "2018-04-30T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -89075,
+      "day": "2018-05-01T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -86909,
+      "day": "2018-05-02T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -88554,
+      "day": "2018-05-03T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -89098,
+      "day": "2018-05-04T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -86164,
+      "day": "2018-05-07T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -97180,
+      "day": "2018-05-09T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -105588,
+      "day": "2018-05-10T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -104032,
+      "day": "2018-05-11T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -99271,
+      "day": "2018-05-12T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -96804,
+      "day": "2018-05-15T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -98554,
+      "day": "2018-05-16T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -101554,
+      "day": "2018-05-17T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -103557,
+      "day": "2018-05-18T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -102287,
+      "day": "2018-05-19T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -100301,
+      "day": "2018-05-20T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -100601,
+      "day": "2018-05-22T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -97242,
+      "day": "2018-06-29T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -105242,
+      "day": "2018-06-30T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -99313,
+      "day": "2018-07-01T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -96522,
+      "day": "2018-07-02T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -91713,
+      "day": "2018-07-03T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -96414,
+      "day": "2018-07-04T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -94607,
+      "day": "2018-07-05T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -96620,
+      "day": "2018-07-07T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -93897,
+      "day": "2018-07-08T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -92374,
+      "day": "2018-07-10T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -98874,
+      "day": "2018-07-11T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -94180,
+      "day": "2018-07-12T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -95180,
+      "day": "2018-07-13T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -97180,
+      "day": "2018-07-16T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -99680,
+      "day": "2018-07-17T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -98717,
+      "day": "2018-07-20T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -96662,
+      "day": "2018-07-21T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -98562,
+      "day": "2018-07-22T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -102562,
+      "day": "2018-07-23T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -107562,
+      "day": "2018-07-24T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -107362,
+      "day": "2018-07-25T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -106630,
+      "day": "2018-07-26T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -109530,
+      "day": "2018-07-30T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -107929,
+      "day": "2018-08-03T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -106940,
+      "day": "2018-08-04T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -103392,
+      "day": "2018-08-05T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -95903,
+      "day": "2018-08-06T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -94917,
+      "day": "2018-08-07T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -100617,
+      "day": "2018-08-08T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -102617,
+      "day": "2018-08-09T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -106017,
+      "day": "2018-08-10T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -105887,
+      "day": "2018-08-11T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -105311,
+      "day": "2018-08-13T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -107111,
+      "day": "2018-08-15T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -104555,
+      "day": "2018-08-17T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -103383,
+      "day": "2018-08-20T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -101558,
+      "day": "2018-08-21T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -101858,
+      "day": "2018-08-22T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -100118,
+      "day": "2018-08-23T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -99323,
+      "day": "2018-08-24T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -96744,
+      "day": "2018-08-26T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -97244,
+      "day": "2018-08-27T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -95663,
+      "day": "2018-08-28T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -85079,
+      "day": "2018-08-30T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -85693,
+      "day": "2018-08-31T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -91657,
+      "day": "2018-09-01T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -105657,
+      "day": "2018-09-02T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -100593,
+      "day": "2018-09-04T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -95434,
+      "day": "2018-09-05T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -81861,
+      "day": "2018-09-06T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -72143,
+      "day": "2018-09-07T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -63158,
+      "day": "2018-09-08T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -66601,
+      "day": "2018-09-09T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -59093,
+      "day": "2018-09-10T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -62093,
+      "day": "2018-09-11T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -69944,
+      "day": "2018-09-12T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -54164,
+      "day": "2018-09-13T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -42708,
+      "day": "2018-09-14T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -43335,
+      "day": "2018-09-15T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -34734,
+      "day": "2018-09-16T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -31829,
+      "day": "2018-09-17T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -30977,
+      "day": "2018-09-18T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -27081,
+      "day": "2018-09-19T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -27204,
+      "day": "2018-09-20T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -28704,
+      "day": "2018-09-21T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -25788,
+      "day": "2018-09-22T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -19360,
+      "day": "2018-09-23T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -18574,
+      "day": "2018-09-24T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -22839,
+      "day": "2018-09-25T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -7043,
+      "day": "2018-09-26T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -3355,
+      "day": "2018-09-27T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -10356,
+      "day": "2018-09-28T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -15139,
+      "day": "2018-09-29T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -25545,
+      "day": "2018-09-30T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -21329,
+      "day": "2018-10-01T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -15769,
+      "day": "2018-10-02T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -7984,
+      "day": "2018-10-03T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": -6326,
+      "day": "2018-10-04T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": 5654,
+      "day": "2018-10-05T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": 30864,
+      "day": "2018-10-06T00:00:00+00:00"
+    },
+    {
+      "accumulated_reward_amount": 48584,
+      "day": "2018-10-07T00:00:00+00:00"
+    }
+  ]
+}
