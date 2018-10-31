@@ -14,6 +14,7 @@ args = parser.parse_args()
 silent = args.silent
 fullfilename = args.filename
 
+# find the file names and paths
 spath, filename = os.path.split(fullfilename)
 fname, ext = os.path.splitext(filename)
 
@@ -37,16 +38,21 @@ pythonfilename = os.path.join(dpath, pyname)
 if not silent:
 	print("converting notebook '{}' into '{}'".format(sourcefilename, pythonfilename))
 
+# check whether the jupyter notebook exists.
 if not os.path.isfile(sourcefilename):
 	print("{} is not a file.".format(sourcefilename) )
 	sys.exit()
 
+# read the notebook
 nb = nbformat.read(sourcefilename, as_version=4)
+
+# currently only python notebooks are supported
 kernellanguage = nb["metadata"]["kernelspec"]["language"]
 if kernellanguage != "python":
 	print("{} notebooks are not supported.".format(kernellanguage))
 	sys.exit()
 
+# generate the python file
 pythonfile = open(pythonfilename, 'w')
 
 code = [cell["source"] for cell in nb["cells"] if cell["cell_type"]=="code"]
