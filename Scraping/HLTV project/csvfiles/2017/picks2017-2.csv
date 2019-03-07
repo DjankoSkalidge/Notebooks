@@ -1,0 +1,4120 @@
+,matchcode,team,map,priority
+0,2311540,Bpro,Mirage,5
+1,2311540,Outlaws,Nuke,6
+2,2311519,Bpro,Mirage,5
+3,2311519,TTFU,Inferno,6
+4,2311518,Bojestvata,Cobblestone,5
+5,2311518,Outlaws,Train,6
+6,2311522,fightclub,Mirage,3
+7,2311522,Atleterna,Inferno,4
+8,2311521,fightclub,Cache,3
+9,2311521,Crowns,Train,4
+10,2311520,Atleterna,Inferno,3
+11,2311520,#FREEIBP,Overpass,4
+12,2311513,fightclub,Mirage,3
+13,2311513,Skjuta Hess,Cobblestone,4
+14,2311512,PopcornPlokker$,Cache,3
+15,2311512,Crowns,Train,4
+16,2311510,Atleterna,Nuke,3
+17,2311510,Red Reserve,Mirage,4
+18,2311511,Refuse Academy,Cache,3
+19,2311511,#FREEIBP,Overpass,4
+20,2311502,BOOT-d[S],Cache,3
+21,2311502,ViCi,Overpass,4
+22,2311501,BOOT-d[S],Train,3
+23,2311501,Wings.Blue,Inferno,4
+24,2311500,MVP Project,Overpass,3
+25,2311500,ViCi,Cobblestone,4
+26,2311499,ViCi,Cobblestone,3
+27,2311499,Wings.Blue,Cache,4
+28,2311498,BOOT-d[S],Train,3
+29,2311498,MVP Project,Inferno,4
+30,2311497,MVP Project,Mirage,3
+31,2311497,Wings.Blue,Inferno,4
+32,2311371,Vega Squadron,Train,3
+33,2311371,Tengri,Inferno,4
+34,2311370,Vega Squadron,Cache,3
+35,2311370,pro100,Mirage,4
+36,2311369,Vega Squadron,Cache,3
+37,2311369,Tengri,Overpass,4
+38,2311368,pro100,Nuke,3
+39,2311368,Quantum Bellator Fire,Cobblestone,4
+40,2311367,Vega Squadron,Cache,3
+41,2311367,pro100,Nuke,4
+42,2311366,Quantum Bellator Fire,Train,3
+43,2311366,Tengri,Mirage,4
+44,2311361,Spartak,Mirage,3
+45,2311361,pro100,Nuke,4
+46,2311360,Spirit,Nuke,3
+47,2311360,Spartak,Train,4
+48,2311356,Spirit Academy,Inferno,3
+49,2311356,Tengri,Mirage,4
+50,2311355,Nemiga,Overpass,3
+51,2311355,Tengri,Mirage,4
+52,2311352,Spirit Academy,Cobblestone,3
+53,2311352,Nemiga,Mirage,4
+54,2311444,Immortals,Mirage,3
+55,2311444,Cloud9,Inferno,4
+56,2311443,Cloud9,Inferno,3
+57,2311443,CLG,Cache,4
+58,2311443,Cloud9,Mirage,6
+59,2311442,CLG,Train,3
+60,2311442,Luminosity,Cache,4
+61,2311442,CLG,Cobblestone,6
+62,2311441,Cloud9,Train,3
+63,2311441,Immortals,Cache,4
+64,2311441,Cloud9,Cobblestone,6
+65,2311440,Immortals,Overpass,3
+66,2311440,CLG,Train,4
+67,2311440,Immortals,Cobblestone,6
+68,2311439,Cloud9,Mirage,3
+69,2311439,Luminosity,Cache,4
+70,2311439,Cloud9,Nuke,6
+71,2311438,paiN,Overpass,3
+72,2311438,CLG,Mirage,4
+73,2311438,paiN,Cache,6
+74,2311437,paiN,Overpass,3
+75,2311437,Misfits,Train,4
+76,2311437,paiN,Mirage,6
+77,2311435,NRG,Cobblestone,3
+78,2311435,Luminosity,Train,4
+79,2311435,NRG,Cache,6
+80,2311434,compLexity,Train,3
+81,2311434,NRG,Inferno,4
+82,2311434,compLexity,Cobblestone,6
+83,2311542,Ghost,Cobblestone,3
+84,2311542,Rise Nation,Mirage,4
+85,2311350,Ghost,Cobblestone,3
+86,2311350,RONIN,Inferno,4
+87,2311206,Ghost,Cobblestone,3
+88,2311206,Miami Flamingos,Mirage,4
+89,2311126,Rise Nation,Cache,3
+90,2311126,RONIN,Mirage,4
+91,2311154,Ghost,Train,3
+92,2311154,bamboozled,Mirage,4
+93,2310451,Ghost,Train,3
+94,2310451,RONIN,Inferno,4
+95,2310888,Miami Flamingos,Overpass,3
+96,2310888,Morior Invictus,Train,4
+97,2310453,bamboozled,Cache,3
+98,2310453,GlockWork,Cobblestone,4
+99,2310452,Eclipse,Train,3
+100,2310452,Miami Flamingos,Cache,4
+101,2310858,Morior Invictus,Train,3
+102,2310858,BiG MiSTAKE,Cache,4
+103,2310634,LunatiK,Inferno,3
+104,2310634,BiG MiSTAKE,Nuke,4
+105,2310633,Doxxa,Cache,3
+106,2310633,Synthetik,Mirage,4
+107,2310454,Morior Invictus,Train,3
+108,2310454,Hyper,Mirage,4
+109,2310507,Doxxa,Train,3
+110,2310507,dans Ta yeule,Inferno,4
+111,2310336,Just A Glimpse,Nuke,3
+112,2310336,GlockWork,Cobblestone,4
+113,2310335,Eclipse,Mirage,3
+114,2310335,BiG MiSTAKE,Overpass,4
+115,2310333,RONIN,Cache,3
+116,2310333,Synthetik,Inferno,4
+117,2310334,Miami Flamingos,Cache,3
+118,2310334,Hyper,Overpass,4
+119,2310332,Ghost,Cobblestone,3
+120,2310332,bamboozled,Mirage,4
+121,2310337,Morior Invictus,Train,3
+122,2310337,Alpha Nerds,Cache,4
+123,2310331,Eclipse,Mirage,3
+124,2310331,GlockWork,Cobblestone,4
+125,2310330,Miami Flamingos,Inferno,3
+126,2310330,dans Ta yeule,Overpass,4
+127,2310325,Just A Glimpse,Cache,3
+128,2310325,BiG MiSTAKE,Mirage,4
+129,2310329,Morior Invictus,Train,3
+130,2310329,Synthetik,Cache,4
+131,2310328,RONIN,Mirage,3
+132,2310328,Alpha Nerds,Cobblestone,4
+133,2310327,LunatiK,Mirage,3
+134,2310327,bamboozled,Cache,4
+135,2310326,Ghost,Cobblestone,3
+136,2310326,Debut,Inferno,4
+137,2311509,TYLOO,Mirage,5
+138,2311509,ViCi,Cobblestone,6
+139,2311503,ViCi,Cobblestone,5
+140,2311503,UYA,Mirage,6
+141,2311495,TYLOO,Mirage,5
+142,2311495,Flash,Cobblestone,6
+143,2311456,ViCi,Nuke,5
+144,2311456,LGD,Cobblestone,6
+145,2311494,UYA,Mirage,5
+146,2311494,Eclipse,Overpass,6
+147,2311454,TYLOO,Mirage,5
+148,2311454,New4,Cache,6
+149,2311455,Flash,Cache,5
+150,2311455,BOOT,Mirage,6
+151,2311404,UYA,Overpass,5
+152,2311404,T.O.T,Cache,6
+153,2311405,Eclipse,Nuke,5
+154,2311405,AE,Mirage,6
+155,2311406,EMP,Cache,5
+156,2311406,LGD,Cobblestone,6
+157,2311403,ViCi,Cobblestone,5
+158,2311403,rTE,Mirage,6
+159,2311402,BOOT,Mirage,5
+160,2311402,FIVE,Inferno,6
+161,2311401,Flash,Cobblestone,5
+162,2311401,Invictus,Inferno,6
+163,2311400,New4,Inferno,5
+164,2311400,Lynx,Overpass,6
+165,2311399,TYLOO,Cache,5
+166,2311399,SP,Mirage,6
+167,2311472,BIG,Cobblestone,3
+168,2311472,PENTA,Train,4
+169,2311471,LDLC,Inferno,3
+170,2311471,Red Reserve,Train,4
+171,2311428,LDLC,Overpass,3
+172,2311428,PENTA,Inferno,4
+173,2311427,Red Reserve,Mirage,3
+174,2311427,BIG,Inferno,4
+175,2311264,Red Reserve,Overpass,3
+176,2311264,PENTA,Inferno,4
+177,2311257,Kinguin,Inferno,3
+178,2311257,Outlaws,Train,4
+179,2311265,Kinguin,Cobblestone,3
+180,2311265,Tricked,Inferno,4
+181,2311250,PRIDE,Nuke,3
+182,2311250,North Academy,Train,4
+183,2311263,Outlaws,Overpass,3
+184,2311263,Red Reserve,Cobblestone,4
+185,2311251,Singularity,Mirage,3
+186,2311251,North Academy,Nuke,4
+187,2311261,Kinguin,Overpass,3
+188,2311261,Red Reserve,Mirage,4
+189,2311260,Outlaws,Train,3
+190,2311260,Tricked,Cobblestone,4
+191,2311259,Outlaws,Overpass,3
+192,2311259,PENTA,Inferno,4
+193,2311258,PENTA,Inferno,3
+194,2311258,Kinguin,Train,4
+195,2311256,Tricked,Overpass,3
+196,2311256,PENTA,Cache,4
+197,2311262,Tricked,Nuke,3
+198,2311262,Red Reserve,Train,4
+199,2311255,Singularity,Nuke,3
+200,2311255,LDLC,Overpass,4
+201,2311254,BIG,Mirage,3
+202,2311254,North Academy,Train,4
+203,2311252,PRIDE,Train,3
+204,2311252,BIG,Inferno,4
+205,2311253,Singularity,Nuke,3
+206,2311253,PRIDE,Cache,4
+207,2311208,BIG,Inferno,3
+208,2311208,Singularity,Overpass,4
+209,2311171,PRIDE,Train,3
+210,2311171,LDLC,Inferno,4
+211,2311170,LDLC,Cache,3
+212,2311170,North Academy,Train,4
+213,2311152,LDLC,Inferno,3
+214,2311152,BIG,Train,4
+215,2311313,Outlaws,Overpass,3
+216,2311313,Singularity,Nuke,4
+217,2311149,Singularity,Overpass,3
+218,2311149,Epsilon,Inferno,4
+219,2310920,Outlaws,Overpass,3
+220,2310920,Singularity,Mirage,4
+221,2311116,KPI,Overpass,3
+222,2311116,Epsilon,Cache,4
+223,2310930,KPI,Train,3
+224,2310930,Chrome,Mirage,4
+225,2310919,Epsilon,Cache,3
+226,2310919,G2V,Mirage,4
+227,2310704,KPI,Nuke,3
+228,2310704,x6tence,Inferno,4
+229,2310632,Singularity,Overpass,3
+230,2310632,Epsilon,Inferno,4
+231,2310817,Nexus,Cache,3
+232,2310817,G2V,Mirage,4
+233,2310631,Outlaws,Overpass,3
+234,2310631,Chrome,Mirage,4
+235,2310629,Nexus,Cache,3
+236,2310629,Playing Ducks,Mirage,4
+237,2310651,KPI,Train,3
+238,2310651,Bpro,Cache,4
+239,2310628,x6tence,Inferno,3
+240,2310628,RCTIC,Nuke,4
+241,2310630,Pompa Black,Mirage,3
+242,2310630,G2V,Train,4
+243,2310398,Bpro,Cache,3
+244,2310398,Tortues Ninja,Cobblestone,4
+245,2310357,Nexus,Mirage,3
+246,2310357,Singularity,Nuke,4
+247,2310354,Outlaws,Train,3
+248,2310354,x6tence,Inferno,4
+249,2310400,G2V,Cache,3
+250,2310400,Oserv,Cobblestone,4
+251,2310397,Giants,Mirage,3
+252,2310397,RCTIC,Nuke,4
+253,2310355,KPI,Train,3
+254,2310355,Chrome,Cache,4
+255,2310399,CAZ,Inferno,3
+256,2310399,Playing Ducks,Mirage,4
+257,2310356,Pompa Black,Mirage,3
+258,2310356,Epsilon,Cache,4
+259,2310353,Pompa Black,Nuke,1
+260,2310353,Pompa Black,Train,3
+261,2310353,RCTIC,Overpass,4
+262,2310352,Epsilon,Nuke,1
+263,2310352,Epsilon,Train,3
+264,2310352,Giants,Mirage,4
+265,2310351,Nexus,Cache,3
+266,2310351,Tortues Ninja,Nuke,4
+267,2310350,Singularity,Nuke,3
+268,2310350,Singularity,Cobblestone,4
+269,2310348,KPI,Nuke,3
+270,2310348,Playing Ducks,Mirage,4
+271,2310347,G2V,Nuke,3
+272,2310347,x6tence,Cobblestone,4
+273,2310346,Outlaws,Train,3
+274,2310346,Oserv,Mirage,4
+275,2311351,Outlaws,Cobblestone,5
+276,2311351,Nexus,Mirage,6
+277,2311307,Invictus Aquilas,Overpass,5
+278,2311307,Outlaws,Cobblestone,6
+279,2311273,Nexus,Mirage,5
+280,2311273,Bpro,Inferno,6
+281,2311194,HoP,Cobblestone,5
+282,2311194,Invictus Aquilas,Cache,6
+283,2311147,Nexus,Mirage,5
+284,2311147,RESISTANCE,Cobblestone,6
+285,2310954,Nexus,Mirage,5
+286,2310954,Outlaws,Train,6
+287,2311056,Binary Dragons,Inferno,5
+288,2311056,HoP,Cache,6
+289,2311051,Squared,Cobblestone,5
+290,2311051,Outlaws,Mirage,6
+291,2311054,Bpro,Cache,5
+292,2311054,Imperial,Inferno,6
+293,2311053,Shanghai Emperors,Inferno,5
+294,2311053,Sensei,Mirage,6
+295,2311052,TTFU,Cobblestone,5
+296,2311052,Invictus Aquilas,Nuke,6
+297,2311055,Netland,Mirage,5
+298,2311055,RESISTANCE,Cache,6
+299,2311049,RESISTANCE,Cobblestone,5
+300,2311049,Sensei,Inferno,6
+301,2310580,Invictus Aquilas,Inferno,3
+302,2310580,Netland,Cache,4
+303,2310989,Bpro,Cobblestone,5
+304,2310989,Sensei,Train,6
+305,2310828,Netland,Mirage,5
+306,2310828,Sensei,Inferno,6
+307,2310979,Invictus Aquilas,Overpass,5
+308,2310979,Imperial,Mirage,6
+309,2310980,Nexus,Mirage,5
+310,2310980,Squared,Cobblestone,6
+311,2310956,Netland,Mirage,5
+312,2310956,Shanghai Emperors,Cache,6
+313,2310955,TTFU,Inferno,5
+314,2310955,Imperial,Train,6
+315,2310826,Vatos Locos,Cobblestone,3
+316,2310826,HoP,Nuke,4
+317,2310880,TTFU,Train,5
+318,2310880,Sensei,Inferno,6
+319,2310829,TTFU,Train,5
+320,2310829,Bpro,Cobblestone,6
+321,2310827,RESISTANCE,Cache,5
+322,2310827,Shanghai Emperors,Mirage,6
+323,2310824,Invictus Aquilas,Cache,5
+324,2310824,Sensei,Inferno,6
+325,2310825,Binary Dragons,Inferno,5
+326,2310825,Budapest Corvini,Cache,6
+327,2310800,Invictus Aquilas,Inferno,5
+328,2310800,Bpro,Cobblestone,6
+329,2310772,Nexus,Mirage,5
+330,2310772,Granted,Inferno,6
+331,2310699,Nexus,Cache,5
+332,2310699,Binary Dragons,Mirage,6
+333,2310698,Bpro,Cache,5
+334,2310698,Netland,Mirage,6
+335,2310696,Imperial,Overpass,5
+336,2310696,RESISTANCE,Cobblestone,6
+337,2310750,Squared,Inferno,5
+338,2310750,Binary Dragons,Mirage,6
+339,2310694,Outlaws,Train,5
+340,2310694,Granted,Inferno,6
+341,2310697,Invictus Aquilas,Overpass,5
+342,2310697,Shanghai Emperors,Mirage,6
+343,2310584,Imperial,Inferno,5
+344,2310584,Netland,Cache,6
+345,2310582,Outlaws,Train,5
+346,2310582,Binary Dragons,Inferno,6
+347,2310581,TTFU,Cobblestone,5
+348,2310581,RESISTANCE,Mirage,6
+349,2310579,Imperial,Inferno,5
+350,2310579,Sensei,Cache,6
+351,2310577,Squared,Inferno,5
+352,2310577,HoP,Cobblestone,6
+353,2310578,Bpro,Cache,5
+354,2310578,Shanghai Emperors,Mirage,6
+355,2310576,Outlaws,Train,5
+356,2310576,HoP,Cobblestone,6
+357,2310575,Invictus Aquilas,Cobblestone,5
+358,2310575,RESISTANCE,Overpass,6
+359,2310458,TTFU,Cobblestone,5
+360,2310458,Shanghai Emperors,Inferno,6
+361,2310456,Nexus,Cobblestone,5
+362,2310456,HoP,Train,6
+363,2310457,Bpro,Cache,5
+364,2310457,RESISTANCE,Cobblestone,6
+365,2310455,Squared,Inferno,5
+366,2310455,Granted,Train,6
+367,2310361,Netland,Train,5
+368,2310361,TTFU,Mirage,6
+369,2310358,Squared,Inferno,5
+370,2310358,Budapest Corvini,Cobblestone,6
+371,2310362,Imperial,Inferno,5
+372,2310362,Shanghai Emperors,Cache,6
+373,2310359,Zero Respect,Mirage,5
+374,2310359,Granted,Inferno,6
+375,2311333,eXtatus,Nuke,3
+376,2311333,North Academy,Cache,4
+377,2311311,KPI,Train,3
+378,2311311,eXtatus,Inferno,4
+379,2311296,Alpha,Overpass,3
+380,2311296,North Academy,Cache,4
+381,2311133,Binary Dragons,Nuke,3
+382,2311133,Alpha,Cobblestone,4
+383,2311132,Singularity,Nuke,3
+384,2311132,North Academy,Cache,4
+385,2311131,Tengri,Mirage,3
+386,2311131,KPI,Train,4
+387,2311130,Outlaws,Mirage,3
+388,2311130,eXtatus,Inferno,4
+389,2310821,Alpha,Cobblestone,5
+390,2310821,Outlaws,Overpass,6
+391,2310516,KPI,Train,3
+392,2310516,Singularity,Overpass,4
+393,2310819,ALTERNATE aTTaX,Train,5
+394,2310819,eXtatus,Cobblestone,6
+395,2310515,iGame.com,Mirage,5
+396,2310515,Alpha,Inferno,6
+397,2310818,Tengri,Overpass,5
+398,2310818,North Academy,Train,6
+399,2310514,EPG,Inferno,5
+400,2310514,Outlaws,Cobblestone,6
+401,2310513,Alpha,Cobblestone,5
+402,2310513,EPG,Cache,6
+403,2310512,Binary Dragons,Mirage,5
+404,2310512,eXtatus,Cache,6
+405,2310509,Sensei,Mirage,5
+406,2310509,Tengri,Cobblestone,6
+407,2310429,iGame.com,Mirage,6
+408,2310222,iGame.com,Nuke,5
+409,2310222,EPG,Mirage,6
+410,2310221,KPI,Nuke,5
+411,2310221,Defusekids,Train,6
+412,2310219,Sensei,Inferno,5
+413,2310219,North Academy,Cobblestone,6
+414,2310218,Tricked,Cobblestone,5
+415,2310218,Tengri,Overpass,6
+416,2310217,Singularity,Mirage,5
+417,2310217,Red Reserve,Cobblestone,6
+418,2310215,Space Academy,Cache,5
+419,2310215,eXtatus,Mirage,6
+420,2310214,Binary Dragons,Inferno,5
+421,2310214,ALTERNATE aTTaX,Cobblestone,6
+422,2310121,Defusekids,Cobblestone,5
+423,2310121,Red Reserve,Train,6
+424,2311193,TYLOO,Mirage,3
+425,2311193,Renegades,Cache,4
+426,2311193,TYLOO,Cobblestone,6
+427,2311192,TYLOO,Mirage,3
+428,2311192,Immunity,Overpass,4
+429,2311192,TYLOO,Inferno,6
+430,2311191,TYLOO,Mirage,3
+431,2311191,Flash,Train,4
+432,2311191,TYLOO,Cobblestone,6
+433,2311190,Immunity,Train,3
+434,2311190,Renegades,Nuke,4
+435,2311190,Immunity,Mirage,6
+436,2311189,Flash,Inferno,3
+437,2311189,Immunity,Overpass,4
+438,2311189,Flash,Train,6
+439,2311188,TYLOO,Mirage,3
+440,2311188,Renegades,Cache,4
+441,2311188,TYLOO,Overpass,6
+442,2311187,TheMongolz,Inferno,3
+443,2311187,Immunity,Overpass,4
+444,2311187,TheMongolz,Cobblestone,6
+445,2311186,TheMongolz,Train,3
+446,2311186,7642,Inferno,4
+447,2311186,TheMongolz,Mirage,6
+448,2311184,Signature,Mirage,3
+449,2311184,Renegades,Nuke,4
+450,2311184,Signature,Overpass,6
+451,2311183,Spotnet,Cobblestone,3
+452,2311183,Signature,Mirage,4
+453,2311183,Spotnet,Overpass,6
+454,2311271,G2,Cache,3
+455,2311271,North,Cobblestone,4
+456,2311271,G2,Overpass,5
+457,2311271,North,Inferno,6
+458,2311270,Liquid,Nuke,3
+459,2311270,North,Mirage,4
+460,2311269,SK,Cache,3
+461,2311269,G2,Overpass,4
+462,2311268,Liquid,Cobblestone,3
+463,2311268,Envy,Train,4
+464,2311267,SK,Mirage,3
+465,2311267,mousesports,Cache,4
+466,2311209,Keyd Stars,Inferno,3
+467,2311209,TeamOne,Train,4
+468,2311143,TShow,Cache,3
+469,2311143,TeamOne,Train,4
+470,2311142,Black Dragons,Cobblestone,3
+471,2311142,Keyd Stars,Cache,4
+472,2311117,Black Dragons,Cobblestone,3
+473,2311117,hookahlike,Train,4
+474,2311120,TShow,Cache,3
+475,2311120,Merciless,Cobblestone,4
+476,2311118,Keyd Stars,Cache,3
+477,2311118,Glacon,Mirage,4
+478,2311119,TeamOne,Train,3
+479,2311119,ProGaming,Cache,4
+480,2311266,TYLOO,Mirage,3
+481,2311266,Eclipse,Train,4
+482,2311244,TYLOO,Mirage,3
+483,2311244,Eclipse,Train,4
+484,2311210,New4,Nuke,3
+485,2311210,T.O.T,Inferno,4
+486,2311201,Eclipse,Nuke,3
+487,2311201,New4,Train,4
+488,2311200,TYLOO,Mirage,3
+489,2311200,T.O.T,Inferno,4
+490,2311141,Space Soldiers,Cobblestone,3
+491,2311141,Red Reserve,Mirage,4
+492,2311140,Kinguin,Train,3
+493,2311140,Red Reserve,Cobblestone,4
+494,2311139,Space Soldiers,Cache,3
+495,2311139,Gatekeepers,Mirage,4
+496,2311138,fnatic Academy,Cobblestone,3
+497,2311138,Red Reserve,Mirage,4
+498,2311137,Outlaws,Overpass,3
+499,2311137,Kinguin,Train,4
+500,2311136,Space Soldiers,Cache,3
+501,2311136,Imperial,Overpass,4
+502,2311135,PENTA,Train,3
+503,2311135,Gatekeepers,Mirage,4
+504,2311205,7642,Overpass,3
+505,2311205,ViCi,Mirage,4
+506,2311204,Recca,Cobblestone,3
+507,2311204,UYA,Cache,4
+508,2311203,Recca,Cobblestone,3
+509,2311203,ViCi,Mirage,4
+510,2311202,7642,Train,3
+511,2311202,Recca,Mirage,4
+512,2311161,ViCi,Nuke,3
+513,2311161,UYA,Mirage,4
+514,2311160,7642,Inferno,3
+515,2311160,UYA,Cache,4
+516,2311148,fnatic Academy,Cobblestone,3
+517,2311148,Red Reserve,Train,4
+518,2311032,Kungar,Inferno,3
+519,2311032,fnatic Academy,Mirage,4
+520,2311031,Zoctai,Overpass,3
+521,2311031,Red Reserve,Mirage,4
+522,2311125,North Academy,Train,3
+523,2311125,ajukreizi,Cobblestone,4
+524,2311029,heliumsgrabbar,Mirage,3
+525,2311029,ajukreizi,Cobblestone,4
+526,2311030,iGame.com,Nuke,3
+527,2311030,North Academy,Train,4
+528,2310977,Outlaws,Train,3
+529,2310977,Singularity,Mirage,4
+530,2310978,Red Reserve,Cobblestone,3
+531,2310978,PENTA,Train,4
+532,2310823,PENTA,Train,3
+533,2310823,Outlaws,Mirage,4
+534,2310822,Singularity,Nuke,3
+535,2310822,passions,Cobblestone,4
+536,2310625,Singularity,Nuke,3
+537,2310625,Tricked,Inferno,4
+538,2310624,Outlaws,Mirage,3
+539,2310624,Tricked,Overpass,4
+540,2310623,LDLC,Cache,3
+541,2310623,Kinguin,Train,4
+542,2310622,Tricked,Cobblestone,3
+543,2310622,Epsilon,Mirage,4
+544,2310621,Epsilon,Inferno,3
+545,2310621,Singularity,Overpass,4
+546,2310620,Outlaws,Overpass,3
+547,2310620,Epsilon,Inferno,4
+548,2310431,passions,Overpass,3
+549,2310431,PENTA,Inferno,4
+550,2310432,Singularity,Mirage,3
+551,2310432,Outlaws,Cobblestone,4
+552,2310275,PENTA,Cache,3
+553,2310275,Kinguin,Train,4
+554,2310263,PENTA,Train,3
+555,2310263,LDLC,Cobblestone,4
+556,2310274,passions,Cobblestone,3
+557,2310274,LDLC,Nuke,4
+558,2310262,passions,Mirage,3
+559,2310262,Kinguin,Train,4
+560,2311048,Team123,Train,3
+561,2311048,Singularity,Nuke,4
+562,2311035,Team123,Nuke,3
+563,2311035,Red Reserve,Cobblestone,4
+564,2311033,PRIDE,Cache,3
+565,2311033,Singularity,Nuke,4
+566,2311010,GreyFace,Mirage,3
+567,2311010,Red Reserve,Overpass,4
+568,2311009,PRIDE,Nuke,3
+569,2311009,Epsilon,Cache,4
+570,2311011,Team123,Cobblestone,3
+571,2311011,North Academy,Mirage,4
+572,2311008,ajukreizi,Mirage,3
+573,2311008,Singularity,Overpass,4
+574,2311023,Renegades,Cobblestone,3
+575,2311023,CLG,Mirage,4
+576,2311021,Luminosity,Overpass,3
+577,2311021,CLG,Mirage,4
+578,2311022,ownage,Mirage,3
+579,2311022,Renegades,Cobblestone,4
+580,2311020,ownage,Train,3
+581,2311020,Misfits,Overpass,4
+582,2311018,NRG,Cobblestone,3
+583,2311018,Luminosity,Overpass,4
+584,2311019,compLexity,Train,3
+585,2311019,Renegades,Mirage,4
+586,2311017,mouseSpaz,Train,3
+587,2311017,CLG,Mirage,4
+588,2311034,Space Soldiers,Cobblestone,3
+589,2311034,GODSENT,Mirage,4
+590,2311026,Dignitas,Inferno,3
+591,2311026,Heroic,Nuke,4
+592,2310992,Tundra,Mirage,3
+593,2310992,GODSENT,Cache,4
+594,2310993,Space Soldiers,Cache,3
+595,2310993,Envy,Train,4
+596,2310990,BIG,Cobblestone,3
+597,2310990,Heroic,Mirage,4
+598,2310991,Dignitas,Mirage,3
+599,2310991,Tricked,Train,4
+600,2310985,Polaris,Mirage,3
+601,2310985,Kinguin,Train,4
+602,2310983,BIG,Cache,3
+603,2310983,FlipSid3,Overpass,4
+604,2310986,Space Soldiers,Cobblestone,3
+605,2310986,Outlaws,Train,4
+606,2310984,K29,Overpass,3
+607,2310984,Dignitas,Mirage,4
+608,2310976,Liquid,Cobblestone,3
+609,2310976,CLG,Inferno,4
+610,2310975,Misfits,Overpass,3
+611,2310975,Liquid,Cobblestone,4
+612,2310974,Renegades,Mirage,3
+613,2310974,CLG,Overpass,4
+614,2310973,Misfits,Mirage,3
+615,2310973,Splyce,Train,4
+616,2310972,Renegades,Nuke,3
+617,2310972,compLexity,Cache,4
+618,2310895,TYLOO,Mirage,3
+619,2310895,ViCi,Train,4
+620,2310896,New4,Nuke,3
+621,2310896,EMP,Cache,4
+622,2310894,Eclipse,Train,3
+623,2310894,BOOT,Mirage,4
+624,2310966,LOG,Cobblestone,3
+625,2310966,pro100,Mirage,4
+626,2310965,teamasd,Mirage,3
+627,2310965,K29,Overpass,4
+628,2310964,Vega Squadron,Train,3
+629,2310964,NOVA,Mirage,4
+630,2310890,EPG,Mirage,3
+631,2310890,Quantum Bellator Fire,Inferno,4
+632,2310891,LOG,Inferno,3
+633,2310891,zARLANS,Cache,4
+634,2310877,K29,Train,3
+635,2310877,Spirit,Cobblestone,4
+636,2310889,NOVA,Overpass,3
+637,2310889,spray'n'pray,Train,4
+638,2310887,pro100,Inferno,3
+639,2310887,Tengri,Mirage,4
+640,2310886,Spirit Academy,Overpass,3
+641,2310886,Evolution,Mirage,4
+642,2310878,Spartak,Train,3
+643,2310878,Vega Squadron,Overpass,4
+644,2310856,Tengri,Mirage,3
+645,2310856,LOG,Train,4
+646,2310855,EPG,Inferno,3
+647,2310855,Spirit Academy,Train,4
+648,2310854,Evolution,Mirage,3
+649,2310854,Quantum Bellator Fire,Train,4
+650,2310857,pro100,Mirage,3
+651,2310857,zARLANS,Cache,4
+652,2310851,Hala Ares,Inferno,3
+653,2310851,K29,Nuke,4
+654,2310853,spray'n'pray,Nuke,3
+655,2310853,Spartak,Train,4
+656,2310852,NOVA,Mirage,3
+657,2310852,Vega Squadron,Cache,4
+658,2310957,eXtatus,Inferno,3
+659,2310957,Nexus,Cache,4
+660,2310899,Forcebuy,Overpass,3
+661,2310899,Nexus,Mirage,4
+662,2310898,eXtatus,Inferno,3
+663,2310898,Binary Dragons,Nuke,4
+664,2310870,Binary Dragons,Inferno,3
+665,2310870,ex-Manatee,Cobblestone,4
+666,2310869,eXtatus,Inferno,3
+667,2310869,Bpro,Cobblestone,4
+668,2310792,Budapest Corvini,Inferno,3
+669,2310792,Nexus,Cache,4
+670,2310789,Impossible,Mirage,3
+671,2310789,Binary Dragons,Nuke,4
+672,2310790,eXtatus,Cobblestone,3
+673,2310790,Fury,Inferno,4
+674,2310627,Fury,Mirage,3
+675,2310627,Netland,Overpass,4
+676,2310626,eXtatus,Cobblestone,3
+677,2310626,ex-Manatee,Mirage,4
+678,2310588,Sensei,Mirage,3
+679,2310588,Binary Dragons,Inferno,4
+680,2310587,Bpro,Cache,3
+681,2310587,Impossible,Mirage,4
+682,2310597,Fury,Inferno,3
+683,2310597,ex-Manatee,Mirage,4
+684,2310586,eXtatus,Overpass,3
+685,2310586,Netland,Mirage,4
+686,2310281,Bpro,Cobblestone,3
+687,2310281,Sensei,Mirage,4
+688,2310280,Binary Dragons,Cache,3
+689,2310280,Impossible,Mirage,4
+690,2310279,Squared,Inferno,3
+691,2310279,Budapest Corvini,Mirage,4
+692,2310278,Outlaws,Overpass,3
+693,2310278,ex-DarkPassage,Mirage,4
+694,2310277,TTFU,Train,3
+695,2310277,Forcebuy,Nuke,4
+696,2310087,Outlaws,Cobblestone,3
+697,2310087,Budapest Corvini,Mirage,4
+698,2310086,ex-DarkPassage,Mirage,3
+699,2310086,Squared,Cobblestone,4
+700,2310085,Above the Rest,Train,3
+701,2310085,Nexus,Mirage,4
+702,2310085,Nexus,Cobblestone,6
+703,2310084,Red Reserve,Nuke,3
+704,2310084,Forcebuy,Train,4
+705,2310834,Ghost,Train,3
+706,2310834,Rush,Overpass,4
+707,2310833,Enigma6,Mirage,3
+708,2310833,Rush,Cobblestone,4
+709,2310832,Ghost,Train,3
+710,2310832,The Foundation,Mirage,4
+711,2310831,Enigma6,Mirage,3
+712,2310831,The Foundation,Cobblestone,4
+713,2310830,Ghost,Inferno,3
+714,2310830,Rush,Mirage,4
+715,2310900,PENTA,Inferno,3
+716,2310900,BIG,Cobblestone,4
+717,2310884,BIG,Cobblestone,3
+718,2310884,HellRaisers,Overpass,4
+719,2310885,PENTA,Inferno,3
+720,2310885,Virtus.pro,Train,4
+721,2310788,BIG,Inferno,3
+722,2310788,Virtus.pro,Cobblestone,4
+723,2310787,PENTA,Train,3
+724,2310787,HellRaisers,Overpass,4
+725,2310783,unLucky,Mirage,3
+726,2310783,Impossible,Train,4
+727,2310648,spray'n'pray,Nuke,3
+728,2310648,Impossible,Train,4
+729,2310647,unLucky,Mirage,3
+730,2310647,TTFU,Train,4
+731,2310799,SK,Cobblestone,3
+732,2310799,Cloud9,Train,4
+733,2310774,CLG,Train,3
+734,2310774,Cloud9,Inferno,4
+735,2310773,SK,Mirage,3
+736,2310773,Immortals,Inferno,4
+737,2310693,NRG,Cobblestone,3
+738,2310693,Cloud9,Train,4
+739,2310692,Luminosity,Cache,3
+740,2310692,SK,Mirage,4
+741,2310691,Immortals,Inferno,3
+742,2310691,Liquid,Cobblestone,4
+743,2310689,BIG,Cache,3
+744,2310689,PENTA,Inferno,4
+745,2310688,GODSENT,Cache,3
+746,2310688,BIG,Overpass,4
+747,2310687,Splyce,Overpass,3
+748,2310687,PENTA,Inferno,4
+749,2310749,ViCi,Cobblestone,3
+750,2310749,Flash,Cache,4
+751,2310681,ViCi,Nuke,3
+752,2310681,New4,Cache,4
+753,2310682,EHOME,Inferno,3
+754,2310682,Flash,Mirage,4
+755,2310636,passions,Overpass,3
+756,2310636,ALTERNATE aTTaX,Cobblestone,4
+757,2310635,Dignitas,Mirage,3
+758,2310635,WASD,Train,4
+759,2310612,passions,Cobblestone,3
+760,2310612,MAXISAUCISSE,Nuke,4
+761,2310618,WASD,Inferno,3
+762,2310618,Outlaws,Overpass,4
+763,2310613,EnVyUs Academy,Cobblestone,3
+764,2310613,ALTERNATE aTTaX,Cache,4
+765,2310611,ESG!,Overpass,3
+766,2310611,Dignitas,Cache,4
+767,2310599,New4,Train,5
+768,2310599,TYLOO,Mirage,6
+769,2310506,New4,Inferno,5
+770,2310506,TYLOO,Cache,6
+771,2310505,HegemonyPerson,Train,5
+772,2310505,TYLOO,Mirage,6
+773,2310504,FIVE,Cache,5
+774,2310504,TYLOO,Mirage,6
+775,2310478,TYLOO,Cobblestone,5
+776,2310478,ZDM,Cache,6
+777,2310477,HegemonyPerson,Cache,5
+778,2310477,LGD,Mirage,6
+779,2310428,FIVE,Train,5
+780,2310428,LGD,Cache,6
+781,2310387,UYA,Cache,5
+782,2310387,New4,Inferno,6
+783,2310322,Born Of Fire,Train,5
+784,2310322,TYLOO,Mirage,6
+785,2310237,UYA,Cobblestone,5
+786,2310237,TYLOO,Mirage,6
+787,2310236,TYLOO,Mirage,5
+788,2310236,ViCi,Cobblestone,6
+789,2310235,HegemonyPerson,Inferno,5
+790,2310235,ZDM,Cache,6
+791,2310160,Born Of Fire,Nuke,5
+792,2310160,ViCi,Train,6
+793,2310159,UYA,Mirage,5
+794,2310159,ViCi,Train,6
+795,2310158,ZDM,Mirage,6
+796,2310137,HegemonyPerson,Nuke,5
+797,2310137,ViCi,Train,6
+798,2310080,UYA,Inferno,5
+799,2310080,Born Of Fire,Nuke,6
+800,2310020,Born Of Fire,Nuke,5
+801,2310020,HegemonyPerson,Mirage,6
+802,2310018,UYA,Mirage,5
+803,2310018,Born Of Fire,Train,6
+804,2310000,Born Of Fire,Cobblestone,5
+805,2310000,ViCi,Train,6
+806,2309999,FIVE,Train,5
+807,2309999,ViCi,Mirage,6
+808,2309998,Born Of Fire,Nuke,5
+809,2309998,LGD,Mirage,6
+810,2309970,EMP,Train,5
+811,2309970,HegemonyPerson,Cache,6
+812,2309969,FIVE,Cache,5
+813,2309969,HegemonyPerson,Train,6
+814,2309968,FIVE,Mirage,5
+815,2309968,ViCi,Train,6
+816,2309935,LGD,Cobblestone,5
+817,2309935,ViCi,Mirage,6
+818,2309934,Born Of Fire,Train,5
+819,2309934,FIVE,Overpass,6
+820,2309933,EMP,Mirage,5
+821,2309933,FIVE,Cache,6
+822,2309921,FIVE,Cache,5
+823,2309921,LGD,Cobblestone,6
+824,2309920,EMP,Cobblestone,5
+825,2309920,TYLOO,Mirage,6
+826,2309906,HegemonyPerson,Mirage,5
+827,2309906,ViCi,Train,6
+828,2309905,New4,Overpass,5
+829,2309905,ViCi,Train,6
+830,2309904,EMP,Cobblestone,5
+831,2309904,ViCi,Mirage,6
+832,2309872,Born Of Fire,Mirage,5
+833,2309872,EMP,Inferno,6
+834,2309871,Born Of Fire,Train,5
+835,2309871,ZDM,Cobblestone,6
+836,2309870,LGD,Mirage,5
+837,2309870,ViCi,Cobblestone,6
+838,2309848,New4,Mirage,5
+839,2309848,ViCi,Train,6
+840,2309847,EMP,Cobblestone,5
+841,2309847,ViCi,Cache,6
+842,2309846,UYA,Cache,5
+843,2309846,FIVE,Train,6
+844,2309815,UYA,Cache,5
+845,2309815,HegemonyPerson,Inferno,6
+846,2309799,ViCi,Cobblestone,5
+847,2309799,ZDM,Cache,6
+848,2309798,TYLOO,Mirage,5
+849,2309798,ViCi,Cobblestone,6
+850,2309769,LGD,Cache,5
+851,2309769,TYLOO,Mirage,6
+852,2309768,HegemonyPerson,Inferno,5
+853,2309768,New4,Train,6
+854,2309767,FIVE,Cache,5
+855,2309767,HegemonyPerson,Mirage,6
+856,2309722,EMP,Cobblestone,5
+857,2309722,TYLOO,Cache,6
+858,2309721,Born Of Fire,Inferno,5
+859,2309721,LGD,Mirage,6
+860,2309720,UYA,Cache,5
+861,2309720,EMP,Cobblestone,6
+862,2309553,LGD,Cobblestone,5
+863,2309553,ZDM,Cache,6
+864,2309552,FIVE,Mirage,5
+865,2309552,EMP,Cobblestone,6
+866,2309551,New4,Overpass,5
+867,2309551,ZDM,Inferno,6
+868,2309504,LGD,Train,5
+869,2309504,New4,Nuke,6
+870,2309502,Born Of Fire,Cobblestone,5
+871,2309502,FIVE,Train,6
+872,2309482,Born Of Fire,Mirage,5
+873,2309482,EMP,Cobblestone,6
+874,2309481,EMP,Inferno,5
+875,2309481,New4,Mirage,6
+876,2310301,HellRaisers,Cache,3
+877,2310301,G2,Cobblestone,4
+878,2310299,G2,Overpass,3
+879,2310299,mousesports,Cache,4
+880,2310300,Misfits,Cobblestone,3
+881,2310300,HellRaisers,Cache,4
+882,2310298,G2,Cobblestone,3
+883,2310298,Tricked,Train,4
+884,2310297,Misfits,Cobblestone,3
+885,2310297,Natus Vincere,Train,4
+886,2310296,Envy,Inferno,3
+887,2310296,G2,Cobblestone,4
+888,2310295,Misfits,Mirage,3
+889,2310295,Heroic,Nuke,4
+890,2310479,ACG,Overpass,4
+891,2310479,Quantum Bellator Fire,Mirage,5
+892,2310479,ACG,Inferno,6
+893,2310008,Quantum Bellator Fire,Train,3
+894,2310008,Spartak,Mirage,4
+895,2310142,ACG,Inferno,3
+896,2310142,1337,Train,4
+897,2310049,ACG,Inferno,3
+898,2310049,eSuba,Overpass,4
+899,2309932,ACG,Mirage,3
+900,2309932,Spartak,Train,4
+901,2309877,1337,Train,3
+902,2309877,Quantum Bellator Fire,Inferno,4
+903,2309849,OVERDRIVE,Overpass,3
+904,2309849,GameplayDNA,Cobblestone,4
+905,2309779,eSuba,Mirage,3
+906,2309779,spray'n'pray,Overpass,4
+907,2309471,GameplayDNA,Cobblestone,3
+908,2309471,RuSh3D,Mirage,4
+909,2309456,Quantum Bellator Fire,Inferno,3
+910,2309456,spray'n'pray,Train,4
+911,2309455,OVERDRIVE,Inferno,3
+912,2309455,ACG,Mirage,4
+913,2309454,1337,Train,3
+914,2309454,eSuba,Mirage,4
+915,2310476,Space Soldiers,Cache,3
+916,2310476,k1ck,Mirage,4
+917,2310448,Space Soldiers,Train,3
+918,2310448,Exotic Island,Inferno,4
+919,2310383,Immortals,Cobblestone,3
+920,2310383,Luminosity,Train,4
+921,2310496,Monstars,Train,3
+922,2310496,TOP GUN,Overpass,4
+923,2310382,Luminosity,Train,3
+924,2310382,Monstars,Mirage,4
+925,2310381,TOP GUN,Inferno,3
+926,2310381,Immortals,Mirage,4
+927,2310380,TOP GUN,Inferno,3
+928,2310380,Swole Patrol,Cache,4
+929,2310379,Monstars,Train,3
+930,2310379,Denial,Inferno,4
+931,2310378,TOP GUN,Inferno,3
+932,2310378,SoCal Stars,Cache,4
+933,2310377,Denial,Inferno,3
+934,2310377,Banishers,Train,4
+935,2310246,FaZe,Train,3
+936,2310246,SK,Cache,4
+937,2310246,FaZe,Inferno,5
+938,2310246,SK,Overpass,6
+939,2310248,Astralis,Cobblestone,3
+940,2310248,FaZe,Nuke,4
+941,2310247,OpTic,Train,3
+942,2310247,SK,Overpass,4
+943,2310444,ALTERNATE aTTaX,Cache,5
+944,2310444,BIG,Train,6
+945,2310439,PANTHERS,Mirage,5
+946,2310439,BIG,Cobblestone,6
+947,2310438,ALTERNATE aTTaX,Cache,5
+948,2310438,Planetkey,Nuke,6
+949,2310435,roki,Mirage,3
+950,2310435,Tricked,Nuke,4
+951,2310430,fnatic Academy,Cobblestone,3
+952,2310430,passions,Mirage,4
+953,2310412,Tricked,Train,3
+954,2310412,KPI,Nuke,4
+955,2310410,fnatic Academy,Cobblestone,3
+956,2310410,Binary Dragons,Nuke,4
+957,2310411,roki,Mirage,3
+958,2310411,ConfigStarz,Inferno,4
+959,2310409,passions,Overpass,3
+960,2310409,WySix,Train,4
+961,2310369,TeamOne,Train,3
+962,2310369,paiN,Overpass,4
+963,2310321,ProGaming,Cache,3
+964,2310321,TeamOne,Train,4
+965,2310320,INTZ,Mirage,3
+966,2310320,paiN,Cache,4
+967,2310260,EPG,Nuke,3
+968,2310260,eL'quvet,Mirage,4
+969,2310261,Quantum Bellator Fire,Mirage,3
+970,2310261,ACG,Overpass,4
+971,2309911,EPG,Cobblestone,3
+972,2309911,ACG,Inferno,4
+973,2309882,Quantum Bellator Fire,Train,3
+974,2309882,eL'quvet,Mirage,4
+975,2310233,Sippintea,Train,3
+976,2310233,compLexity,Cobblestone,4
+977,2310205,Immunity,Mirage,3
+978,2310205,Chiefs,Inferno,4
+979,2310204,Tainted Minds,Cobblestone,3
+980,2310204,Chiefs,Inferno,4
+981,2310203,Immunity,Nuke,3
+982,2310203,Legacy,Inferno,4
+983,2310116,Gambit,Train,3
+984,2310116,Immortals,Inferno,4
+985,2310115,G2,Nuke,3
+986,2310115,Gambit,Train,4
+987,2310114,Heroic,Overpass,3
+988,2310114,Immortals,Inferno,4
+989,2310113,G2,Cobblestone,3
+990,2310113,Cloud9,Inferno,4
+991,2310112,Heroic,Nuke,3
+992,2310112,HellRaisers,Inferno,4
+993,2310111,Liquid,Cobblestone,3
+994,2310111,G2,Train,4
+995,2310110,Luminosity,Mirage,3
+996,2310110,Heroic,Nuke,4
+997,2310209,Tricked,Cobblestone,3
+998,2310209,PENTA,Mirage,4
+999,2310208,North Academy,Train,3
+1000,2310208,GameplayDNA,Cobblestone,4
+1001,2310183,Tricked,Cobblestone,3
+1002,2310183,MAXISAUCISSE,Inferno,4
+1003,2310185,North Academy,Nuke,3
+1004,2310185,Dignitas,Mirage,4
+1005,2310186,GameplayDNA,Cache,3
+1006,2310186,yzn,Mirage,4
+1007,2310234,Merciless,Train,3
+1008,2310234,paiN,Overpass,4
+1009,2310207,EN9MY,Inferno,3
+1010,2310207,paiN,Overpass,4
+1011,2310206,INTZ,Cobblestone,3
+1012,2310206,Merciless,Train,4
+1013,2310162,Born Of Fire,Cache,3
+1014,2310162,MVP PK,Mirage,4
+1015,2310161,MVP Project,Inferno,3
+1016,2310161,TYLOO,Mirage,4
+1017,2310145,MVP Project,Cache,3
+1018,2310145,MVP PK,Inferno,4
+1019,2310144,TYLOO,Cobblestone,3
+1020,2310144,Born Of Fire,Train,4
+1021,2310141,GameplayDNA,Cobblestone,3
+1022,2310141,Outlaws,Train,4
+1023,2310140,passions,Mirage,3
+1024,2310140,EPG,Nuke,4
+1025,2310058,EPG,Cobblestone,3
+1026,2310058,Alpha,Inferno,4
+1027,2310057,Bpro,Nuke,3
+1028,2310057,Outlaws,Train,4
+1029,2310051,passions,Mirage,3
+1030,2310051,North Academy,Train,4
+1031,2310050,GameplayDNA,Cobblestone,3
+1032,2310050,Manatee,Cache,4
+1033,2309989,ownage,Mirage,3
+1034,2309989,Splyce,Train,4
+1035,2310011,zzz,Cache,5
+1036,2310011,Outlaws,Overpass,6
+1037,2309996,MVP Project,Inferno,3
+1038,2309996,TheMongolz,Mirage,4
+1039,2309965,YETTI,Cobblestone,3
+1040,2309965,TheMongolz,Overpass,4
+1041,2309964,MVP Project,Nuke,3
+1042,2309964,MVP PK,Cobblestone,4
+1043,2309866,Gambit,Inferno,3
+1044,2309866,SK,Cache,4
+1045,2309866,Gambit,Train,5
+1046,2309866,SK,Cobblestone,6
+1047,2309865,Gambit,Inferno,3
+1048,2309865,OpTic,Mirage,4
+1049,2309861,OpTic,Cache,3
+1050,2309861,Cloud9,Cobblestone,4
+1051,2309862,Gambit,Cobblestone,3
+1052,2309862,SK,Cache,4
+1053,2309859,Liquid,Nuke,3
+1054,2309859,OpTic,Train,4
+1055,2309860,Cloud9,Inferno,3
+1056,2309860,NiP,Cache,4
+1057,2309864,Gambit,Train,3
+1058,2309864,Liquid,Nuke,4
+1059,2309863,Cloud9,Inferno,3
+1060,2309863,SK,Train,4
+1061,2309858,GODSENT,Train,3
+1062,2309858,NiP,Cache,4
+1063,2309857,OpTic,Mirage,3
+1064,2309857,Envy,Train,4
+1065,2309856,NiP,Nuke,3
+1066,2309856,Liquid,Inferno,4
+1067,2309855,Cloud9,Cobblestone,3
+1068,2309855,OpTic,Mirage,4
+1069,2309854,GODSENT,Cache,3
+1070,2309854,Gambit,Cobblestone,4
+1071,2308661,JYP,Nuke,2
+1072,2308657,MVP PK,Cobblestone,2
+1073,2308660,Recca,Cobblestone,2
+1074,2308656,TheMongolz,Train,2
+1075,2308655,Dark Sided,Mirage,2
+1076,2308659,Chiefs,Train,2
+1077,2308654,Immunity,Overpass,2
+1078,2308658,Tainted Minds,Mirage,2
+1079,2308653,MVP PK,Cobblestone,2
+1080,2308652,JYP,Overpass,2
+1081,2308651,Tainted Minds,Cobblestone,2
+1082,2308650,Immunity,Mirage,2
+1083,2308649,TheMongolz,Train,2
+1084,2308648,Recca,Mirage,2
+1085,2308647,Chiefs,Train,2
+1086,2308646,Dark Sided,Mirage,2
+1087,2308643,Chiefs,Train,2
+1088,2308642,Immunity,Nuke,2
+1089,2308641,MVP PK,Inferno,2
+1090,2308640,Recca,Train,2
+1091,2308639,Tainted Minds,Cobblestone,2
+1092,2308638,Dark Sided,Inferno,2
+1093,2308637,Recca,Cobblestone,2
+1094,2308636,JYP,Train,2
+1095,2308551,Immunity,Nuke,2
+1096,2308550,Dark Sided,Mirage,2
+1097,2308549,TheMongolz,Cache,2
+1098,2308548,MVP PK,Nuke,2
+1099,2308547,Tainted Minds,Cache,2
+1100,2308546,Chiefs,Train,2
+1101,2308545,JYP,Train,2
+1102,2308544,MVP PK,Mirage,2
+1103,2308543,Dark Sided,Mirage,2
+1104,2308542,Chiefs,Inferno,2
+1105,2308541,Recca,Train,2
+1106,2308540,TheMongolz,Cache,2
+1107,2308539,Immunity,Nuke,2
+1108,2308538,Tainted Minds,Overpass,2
+1109,2308537,JYP,Inferno,2
+1110,2308536,TheMongolz,Train,2
+1111,2308535,Dark Sided,Cache,2
+1112,2308534,Tainted Minds,Overpass,2
+1113,2308533,Recca,Cobblestone,2
+1114,2308532,MVP PK,Mirage,2
+1115,2308531,Immunity,Train,2
+1116,2308530,Chiefs,Inferno,2
+1117,2309606,GODSENT,Mirage,3
+1118,2309606,BIG,Cache,4
+1119,2309611,Spirit,Mirage,3
+1120,2309611,PENTA,Inferno,4
+1121,2309538,PENTA,Inferno,3
+1122,2309538,BIG,Cache,4
+1123,2309536,Spirit,Cobblestone,3
+1124,2309536,GODSENT,Mirage,4
+1125,2309450,Gambit,Nuke,3
+1126,2309450,BIG,Cache,4
+1127,2309452,GODSENT,Mirage,3
+1128,2309452,Epsilon,Overpass,4
+1129,2309451,Space Soldiers,Mirage,3
+1130,2309451,PENTA,Inferno,4
+1131,2309795,dreamchasers,Mirage,3
+1132,2309795,Singularity,Nuke,4
+1133,2309796,Singularity,Cobblestone,3
+1134,2309796,BIG,Overpass,4
+1135,2310056,PENTA,Nuke,3
+1136,2310056,Red Reserve,Train,4
+1137,2309975,Manatee,Cache,3
+1138,2309975,Red Reserve,Cobblestone,4
+1139,2309974,Space Academy,Cache,3
+1140,2309974,PENTA,Mirage,4
+1141,2309923,Manatee,Mirage,5
+1142,2309923,Space Academy,Cache,6
+1143,2309884,PENTA,Train,5
+1144,2309884,Spartak,Mirage,6
+1145,2309883,PENTA,Mirage,5
+1146,2309883,Red Reserve,Train,6
+1147,2309623,RuSh3D,Inferno,5
+1148,2309623,ACG,Mirage,6
+1149,2309537,Gambit Academy,Inferno,5
+1150,2309537,Above the Rest,Cobblestone,6
+1151,2309515,ACG,Mirage,5
+1152,2309515,Red Reserve,Cobblestone,6
+1153,2309480,Above the Rest,Cache,5
+1154,2309480,Space Academy,Cobblestone,6
+1155,2309479,Above the Rest,Train,5
+1156,2309479,Manatee,Mirage,6
+1157,2309478,Manatee,Mirage,5
+1158,2309478,Gambit Academy,Inferno,6
+1159,2309477,Gambit Academy,Train,5
+1160,2309477,Space Academy,Cobblestone,6
+1161,2309470,PENTA,Train,5
+1162,2309470,ACG,Mirage,6
+1163,2309457,Red Reserve,Cobblestone,5
+1164,2309457,RuSh3D,Mirage,6
+1165,2309544,Dark Sided,Mirage,3
+1166,2309544,Athletico,Inferno,4
+1167,2309393,AVANT,Mirage,3
+1168,2309393,Athletico,Nuke,4
+1169,2309394,Dark Sided,Cache,3
+1170,2309394,Tainted Minds,Overpass,4
+1171,2309389,Athletico,Train,3
+1172,2309389,Chiefs,Inferno,4
+1173,2309392,Athletico Black,Inferno,3
+1174,2309392,Tainted Minds,Cache,4
+1175,2309390,AVANT,Train,3
+1176,2309390,Legacy,Nuke,4
+1177,2309391,Supremacy,Overpass,3
+1178,2309391,Dark Sided,Cache,4
+1179,2309462,ACG,Mirage,3
+1180,2309462,Sensei,Nuke,4
+1181,2309461,EPG,Cobblestone,3
+1182,2309461,ACG,Mirage,4
+1183,2309460,eFuture,Nuke,3
+1184,2309460,Sensei,Mirage,4
+1185,2309433,FaZe,Mirage,3
+1186,2309433,Astralis,Nuke,4
+1187,2309432,Natus Vincere,Overpass,3
+1188,2309432,Astralis,Nuke,4
+1189,2309431,HellRaisers,Mirage,3
+1190,2309431,FaZe,Train,4
+1191,2309430,CLG,Cache,3
+1192,2309430,Astralis,Inferno,4
+1193,2309429,Natus Vincere,Overpass,3
+1194,2309429,fnatic,Inferno,4
+1195,2309428,North,Cobblestone,3
+1196,2309428,HellRaisers,Cache,4
+1197,2309427,G2,Inferno,3
+1198,2309427,FaZe,Nuke,4
+1199,2309278,Chiefs,Nuke,3
+1200,2309278,AVANT,Mirage,4
+1201,2309277,Immunity,Overpass,3
+1202,2309277,Chiefs,Train,4
+1203,2309275,Legacy,Nuke,3
+1204,2309275,Immunity,Train,4
+1205,2309403,iGame.com,Train,3
+1206,2309403,Tricked,Overpass,4
+1207,2309384,Manatee,Mirage,3
+1208,2309384,iGame.com,Train,4
+1209,2309383,PRIDE,Mirage,3
+1210,2309383,Tricked,Overpass,4
+1211,2309379,paiN,Cache,3
+1212,2309379,TeamOne,Cobblestone,4
+1213,2309200,paiN,Cache,3
+1214,2309200,TShow,Inferno,4
+1215,2309200,paiN,Mirage,7
+1216,2309199,TeamOne,Nuke,3
+1217,2309199,Keyd Stars,Mirage,4
+1218,2309179,Black Dragons,Mirage,3
+1219,2309179,TeamOne,Cobblestone,4
+1220,2309180,Keyd Stars,Cache,3
+1221,2309180,IDM,Cobblestone,4
+1222,2309181,Isurus,Train,3
+1223,2309181,paiN,Cache,4
+1224,2309177,ProGaming,Mirage,3
+1225,2309177,TShow,Cache,4
+1226,2309388,PENTA,Train,3
+1227,2309388,Space Soldiers,Inferno,4
+1228,2309387,PRIDE,Mirage,3
+1229,2309387,PENTA,Train,4
+1230,2309386,FlipSid3,Train,3
+1231,2309386,Space Soldiers,Inferno,4
+1232,2309385,Kinguin,Mirage,3
+1233,2309385,PRIDE,Cache,4
+1234,2309244,FlipSid3,Train,3
+1235,2309244,Tricked,Overpass,4
+1236,2309243,Space Soldiers,Train,3
+1237,2309243,Epsilon,Cobblestone,4
+1238,2309242,PENTA,Mirage,3
+1239,2309242,iGame.com,Overpass,4
+1240,2309365,Kinguin,Overpass,3
+1241,2309365,Spirit,Cobblestone,4
+1242,2309364,Manatee,Cache,3
+1243,2309364,RANKS,Nuke,4
+1244,2309305,Kinguin,Overpass,3
+1245,2309305,Manatee,Cache,4
+1246,2309306,RANKS,Cache,3
+1247,2309306,Spirit,Mirage,4
+1248,2309316,fnatic Academy,Mirage,3
+1249,2309316,Manatee,Train,4
+1250,2309188,RANKS,Cache,3
+1251,2309188,LDLC,Nuke,4
+1252,2309187,Kinguin,Cobblestone,3
+1253,2309187,Spirit,Inferno,4
+1254,2309186,RANKS,Overpass,3
+1255,2309186,fnatic Academy,Cache,4
+1256,2309184,iGame.com,Train,3
+1257,2309184,Kinguin,Mirage,4
+1258,2309183,Outlaws,Overpass,3
+1259,2309183,iGame.com,Nuke,4
+1260,2309182,RANKS,Nuke,3
+1261,2309182,Manatee,Train,4
+1262,2309131,Manatee,Train,3
+1263,2309131,LDLC,Inferno,4
+1264,2309106,iGame.com,Nuke,3
+1265,2309106,Spirit,Overpass,4
+1266,2309105,Outlaws,Overpass,3
+1267,2309105,Kinguin,Cobblestone,4
+1268,2309083,LDLC,Inferno,3
+1269,2309083,fnatic Academy,Cache,4
+1270,2309361,Misfits,Mirage,3
+1271,2309361,NRG,Cache,4
+1272,2309351,Luminosity,Overpass,3
+1273,2309351,Misfits,Cache,4
+1274,2309352,eUnited,Overpass,3
+1275,2309352,NRG,Inferno,4
+1276,2309332,compLexity,Cache,3
+1277,2309332,eUnited,Overpass,4
+1278,2309334,Bee's Money Crew,Nuke,3
+1279,2309334,Misfits,Mirage,4
+1280,2309333,Rush,Overpass,3
+1281,2309333,Luminosity,Nuke,4
+1282,2309331,TheGosuCrew,Inferno,3
+1283,2309331,NRG,Cache,4
+1284,2309348,Tricked,Nuke,3
+1285,2309348,HellRaisers,Mirage,4
+1286,2309345,FlipSid3,Train,3
+1287,2309345,HellRaisers,Mirage,4
+1288,2309346,Tricked,Train,3
+1289,2309346,ENCORE,Mirage,4
+1290,2309307,Rogue Academy,Overpass,3
+1291,2309307,HellRaisers,Cobblestone,4
+1292,2309310,ENCORE,Cache,3
+1293,2309310,Kinguin,Cobblestone,4
+1294,2309309,Tricked,Train,3
+1295,2309309,LDLC,Inferno,4
+1296,2309308,Vega Squadron,Cache,3
+1297,2309308,FlipSid3,Nuke,4
+1298,2309254,OpTic,Cobblestone,3
+1299,2309254,Cloud9,Mirage,4
+1300,2309253,Liquid,Nuke,3
+1301,2309253,OpTic,Cobblestone,4
+1302,2309252,Luminosity,Cobblestone,3
+1303,2309252,Cloud9,Nuke,4
+1304,2309251,Misfits,Inferno,3
+1305,2309251,OpTic,Overpass,4
+1306,2309250,Selfless,Cache,3
+1307,2309250,Cloud9,Train,4
+1308,2309249,Luminosity,Overpass,3
+1309,2309249,NRG,Cobblestone,4
+1310,2309248,Liquid,Mirage,3
+1311,2309248,compLexity,Cache,4
+1312,2309245,Red Reserve,Cobblestone,3
+1313,2309245,Legends,Cache,4
+1314,2309245,Red Reserve,Overpass,5
+1315,2309245,Legends,Mirage,6
+1316,2309232,TYLOO,Cobblestone,3
+1317,2309232,ViCi,Train,4
+1318,2309223,VG.Renascence,Cobblestone,3
+1319,2309223,ViCi,Cache,4
+1320,2309222,TYLOO,Mirage,3
+1321,2309222,Born Of Fire,Train,4
+1322,2309176,ViCi,Train,3
+1323,2309176,5POWER,Cobblestone,4
+1324,2309175,New4,Inferno,3
+1325,2309175,Born Of Fire,Overpass,4
+1326,2309174,TheMongolz,Train,3
+1327,2309174,VG.Renascence,Inferno,4
+1328,2309173,TYLOO,Mirage,3
+1329,2309173,EMP,Cobblestone,4
+1330,2309049,LGD,Train,3
+1331,2309049,Born Of Fire,Overpass,4
+1332,2309044,5POWER,Nuke,3
+1333,2309044,AllGamers,Mirage,4
+1334,2309039,Wings,Cache,3
+1335,2309039,EMP,Inferno,4
+1336,2309034,EHOME,Mirage,3
+1337,2309034,VG.Renascence,Cobblestone,4
+1338,2308882,Virtus.pro,Train,3
+1339,2308882,Space Soldiers,Inferno,4
+1340,2308882,Virtus.pro,Overpass,5
+1341,2308882,Space Soldiers,Mirage,6
+1342,2308883,North,Overpass,3
+1343,2308883,fnatic,Cache,4
+1344,2308883,North,Cobblestone,5
+1345,2308883,fnatic,Inferno,6
+1346,2309099,CLG,Overpass,3
+1347,2309099,Luminosity,Cobblestone,4
+1348,2309097,Luminosity,Train,3
+1349,2309097,Misfits,Mirage,4
+1350,2309098,CLG,Cache,3
+1351,2309098,NRG,Cobblestone,4
+1352,2309088,eUnited,Nuke,3
+1353,2309088,Misfits,Inferno,4
+1354,2309089,Luminosity,Cobblestone,3
+1355,2309089,compLexity,Cache,4
+1356,2309091,Selfless,Inferno,3
+1357,2309091,NRG,Overpass,4
+1358,2309090,Rush,Cobblestone,3
+1359,2309090,CLG,Train,4
+1360,2309096,Vega Squadron,Mirage,3
+1361,2309096,HellRaisers,Inferno,4
+1362,2309095,Kinguin,Inferno,3
+1363,2309095,Vega Squadron,Overpass,4
+1364,2309094,HellRaisers,Cobblestone,3
+1365,2309094,mousesports,Cache,4
+1366,2309078,BIG,Train,3
+1367,2309078,HellRaisers,Overpass,4
+1368,2309077,TzatzikiKlubben,Cobblestone,3
+1369,2309077,mousesports,Nuke,4
+1370,2309079,iGame.com,Train,3
+1371,2309079,Kinguin,Cobblestone,4
+1372,2308881,Bee's Money Crew,Cobblestone,3
+1373,2308881,compLexity,Train,4
+1374,2308881,Bee's Money Crew,Inferno,5
+1375,2308881,compLexity,Overpass,6
+1376,2309107,RANKS,Overpass,3
+1377,2309107,EPG,Mirage,4
+1378,2309027,Manatee,Mirage,3
+1379,2309027,EPG,Cache,4
+1380,2309026,Outlaws,Overpass,3
+1381,2309026,RANKS,Cache,4
+1382,2308885,Outlaws,Overpass,3
+1383,2308885,ex-DarkPassage,Cache,4
+1384,2308886,Manatee,Mirage,3
+1385,2308886,Norse,Overpass,4
+1386,2308887,EPG,Cache,3
+1387,2308887,PRIDE,Mirage,4
+1388,2308884,RANKS,Cobblestone,3
+1389,2308884,Tricked,Train,4
+1390,2308966,Legends,Cobblestone,3
+1391,2308966,Netland,Mirage,4
+1392,2308967,Tricked,Cobblestone,7
+1393,2308069,Cypher,Cache,2
+1394,2308069,AVANT,Train,4
+1395,2308068,Alpha Sydney,Cobblestone,2
+1396,2308068,Legacy,Mirage,4
+1397,2308067,SYF,Cobblestone,2
+1398,2308067,Corvidae,Mirage,4
+1399,2308066,Immunity,Nuke,2
+1400,2308066,Chiefs,Inferno,4
+1401,2308065,AVANT,Overpass,2
+1402,2308065,AVANT,Mirage,4
+1403,2308064,Cypher,Cache,2
+1404,2308064,SYF,Cobblestone,4
+1405,2308063,Alpha Sydney,Cache,2
+1406,2308063,Chiefs,Inferno,4
+1407,2308062,Corvidae,Overpass,2
+1408,2308062,Immunity,Mirage,4
+1409,2308061,Alpha Sydney,Cobblestone,2
+1410,2308061,Immunity,Nuke,4
+1411,2308060,Chiefs,Cobblestone,2
+1412,2308060,AVANT,Overpass,4
+1413,2308059,Cypher,Cobblestone,2
+1414,2308059,Corvidae,Mirage,4
+1415,2308058,SYF,Cache,2
+1416,2308058,Legacy,Mirage,4
+1417,2307611,Legacy,Mirage,2
+1418,2307611,Corvidae,Train,4
+1419,2307609,Immunity,Train,2
+1420,2307609,Cypher,Nuke,4
+1421,2307610,Chiefs,Inferno,2
+1422,2307610,SYF,Cobblestone,4
+1423,2307612,AVANT,Cobblestone,2
+1424,2307612,Alpha Sydney,Cache,4
+1425,2307608,Cypher,Cache,2
+1426,2307608,Legacy,Mirage,4
+1427,2307607,Alpha Sydney,Inferno,2
+1428,2307607,SYF,Cobblestone,4
+1429,2307606,Corvidae,Overpass,2
+1430,2307606,Chiefs,Train,4
+1431,2307605,Immunity,Nuke,2
+1432,2307605,AVANT,Train,4
+1433,2307604,AVANT,Overpass,2
+1434,2307604,SYF,Cache,4
+1435,2307603,Corvidae,Overpass,2
+1436,2307603,Alpha Sydney,Mirage,4
+1437,2307602,Chiefs,Nuke,2
+1438,2307602,Cypher,Train,4
+1439,2307600,Cypher,Cobblestone,2
+1440,2307600,Alpha Sydney,Cache,4
+1441,2307599,Corvidae,Cache,2
+1442,2307599,AVANT,Overpass,4
+1443,2307598,Legacy,Cobblestone,2
+1444,2307598,Chiefs,Nuke,4
+1445,2307597,Immunity,Inferno,2
+1446,2307597,SYF,Cobblestone,4
+1447,2309010,Tricked,Nuke,3
+1448,2309010,Preparation,Overpass,4
+1449,2309009,EPG,Inferno,3
+1450,2309009,Preparation,Overpass,4
+1451,2309008,iNation,Mirage,3
+1452,2309008,Tricked,Train,4
+1453,2309004,ex-DarkPassage,Cobblestone,3
+1454,2309004,iNation,Mirage,4
+1455,2309002,EPG,Cache,3
+1456,2309002,Manatee,Mirage,4
+1457,2309003,Preparation,Cache,3
+1458,2309003,Outlaws,Train,4
+1459,2309001,Bpro,Cobblestone,3
+1460,2309001,Tricked,Train,4
+1461,2308894,Manatee,Mirage,3
+1462,2308894,K29,Train,4
+1463,2308890,eXtatus,Mirage,3
+1464,2308890,EPG,Cache,4
+1465,2308892,ACG,Mirage,3
+1466,2308892,Outlaws,Train,4
+1467,2308872,duttdutt,Mirage,3
+1468,2308872,ex-DarkPassage,Cache,4
+1469,2308891,Tricked,Inferno,3
+1470,2308891,Quantum Bellator Fire,Train,4
+1471,2308893,Preparation,Overpass,3
+1472,2308893,Gambit Academy,Cache,4
+1473,2308889,1337,Train,3
+1474,2308889,iNation,Nuke,4
+1475,2308873,Bpro,Cache,3
+1476,2308873,Tengri,Overpass,4
+1477,2308956,Envy,Train,3
+1478,2308956,HellRaisers,Mirage,4
+1479,2308898,HellRaisers,Cobblestone,3
+1480,2308898,fnatic,Train,4
+1481,2308869,Envy,Train,3
+1482,2308869,G2,Nuke,4
+1483,2308836,Space Soldiers,Cobblestone,3
+1484,2308836,G2,Overpass,4
+1485,2308673,Epsilon,Cobblestone,3
+1486,2308673,fnatic,Cache,4
+1487,2308633,HellRaisers,Overpass,3
+1488,2308633,Spirit,Nuke,4
+1489,2308731,Envy,Cache,3
+1490,2308731,GODSENT,Train,4
+1491,2308490,Kinguin,Mirage,3
+1492,2308490,Space Soldiers,Cobblestone,4
+1493,2308508,GODSENT,Mirage,3
+1494,2308508,Heroic,Overpass,4
+1495,2308489,BIG,Cobblestone,3
+1496,2308489,Envy,Train,4
+1497,2308507,G2,Nuke,3
+1498,2308507,PRIDE,Inferno,4
+1499,2308506,Epsilon,Mirage,3
+1500,2308506,FlipSid3,Train,4
+1501,2308488,fnatic Academy,Cobblestone,3
+1502,2308488,fnatic,Train,4
+1503,2308487,eFuture,Cobblestone,3
+1504,2308487,HellRaisers,Cache,4
+1505,2308486,mousesports,Inferno,3
+1506,2308486,Spirit,Mirage,4
+1507,2307978,Space Soldiers,Cache,3
+1508,2307978,LDLC,Overpass,4
+1509,2307979,Quantum Bellator Fire,Mirage,3
+1510,2307979,Spirit,Nuke,4
+1511,2307977,Vega Squadron,Mirage,3
+1512,2307977,ALTERNATE aTTaX,Cache,4
+1513,2307983,Space Soldiers,Cobblestone,3
+1514,2307983,Quantum Bellator Fire,Mirage,4
+1515,2307982,Spirit,Nuke,3
+1516,2307982,LDLC,Cobblestone,4
+1517,2307981,Space Soldiers,Cobblestone,3
+1518,2307981,Spirit,Cache,4
+1519,2307980,Quantum Bellator Fire,Train,3
+1520,2307980,LDLC,Cobblestone,4
+1521,2307975,Heroic,Nuke,3
+1522,2307975,ALTERNATE aTTaX,Mirage,4
+1523,2307974,Vega Squadron,Mirage,3
+1524,2307974,fnatic Academy,Cache,4
+1525,2307973,ALTERNATE aTTaX,Nuke,3
+1526,2307973,fnatic Academy,Mirage,4
+1527,2307972,Vega Squadron,Overpass,3
+1528,2307972,Heroic,Nuke,4
+1529,2307976,Heroic,Train,3
+1530,2307976,fnatic Academy,Mirage,4
+1531,2307970,Tengri,Overpass,3
+1532,2307970,Team123,Cobblestone,4
+1533,2307971,iGame.com,Train,3
+1534,2307971,BIG,Cache,4
+1535,2307961,Epsilon,Cobblestone,3
+1536,2307961,PRIDE,Inferno,4
+1537,2307969,iGame.com,Train,3
+1538,2307969,Team123,Cobblestone,4
+1539,2307968,BIG,Cache,3
+1540,2307968,Tengri,Mirage,4
+1541,2307960,Epsilon,Cobblestone,3
+1542,2307960,Tricked,Train,4
+1543,2307967,Team123,Nuke,3
+1544,2307967,BIG,Mirage,4
+1545,2307966,iGame.com,Train,3
+1546,2307966,Tengri,Cobblestone,4
+1547,2307889,Tricked,Overpass,3
+1548,2307889,ex-DarkPassage,Cobblestone,4
+1549,2307888,PRIDE,Inferno,3
+1550,2307888,Tricked,Train,4
+1551,2307887,ex-DarkPassage,Nuke,3
+1552,2307887,PRIDE,Inferno,4
+1553,2307879,Epsilon,Overpass,3
+1554,2307879,ex-DarkPassage,Cobblestone,4
+1555,2308957,CLG,Mirage,3
+1556,2308957,Immortals,Cobblestone,4
+1557,2308871,Renegades,Train,3
+1558,2308871,CLG,Overpass,4
+1559,2308705,Renegades,Nuke,3
+1560,2308705,Cloud9,Cache,4
+1561,2308780,OpTic,Cobblestone,3
+1562,2308780,CLG,Cache,4
+1563,2308771,Liquid,Inferno,3
+1564,2308771,Immortals,Cobblestone,4
+1565,2308704,Misfits,Inferno,3
+1566,2308704,Immortals,Cobblestone,4
+1567,2308493,Eanix,Cache,3
+1568,2308493,OpTic,Cobblestone,4
+1569,2308677,Liquid,Cache,3
+1570,2308677,Splyce,Inferno,4
+1571,2308494,Bee's Money Crew,Cobblestone,3
+1572,2308494,CLG,Inferno,4
+1573,2308495,Winterfox,Overpass,3
+1574,2308495,Immortals,Cobblestone,4
+1575,2308491,eUnited,Nuke,3
+1576,2308491,Cloud9,Mirage,4
+1577,2308496,Misfits,Cobblestone,3
+1578,2308496,compLexity,Train,4
+1579,2308492,Renegades,Train,3
+1580,2308492,Denial,Cache,4
+1581,2308497,Liquid,Cache,3
+1582,2308497,Selfless,Cobblestone,4
+1583,2308498,Luminosity,Overpass,3
+1584,2308498,Splyce,Cobblestone,4
+1585,2308226,Miami Flamingos,Mirage,3
+1586,2308226,Splyce,Cobblestone,4
+1587,2308329,compLexity,Train,3
+1588,2308329,QuetzaL,Overpass,4
+1589,2308220,eUnited,Overpass,3
+1590,2308220,compLexity,Train,4
+1591,2308225,Miami Flamingos,Overpass,3
+1592,2308225,Winterfox,Cobblestone,4
+1593,2308219,eUnited,Train,3
+1594,2308219,subtLe,Cache,4
+1595,2308224,Enigma6,Mirage,3
+1596,2308224,Splyce,Train,4
+1597,2308223,Enigma6,Cache,3
+1598,2308223,Miami Flamingos,Overpass,4
+1599,2308218,eUnited,Cache,3
+1600,2308218,QuetzaL,Overpass,4
+1601,2308222,Winterfox,Cache,3
+1602,2308222,Splyce,Cobblestone,4
+1603,2308217,compLexity,Train,3
+1604,2308217,subtLe,Inferno,4
+1605,2308221,Enigma6,Cache,3
+1606,2308221,Winterfox,Cobblestone,4
+1607,2308216,QuetzaL,Cache,3
+1608,2308216,subtLe,Train,4
+1609,2308032,Eanix,Overpass,3
+1610,2308032,Rush,Mirage,4
+1611,2308031,RONIN,Overpass,3
+1612,2308031,Eanix,Cobblestone,4
+1613,2308029,Denial,Cache,3
+1614,2308029,Eanix,Cobblestone,4
+1615,2308026,Muffin Lightning,Cache,3
+1616,2308026,Selfless,Mirage,4
+1617,2308095,Bee's Money Crew,Cobblestone,3
+1618,2308095,Blight,Mirage,4
+1619,2308027,Denial,Nuke,3
+1620,2308027,RONIN,Mirage,4
+1621,2307958,Blight,Mirage,3
+1622,2307958,Selfless,Cache,4
+1623,2307914,Muffin Lightning,Mirage,3
+1624,2307914,Blight,Cobblestone,4
+1625,2308878,TYLOO,Mirage,3
+1626,2308878,fnatic Academy,Cache,4
+1627,2308877,5POWER,Cache,3
+1628,2308877,BOOT-d[S],Nuke,4
+1629,2308876,BOOT-d[S],Train,3
+1630,2308876,fnatic Academy,Cache,4
+1631,2308867,5POWER,Cache,3
+1632,2308867,TYLOO,Cobblestone,4
+1633,2308760,eFuture,Train,3
+1634,2308760,fnatic Academy,Mirage,4
+1635,2308759,eFuture,Train,3
+1636,2308759,5POWER,Mirage,4
+1637,2308758,TYLOO,Mirage,3
+1638,2308758,BOOT-d[S],Overpass,4
+1639,2308757,BOOT-d[S],Overpass,3
+1640,2308757,Born Of Fire,Nuke,4
+1641,2308756,Born Of Fire,Inferno,3
+1642,2308756,TYLOO,Cobblestone,4
+1643,2308698,ex-DarkPassage,Cobblestone,4
+1644,2308698,Outlaws,Overpass,5
+1645,2308698,ex-DarkPassage,Nuke,6
+1646,2308629,eXtatus,Dust2,3
+1647,2308629,ex-DarkPassage,Cache,4
+1648,2308291,Outlaws,Overpass,3
+1649,2308291,ex-DarkPassage,Mirage,4
+1650,2308292,eXtatus,Cobblestone,3
+1651,2308292,Copenhagen Flames,Overpass,4
+1652,2308006,Playing Ducks,Mirage,3
+1653,2308006,eXtatus,Cobblestone,4
+1654,2307822,Playing Ducks,Mirage,3
+1655,2307822,Fragsters,Train,4
+1656,2307940,zARLANS,Mirage,3
+1657,2307940,Copenhagen Flames,Overpass,4
+1658,2307633,eXtatus,Mirage,3
+1659,2307633,Outlaws,Cobblestone,4
+1660,2307671,Copenhagen Flames,Dust2,3
+1661,2307671,ex-DarkPassage,Nuke,4
+1662,2307670,zARLANS,Mirage,3
+1663,2307670,E-Corp,Nuke,4
+1664,2307640,Fragsters,Train,3
+1665,2307640,RuSh3D,Dust2,4
+1666,2307589,Playing Ducks,Mirage,3
+1667,2307589,Wizards,Overpass,4
+1668,2307628,Tricked Academy,Train,3
+1669,2307628,E-Corp,Overpass,4
+1670,2307588,Tricksters,Mirage,3
+1671,2307588,zARLANS,Overpass,4
+1672,2307549,Fragsters,Dust2,3
+1673,2307549,Copenhagen Flames,Overpass,4
+1674,2307512,Tricked Academy,Train,3
+1675,2307512,1944,Nuke,4
+1676,2307513,Wizards,Cache,3
+1677,2307513,DarkPassage,Mirage,4
+1678,2307509,zARLANS,Mirage,3
+1679,2307509,Outlaws,Train,4
+1680,2307481,E-Corp,Cache,3
+1681,2307481,eXtatus,Mirage,4
+1682,2307507,5FRAGS.EKB,Cobblestone,3
+1683,2307507,RuSh3D,Dust2,4
+1684,2307504,Playing Ducks,Mirage,3
+1685,2307504,WarMonkeys,Dust2,4
+1686,2307511,ROYALS,Mirage,3
+1687,2307511,Tricksters,Cache,4
+1688,2307423,Tricked Academy,Mirage,3
+1689,2307423,DarkPassage,Cobblestone,4
+1690,2307422,ROYALS,Cache,3
+1691,2307422,Fragsters,Train,4
+1692,2307421,zARLANS,Mirage,3
+1693,2307421,RuSh3D,Dust2,4
+1694,2307420,1337HUANIA,Mirage,3
+1695,2307420,E-Corp,Cache,4
+1696,2307419,1944,Mirage,3
+1697,2307419,Wizards,Dust2,4
+1698,2307418,Outlaws,Overpass,3
+1699,2307418,5FRAGS.EKB,Train,4
+1700,2307417,WarMonkeys,Dust2,3
+1701,2307417,eXtatus,Mirage,4
+1702,2307416,Tricksters,Mirage,3
+1703,2307416,Copenhagen Flames,Dust2,4
+1704,2308453,Selfless,Cobblestone,5
+1705,2308453,Renegades,Train,6
+1706,2308627,Denial,Cache,5
+1707,2308627,Premier Rejects,Train,6
+1708,2308626,Renegades,Cobblestone,5
+1709,2308626,Winterfox,Cache,6
+1710,2308625,Selfless,Train,5
+1711,2308625,Premier Rejects,Mirage,6
+1712,2308624,Renegades,Mirage,5
+1713,2308624,Bee's Money Crew,Cobblestone,6
+1714,2308623,Winterfox,Cache,5
+1715,2308623,Denial,Mirage,6
+1716,2308622,Denial,Cache,5
+1717,2308622,Splyce,Mirage,6
+1718,2308621,Bee's Money Crew,Train,5
+1719,2308621,Misfits,Cobblestone,6
+1720,2308620,Bee's Money Crew,Mirage,5
+1721,2308620,Denial,Nuke,6
+1722,2308619,Misfits,Cobblestone,5
+1723,2308619,Denial,Train,6
+1724,2308618,Selfless,Mirage,5
+1725,2308618,Misfits,Cobblestone,6
+1726,2308617,Premier Rejects,Mirage,5
+1727,2308617,Splyce,Train,6
+1728,2308616,Splyce,Cobblestone,5
+1729,2308616,Bee's Money Crew,Train,6
+1730,2308615,Renegades,Train,5
+1731,2308615,Premier Rejects,Mirage,6
+1732,2308569,Selfless,Mirage,5
+1733,2308569,Denial,Cache,6
+1734,2308568,Misfits,Inferno,5
+1735,2308568,Winterfox,Cobblestone,6
+1736,2308564,Selfless,Mirage,5
+1737,2308564,Winterfox,Cobblestone,6
+1738,2308563,Bee's Money Crew,Cache,5
+1739,2308563,Premier Rejects,Train,6
+1740,2308562,Denial,Nuke,5
+1741,2308562,Renegades,Cobblestone,6
+1742,2308561,Misfits,Cobblestone,5
+1743,2308561,Splyce,Mirage,6
+1744,2308454,Splyce,Cobblestone,5
+1745,2308454,Winterfox,Mirage,6
+1746,2308452,Premier Rejects,Mirage,5
+1747,2308452,Misfits,Inferno,6
+1748,2308451,Bee's Money Crew,Cobblestone,5
+1749,2308451,Winterfox,Mirage,6
+1750,2308450,Splyce,Mirage,5
+1751,2308450,Selfless,Inferno,6
+1752,2308353,Renegades,Cobblestone,5
+1753,2308353,Misfits,Mirage,6
+1754,2308351,Selfless,Mirage,5
+1755,2308351,Bee's Money Crew,Cobblestone,6
+1756,2308352,Premier Rejects,Mirage,5
+1757,2308352,Winterfox,Cobblestone,6
+1758,2308350,Renegades,Cobblestone,5
+1759,2308350,Splyce,Mirage,6
+1760,2308692,Rogue,Mirage,5
+1761,2308692,PRIDE,Nuke,6
+1762,2308691,Gambit,Cache,5
+1763,2308691,PRIDE,Mirage,6
+1764,2308690,Tengri,Overpass,5
+1765,2308690,Kinguin,Cobblestone,6
+1766,2308680,North,Overpass,5
+1767,2308680,Rogue,Mirage,6
+1768,2308689,Tengri,Overpass,5
+1769,2308689,FlipSid3,Mirage,6
+1770,2308687,Space Soldiers,Inferno,5
+1771,2308687,Kinguin,Cobblestone,6
+1772,2308688,Tengri,Overpass,5
+1773,2308688,Gambit,Cobblestone,6
+1774,2308686,North,Overpass,5
+1775,2308686,FlipSid3,Mirage,6
+1776,2308685,PRIDE,Mirage,5
+1777,2308685,North,Cobblestone,6
+1778,2308684,Space Soldiers,Cobblestone,5
+1779,2308684,North,Inferno,6
+1780,2308683,North,Cache,5
+1781,2308683,Kinguin,Overpass,6
+1782,2308682,Gambit,Overpass,5
+1783,2308682,FlipSid3,Train,6
+1784,2308681,Gambit,Inferno,5
+1785,2308681,North,Cache,6
+1786,2308679,Tengri,Cache,5
+1787,2308679,North,Overpass,6
+1788,2308463,FlipSid3,Overpass,5
+1789,2308463,Kinguin,Cobblestone,6
+1790,2308462,Space Soldiers,Mirage,5
+1791,2308462,PRIDE,Cache,6
+1792,2308444,Gambit,Nuke,5
+1793,2308444,Rogue,Train,6
+1794,2308461,Gambit,Cobblestone,5
+1795,2308461,Kinguin,Overpass,6
+1796,2308460,FlipSid3,Train,5
+1797,2308460,PRIDE,Nuke,6
+1798,2308349,Space Soldiers,Mirage,5
+1799,2308349,Rogue,Inferno,6
+1800,2308443,FlipSid3,Mirage,5
+1801,2308443,Space Soldiers,Cobblestone,6
+1802,2308442,Gambit,Train,5
+1803,2308442,Space Soldiers,Cobblestone,6
+1804,2308441,Space Soldiers,Train,5
+1805,2308441,Tengri,Cobblestone,6
+1806,2308348,FlipSid3,Mirage,5
+1807,2308348,Rogue,Cache,6
+1808,2308347,Tengri,Cobblestone,5
+1809,2308347,PRIDE,Cache,6
+1810,2308346,Rogue,Mirage,5
+1811,2308346,Kinguin,Inferno,6
+1812,2308344,PRIDE,Cache,5
+1813,2308344,Kinguin,Mirage,6
+1814,2308345,Rogue,Mirage,5
+1815,2308345,Tengri,Overpass,6
+1816,2308835,iNation,Nuke,3
+1817,2308835,eXtatus,Mirage,4
+1818,2308773,Tengri,Overpass,3
+1819,2308773,eXtatus,Mirage,4
+1820,2308774,Outlaws,Train,3
+1821,2308774,iNation,Cache,4
+1822,2308703,KPI,Nuke,3
+1823,2308703,eXtatus,Mirage,4
+1824,2308747,DenDD,Mirage,3
+1825,2308747,Outlaws,Train,4
+1826,2308746,iNation,Cache,3
+1827,2308746,RuSh3D,Train,4
+1828,2308697,Tengri,Mirage,3
+1829,2308697,EPG,Inferno,4
+1830,2308670,EPG,Inferno,3
+1831,2308670,DenDD,Mirage,4
+1832,2308631,Norse,Train,3
+1833,2308631,DenDD,Mirage,4
+1834,2308630,EPG,Mirage,3
+1835,2308630,Norse,Overpass,4
+1836,2308567,eXtatus,Cobblestone,3
+1837,2308567,iNation,Inferno,4
+1838,2308566,eXtatus,Nuke,3
+1839,2308566,K29,Mirage,4
+1840,2308565,K29,Mirage,3
+1841,2308565,iNation,Nuke,4
+1842,2308503,KPI,Nuke,3
+1843,2308503,spray'n'pray,Overpass,4
+1844,2308502,spray'n'pray,Overpass,3
+1845,2308502,RuSh3D,Train,4
+1846,2308501,RuSh3D,Train,3
+1847,2308501,KPI,Nuke,4
+1848,2308476,Outlaws,Cobblestone,3
+1849,2308476,Copenhagen Flames,Cache,4
+1850,2308475,Copenhagen Flames,Cache,3
+1851,2308475,Tengri,Cobblestone,4
+1852,2308474,Tengri,Mirage,3
+1853,2308474,Outlaws,Train,4
+1854,2308611,Nexus,Cache,3
+1855,2308611,iNation,Nuke,4
+1856,2308609,ENEMIES,Cobblestone,3
+1857,2308609,Outlaws,Overpass,4
+1858,2308608,Outlaws,Train,3
+1859,2308608,Nexus,Mirage,4
+1860,2308607,ENEMIES,Cobblestone,3
+1861,2308607,iNation,Mirage,4
+1862,2308678,PENTA,Mirage,3
+1863,2308678,ALTERNATE aTTaX,Cache,4
+1864,2308672,ALTERNATE aTTaX,Cache,3
+1865,2308672,DenDD,Mirage,4
+1866,2308671,eXtatus,Overpass,3
+1867,2308671,PENTA,Mirage,4
+1868,2308635,IDM,Cache,3
+1869,2308635,TeamOne,Overpass,4
+1870,2308582,Black Dragons,Mirage,3
+1871,2308582,TeamOne,Overpass,4
+1872,2308583,IDM,Mirage,3
+1873,2308583,Keyd Stars,Cobblestone,4
+1874,2308527,Isurus,Mirage,3
+1875,2308527,Keyd Stars,Cache,4
+1876,2308528,Black Dragons,Mirage,3
+1877,2308528,HIGHWAY,Cache,4
+1878,2308529,ProGamers,Cache,3
+1879,2308529,TeamOne,Mirage,4
+1880,2308526,ProGaming,Mirage,3
+1881,2308526,IDM,Cache,4
+1882,2309329,Tainted Minds,Cobblestone,3
+1883,2309329,Chiefs,Nuke,4
+1884,2309272,Immunity,Nuke,3
+1885,2309272,Tainted Minds,Cobblestone,4
+1886,2309271,AVANT,Mirage,3
+1887,2309271,Immunity,Nuke,4
+1888,2309270,Chiefs,Inferno,3
+1889,2309270,Tainted Minds,Cache,4
+1890,2309268,Dark Sided,Mirage,3
+1891,2309268,Immunity,Nuke,4
+1892,2309246,Athletico,Train,3
+1893,2309246,Dark Sided,Mirage,4
+1894,2309230,AVANT,Overpass,3
+1895,2309230,Tainted Minds,Nuke,4
+1896,2309227,AVANT,Overpass,3
+1897,2309227,Dark Sided,Mirage,4
+1898,2309226,Athletico,Cobblestone,3
+1899,2309226,Tainted Minds,Inferno,4
+1900,2309229,JAM,Cache,3
+1901,2309229,Chiefs,Inferno,4
+1902,2308172,FaZe,Cache,3
+1903,2308172,Astralis,Overpass,4
+1904,2308172,FaZe,Nuke,5
+1905,2308172,Astralis,Inferno,6
+1906,2308171,Astralis,Train,3
+1907,2308171,Heroic,Nuke,4
+1908,2308170,Immortals,Inferno,3
+1909,2308170,FaZe,Mirage,4
+1910,2308169,Natus Vincere,Mirage,3
+1911,2308169,Astralis,Nuke,4
+1912,2308168,Immortals,Cache,3
+1913,2308168,North,Overpass,4
+1914,2308437,iGame.com,Train,3
+1915,2308437,ENCORE,Cache,4
+1916,2308435,ENCORE,Cobblestone,3
+1917,2308435,SkitLite,Mirage,4
+1918,2308436,iGame.com,Cobblestone,3
+1919,2308436,ajuri,Cache,4
+1920,2308431,iGame.com,Nuke,3
+1921,2308431,Chrome,Overpass,4
+1922,2308432,FR34KSHOW,Inferno,3
+1923,2308432,ajuri,Cache,4
+1924,2308410,ViCi,Overpass,3
+1925,2308410,TYLOO,Cobblestone,4
+1926,2308381,5POWER,Cobblestone,3
+1927,2308381,TYLOO,Mirage,4
+1928,2308380,MVP Project,Mirage,3
+1929,2308380,ViCi,Cache,4
+1930,2308343,BOF.Gaming,Mirage,3
+1931,2308343,TYLOO,Cache,4
+1932,2308342,5POWER,Cobblestone,3
+1933,2308342,EDG,Cache,4
+1934,2308341,MVP Project,Train,3
+1935,2308341,New4,Mirage,4
+1936,2308340,ViCi,Overpass,3
+1937,2308340,Born Of Fire,Nuke,4
+1938,2308319,EMP,Overpass,3
+1939,2308319,New4,Mirage,4
+1940,2308318,FIVE,Inferno,3
+1941,2308318,Born Of Fire,Nuke,4
+1942,2308243,BOOT,Inferno,3
+1943,2308243,BOF.Gaming,Cache,4
+1944,2308246,HegemonyPerson,Inferno,3
+1945,2308246,EDG,Mirage,4
+1946,2308245,AllGamers,Mirage,3
+1947,2308245,New4,Overpass,4
+1948,2308242,MVP PK,Cobblestone,3
+1949,2308242,Born Of Fire,Nuke,4
+1950,2308232,LGD,Cobblestone,3
+1951,2308232,BOOT,Mirage,4
+1952,2308231,EDG,Mirage,3
+1953,2308231,EHOME,Cache,4
+1954,2308098,KPI,Mirage,3
+1955,2308098,Tengri,Train,4
+1956,2308084,Epsilon,Mirage,3
+1957,2308084,Vega Squadron,Cache,4
+1958,2308094,Playing Ducks,Nuke,3
+1959,2308094,KPI,Train,4
+1960,2308085,Preparation,Cache,3
+1961,2308085,Tengri,Cobblestone,4
+1962,2308083,PRIDE,Nuke,3
+1963,2308083,EURONICS,Cobblestone,4
+1964,2307939,Virtus.pro,Cobblestone,3
+1965,2307939,SK,Train,4
+1966,2307938,SK,Cache,3
+1967,2307938,North,Mirage,4
+1968,2307937,Virtus.pro,Nuke,3
+1969,2307937,Astralis,Overpass,4
+1970,2307936,Natus Vincere,Mirage,3
+1971,2307936,SK,Train,4
+1972,2307935,NiP,Inferno,3
+1973,2307935,Astralis,Mirage,4
+1974,2307934,Virtus.pro,Train,3
+1975,2307934,mousesports,Mirage,4
+1976,2307933,North,Nuke,3
+1977,2307933,Gambit,Inferno,4
+1978,2307932,Natus Vincere,Mirage,3
+1979,2307932,FaZe,Nuke,4
+1980,2307931,NiP,Cobblestone,3
+1981,2307931,Cloud9,Train,4
+1982,2307930,fnatic,Mirage,3
+1983,2307930,Virtus.pro,Cobblestone,4
+1984,2307929,North,Nuke,3
+1985,2307929,OpTic,Cobblestone,4
+1986,2307945,iGame.com,Dust2,3
+1987,2307945,Tricked,Overpass,4
+1988,2307903,Tricked,Nuke,3
+1989,2307903,Rogue,Train,4
+1990,2307808,Rogue,Train,3
+1991,2307808,FlipSid3,Nuke,4
+1992,2307811,Norse,Overpass,3
+1993,2307811,Rogue,Mirage,4
+1994,2307810,Orbit,Cache,3
+1995,2307810,iGame.com,Dust2,4
+1996,2307809,iGame.com,Train,3
+1997,2307809,Tricked,Mirage,4
+1998,2307837,FlipSid3,Nuke,3
+1999,2307837,Vexed,Cache,4
+2000,2307838,Rogue,Overpass,3
+2001,2307838,Vexed,Cache,4
+2002,2307807,Vexed,Cache,3
+2003,2307807,Norse,Train,4
+2004,2307806,FlipSid3,Train,3
+2005,2307806,Norse,Overpass,4
+2006,2307805,Orbit,Mirage,3
+2007,2307805,Outlaws,Train,4
+2008,2307804,Outlaws,Train,3
+2009,2307804,iGame.com,Cobblestone,4
+2010,2307803,Outlaws,Train,3
+2011,2307803,Tricked,Mirage,4
+2012,2307798,Orbit,Train,3
+2013,2307798,Tricked,Cobblestone,4
+2014,2307629,Nexus,Mirage,3
+2015,2307629,Outlaws,Train,4
+2016,2307592,Playing Ducks,Cache,3
+2017,2307592,Outlaws,Train,4
+2018,2307572,DarkPassage,Cache,3
+2019,2307572,Outlaws,Overpass,4
+2020,2307571,Playing Ducks,Mirage,3
+2021,2307571,Nexus,Cache,4
+2022,2307842,iGame.com,Nuke,5
+2023,2307842,BIG,Dust2,6
+2024,2307709,iGame.com,Nuke,5
+2025,2307709,Norse,Train,6
+2026,2307708,Epsilon,Cobblestone,5
+2027,2307708,BIG,Dust2,6
+2028,2307617,iGame.com,Nuke,3
+2029,2307617,iNation,Cobblestone,4
+2030,2307858,Black Dragons,Mirage,3
+2031,2307858,TeamOne,Train,4
+2032,2307840,ProGaming,Mirage,3
+2033,2307840,Black Dragons,Cache,4
+2034,2307841,IDM,Dust2,3
+2035,2307841,TeamOne,Nuke,4
+2036,2307802,TeamOne,Mirage,3
+2037,2307802,Fueguitos,Nuke,4
+2038,2307799,ProGaming,Mirage,3
+2039,2307799,Checkmate,Cache,4
+2040,2307800,Battalion,Mirage,3
+2041,2307800,Black Dragons,Cobblestone,4
+2042,2307801,IDM,Mirage,3
+2043,2307801,Operation Kino,Cache,4
+2044,2307734,Liquid,Cobblestone,3
+2045,2307734,Immortals,Cache,4
+2046,2307726,Liquid,Cobblestone,3
+2047,2307726,Misfits,Mirage,4
+2048,2307724,Immortals,Cobblestone,3
+2049,2307724,Liquid,Overpass,4
+2050,2307725,Misfits,Cache,3
+2051,2307725,CLG,Train,4
+2052,2307717,Liquid,Overpass,3
+2053,2307717,Misfits,Cache,4
+2054,2307718,CLG,Train,3
+2055,2307718,Immortals,Cobblestone,4
+2056,2307732,G2,Cache,3
+2057,2307732,Heroic,Overpass,4
+2058,2307731,mousesports,Dust2,3
+2059,2307731,Heroic,Overpass,4
+2060,2307730,Envy,Dust2,3
+2061,2307730,G2,Train,4
+2062,2307729,Epsilon,Cache,3
+2063,2307729,mousesports,Dust2,4
+2064,2307728,Envy,Dust2,3
+2065,2307728,Tricked,Train,4
+2066,2307719,Natus Vincere,Mirage,3
+2067,2307719,Heroic,Nuke,4
+2068,2307720,BIG,Cobblestone,3
+2069,2307720,Envy,Nuke,4
+2070,2307722,GODSENT,Cobblestone,3
+2071,2307722,mousesports,Nuke,4
+2072,2307721,Epsilon,Cache,3
+2073,2307721,FlipSid3,Nuke,4
+2074,2307723,fnatic,Train,3
+2075,2307723,G2,Cache,4
+2076,2307716,Envy,Dust2,3
+2077,2307716,Heroic,Mirage,4
+2078,2307713,fnatic,Mirage,3
+2079,2307713,mousesports,Cache,4
+2080,2307714,FlipSid3,Nuke,3
+2081,2307714,G2,Cache,4
+2082,2307715,Tricked,Nuke,3
+2083,2307715,Natus Vincere,Mirage,4
+2084,2307710,BIG,Cobblestone,3
+2085,2307710,FlipSid3,Train,4
+2086,2307711,Tricked,Cobblestone,3
+2087,2307711,GODSENT,Mirage,4
+2088,2307712,Epsilon,Mirage,3
+2089,2307712,Heroic,Nuke,4
+2090,2307668,dizLown,Dust2,3
+2091,2307668,Outlaws,Overpass,4
+2092,2307667,Outlaws,Train,3
+2093,2307667,Planetkey,Nuke,4
+2094,2307666,Rynnäkköviikset,Nuke,3
+2095,2307666,dizLown,Cache,4
+2096,2307664,dizLown,Cache,3
+2097,2307664,Singularity,Train,4
+2098,2307662,Outlaws,Cobblestone,3
+2099,2307662,iGame.com,Train,4
+2100,2307663,x6tence,Cobblestone,3
+2101,2307663,Planetkey,Overpass,4
+2102,2307665,Conquer,Cache,3
+2103,2307665,Rynnäkköviikset,Dust2,4
+2104,2307661,iGame.com,Train,3
+2105,2307661,RatsOfTheYear,Cache,4
+2106,2307660,x6tence,Cobblestone,3
+2107,2307660,SkitLite,Mirage,4
+2108,2307655,dizLown,Nuke,3
+2109,2307655,Vexed,Cobblestone,4
+2110,2307654,Platinium,Mirage,3
+2111,2307654,Conquer,Dust2,4
+2112,2307704,Vega Squadron,Cache,3
+2113,2307704,FlipSid3,Nuke,4
+2114,2307703,Epsilon,Overpass,3
+2115,2307703,Team123,Nuke,4
+2116,2307702,ALTERNATE aTTaX,Nuke,3
+2117,2307702,BIG,Dust2,4
+2118,2307701,Tricked,Nuke,3
+2119,2307701,Copenhagen Flames,Dust2,4
+2120,2307700,eXtatus,Dust2,3
+2121,2307700,Vega Squadron,Mirage,4
+2122,2307626,DarkPassage,Cobblestone,3
+2123,2307626,Vexed,Nuke,4
+2124,2307625,Outlaws,Train,3
+2125,2307625,RuSh3D,Mirage,4
+2126,2307624,RuSh3D,Dust2,3
+2127,2307624,PRIDE,Mirage,4
+2128,2307623,Outlaws,Overpass,3
+2129,2307623,Epsilon Hype,Mirage,4
+2130,2307622,Vexed,Cache,3
+2131,2307622,KPI,Mirage,4
+2132,2307621,DarkPassage,Cobblestone,3
+2133,2307621,DEEZ NUTS,Overpass,4
+2134,2307596,Risky,Train,3
+2135,2307596,MVP PK,Nuke,4
+2136,2307591,YETTI,Dust2,3
+2137,2307591,MVP PK,Cobblestone,4
+2138,2307590,Absolute,Mirage,3
+2139,2307590,Risky,Cobblestone,4
+2140,2307548,Virtus.pro,Nuke,3
+2141,2307548,Astralis,Overpass,4
+2142,2307547,SK,Train,3
+2143,2307547,Virtus.pro,Cobblestone,4
+2144,2307546,fnatic,Cache,3
+2145,2307546,Astralis,Nuke,4
+2146,2307545,FaZe,Mirage,3
+2147,2307545,SK,Train,4
+2148,2307544,North,Overpass,3
+2149,2307544,Virtus.pro,Cache,4
+2150,2307543,fnatic,Cache,3
+2151,2307543,Gambit,Overpass,4
+2152,2307542,Astralis,Overpass,3
+2153,2307542,Natus Vincere,Mirage,4
+2154,2307563,Luminosity,Train,3
+2155,2307563,Misfits,Cache,4
+2156,2307562,NRG,Train,3
+2157,2307562,CLG,Mirage,4
+2158,2307444,Rogue,Train,3
+2159,2307444,Heroic,Nuke,4
+2160,2307443,LDLC,Overpass,3
+2161,2307443,PENTA,Cache,4
+2162,2307699,Splyce,Cobblestone,3
+2163,2307699,Selfless,Mirage,4
+2164,2307446,Rush,Mirage,3
+2165,2307446,Splyce,Cobblestone,4
+2166,2307445,Luminosity,Train,3
+2167,2307445,Selfless,Cache,4
+2168,2307505,MK,Dust2,3
+2169,2307505,GODSENT,Mirage,4
+2170,2307506,Outlaws,Dust2,3
+2171,2307506,Heroic,Nuke,4
+2172,2307484,Liquid,Cobblestone,3
+2173,2307484,compLexity,Cache,4
+2174,2307482,Renegades,Cache,3
+2175,2307482,Liquid,Mirage,4
+2176,2307483,Misfits,Mirage,3
+2177,2307483,compLexity,Cache,4
+2178,2307476,Immortals,Cache,3
+2179,2307476,compLexity,Cobblestone,4
+2180,2307475,CLG,Mirage,3
+2181,2307475,Misfits,Dust2,4
+2182,2307473,Luminosity,Cobblestone,3
+2183,2307473,Liquid,Dust2,4
+2184,2307472,NRG,Mirage,3
+2185,2307472,Renegades,Train,4
+2186,2307464,Splyce,Cobblestone,3
+2187,2307464,compLexity,Cache,4
+2188,2307466,CLG,Train,3
+2189,2307466,VeloX,Cache,4
+2190,2307467,tNt,Cache,3
+2191,2307467,Liquid,Mirage,4
+2192,2307470,Blight,Cobblestone,3
+2193,2307470,NRG,Mirage,4
+2194,2307468,Mythic,Dust2,3
+2195,2307468,Luminosity,Train,4
+2196,2307463,SBS,Dust2,3
+2197,2307463,Immortals,Cobblestone,4
+2198,2307465,Ajax,Cobblestone,3
+2199,2307465,Misfits,Mirage,4
+2200,2307469,CLG Red,Dust2,3
+2201,2307469,Renegades,Cobblestone,4
+2202,2307440,BIG,Cache,3
+2203,2307440,FlipSid3,Train,4
+2204,2307438,Heroic,Train,3
+2205,2307438,BIG,Dust2,4
+2206,2307439,LDLC,Cache,3
+2207,2307439,FlipSid3,Train,4
+2208,2307437,BIG,Dust2,3
+2209,2307437,Vega Squadron,Train,4
+2210,2307436,fnatic Academy,Cache,3
+2211,2307436,LDLC,Overpass,4
+2212,2307435,Rogue,Mirage,3
+2213,2307435,BIG,Cache,4
+2214,2307434,fnatic Academy,Cache,3
+2215,2307434,qwerty,Train,4
+2216,2307462,Kinguin,Train,3
+2217,2307462,Envy,Dust2,4
+2218,2307461,Space Soldiers,Cobblestone,3
+2219,2307461,Virtus.pro,Nuke,4
+2220,2307459,Envy,Cache,3
+2221,2307459,Space Soldiers,Cobblestone,4
+2222,2307460,Kinguin,Dust2,3
+2223,2307460,Virtus.pro,Mirage,4
+2224,2307457,Kinguin,Cache,3
+2225,2307457,Epsilon,Overpass,4
+2226,2307458,Virtus.pro,Nuke,3
+2227,2307458,DarkPassage,Cobblestone,4
+2228,2307456,Space Soldiers,Mirage,3
+2229,2307456,iGame.com,Dust2,4
+2230,2307455,Envy,Cache,3
+2231,2307455,TYLOO,Mirage,4
+2232,2307452,Selfless,Cache,3
+2233,2307452,Space Soldiers,Train,4
+2234,2307453,Epsilon,Mirage,3
+2235,2307453,VG.CyberZen,Cobblestone,4
+2236,2307454,Virtus.pro,Cobblestone,3
+2237,2307454,K23,Cache,4
+2238,2307451,TYLOO,Mirage,3
+2239,2307451,Signature,Overpass,4
+2240,2307395,iGame.com,Dust2,5
+2241,2307395,K23,Cache,6
+2242,2307396,Colombia,Cache,5
+2243,2307396,rEAK,Train,6
+2244,2307397,.Russia,Cache,5
+2245,2307397,subtLe,Train,6
+2246,2307394,ENZO,Cache,5
+2247,2307394,VG.CyberZen,Overpass,6
+2248,2307398,Virtus.pro,Mirage,5
+2249,2307398,Epsilon,Overpass,6
+2250,2307399,Envy,Dust2,5
+2251,2307399,TeamOne,Mirage,6
+2252,2307391,DarkPassage,Cobblestone,5
+2253,2307391,Selfless,Cache,6
+2254,2307392,TYLOO,Mirage,5
+2255,2307392,JYP,Dust2,6
+2256,2307393,QuetzaL,Overpass,5
+2257,2307393,Ukraine,Mirage,6
+2258,2307390,Signature,Overpass,5
+2259,2307390,Kinguin,Cache,6
+2260,2307388,Bravado,Train,5
+2261,2307388,FIVE,Cache,6
+2262,2307385,K23,Mirage,5
+2263,2307385,Colombia,Cache,6
+2264,2307382,TeamOne,Mirage,5
+2265,2307382,subtLe,Cobblestone,6
+2266,2307386,rEAK,Dust2,5
+2267,2307386,VG.CyberZen,Overpass,6
+2268,2307387,ENZO,Train,5
+2269,2307387,iGame.com,Cache,6
+2270,2307383,.Russia,Nuke,5
+2271,2307383,Epsilon,Cobblestone,6
+2272,2307381,Virtus.pro,Nuke,5
+2273,2307381,Envy,Cache,6
+2274,2307375,TYLOO,Mirage,5
+2275,2307375,Ukraine,Cache,6
+2276,2307377,Selfless,Dust2,5
+2277,2307377,QuetzaL,Overpass,6
+2278,2307376,DarkPassage,Cobblestone,5
+2279,2307376,JYP,Mirage,6
+2280,2307380,Kinguin,Cache,5
+2281,2307380,Bravado,Train,6
+2282,2307378,Space Soldiers,Dust2,5
+2283,2307378,FIVE,Mirage,6
+2284,2307374,Colombia,Overpass,5
+2285,2307374,VG.CyberZen,Cobblestone,6
+2286,2307371,TeamOne,Cobblestone,5
+2287,2307371,Virtus.pro,Mirage,6
+2288,2307373,rEAK,Cache,5
+2289,2307373,iGame.com,Dust2,6
+2290,2307369,Epsilon,Cobblestone,5
+2291,2307369,subtLe,Dust2,6
+2292,2307370,Envy,Cobblestone,5
+2293,2307370,.Russia,Train,6
+2294,2307372,K23,Mirage,5
+2295,2307372,ENZO,Overpass,6
+2296,2307347,K23,Dust2,5
+2297,2307347,VG.CyberZen,Cache,6
+2298,2307358,DarkPassage,Cobblestone,5
+2299,2307358,TYLOO,Overpass,6
+2300,2307357,QuetzaL,Mirage,5
+2301,2307357,JYP,Dust2,6
+2302,2307354,FIVE,Train,5
+2303,2307354,Signature,Mirage,6
+2304,2307355,Space Soldiers,Train,5
+2305,2307355,Bravado,Cache,6
+2306,2307356,Ukraine,Mirage,5
+2307,2307356,Selfless,Dust2,6
+2308,2307349,Colombia,Cache,5
+2309,2307349,iGame.com,Dust2,6
+2310,2307348,rEAK,Mirage,5
+2311,2307348,ENZO,Train,6
+2312,2307351,Virtus.pro,Cobblestone,5
+2313,2307351,subtLe,Mirage,6
+2314,2307352,TeamOne,Dust2,5
+2315,2307352,.Russia,Cobblestone,6
+2316,2307350,Envy,Cobblestone,5
+2317,2307350,Epsilon,Cache,6
+2318,2307345,Ukraine,Overpass,5
+2319,2307345,DarkPassage,Cache,6
+2320,2307346,TYLOO,Cobblestone,5
+2321,2307346,QuetzaL,Overpass,6
+2322,2307344,JYP,Cobblestone,5
+2323,2307344,Selfless,Mirage,6
+2324,2307341,Kinguin,Cobblestone,5
+2325,2307341,Space Soldiers,Train,6
+2326,2307342,Bravado,Train,5
+2327,2307342,Signature,Mirage,6
+2328,2307339,iGame.com,Train,5
+2329,2307339,VG.CyberZen,Cobblestone,6
+2330,2307335,.Russia,Mirage,5
+2331,2307335,Virtus.pro,Cache,6
+2332,2307336,Epsilon,Overpass,5
+2333,2307336,TeamOne,Dust2,6
+2334,2307338,K23,Mirage,5
+2335,2307338,rEAK,Cache,6
+2336,2307340,Colombia,Overpass,5
+2337,2307340,ENZO,Train,6
+2338,2307337,Envy,Mirage,5
+2339,2307337,subtLe,Cache,6
+2340,2307329,Selfless,Mirage,5
+2341,2307329,TYLOO,Cache,6
+2342,2307330,JYP,Mirage,5
+2343,2307330,Ukraine,Train,6
+2344,2307331,QuetzaL,Cache,5
+2345,2307331,DarkPassage,Cobblestone,6
+2346,2307332,Space Soldiers,Train,5
+2347,2307332,Signature,Cache,6
+2348,2307333,FIVE,Mirage,5
+2349,2307333,Kinguin,Overpass,6
+2350,2307450,Mystical,Dust2,3
+2351,2307450,ProGaming,Mirage,4
+2352,2307411,IDM,Cobblestone,3
+2353,2307411,ProGaming,Mirage,4
+2354,2307412,Crashers,Cobblestone,3
+2355,2307412,Mystical,Dust2,4
+2356,2307406,Mystical,Dust2,3
+2357,2307406,Operation Kino,Mirage,4
+2358,2307405,ProGaming,Train,3
+2359,2307405,ProGamers,Overpass,4
+2360,2307404,Black Dragons,Cobblestone,3
+2361,2307404,IDM,Mirage,4
+2362,2307442,Dark Sided,Cache,3
+2363,2307442,SYF,Overpass,4
+2364,2307441,Immunity,Mirage,3
+2365,2307441,Skyfire,Dust2,4
+2366,2307424,Chiefs,Overpass,3
+2367,2307424,Dark Sided,Cache,4
+2368,2307427,Parallax,Overpass,3
+2369,2307427,Skyfire,Dust2,4
+2370,2307426,Immunity,Mirage,3
+2371,2307426,Animal Squad,Dust2,4
+2372,2307425,Legacy,Cobblestone,3
+2373,2307425,SYF,Mirage,4
+2374,2307508,PRIDE,Cobblestone,3
+2375,2307508,G2,Nuke,4
+2376,2307306,FlipSid3,Overpass,3
+2377,2307306,FaZe,Mirage,4
+2378,2307307,PRIDE,Cobblestone,3
+2379,2307307,Gambit,Overpass,4
+2380,2307308,HellRaisers,Cobblestone,3
+2381,2307308,mousesports,Mirage,4
+2382,2307309,fnatic,Cache,3
+2383,2307309,G2,Dust2,4
+2384,2307299,FlipSid3,Overpass,3
+2385,2307299,Heroic,Mirage,4
+2386,2307302,BIG,Cobblestone,3
+2387,2307302,mousesports,Cache,4
+2388,2307301,PRIDE,Cobblestone,3
+2389,2307301,GODSENT,Train,4
+2390,2307303,Tricked,Nuke,3
+2391,2307303,HellRaisers,Train,4
+2392,2307305,DarkPassage,Cobblestone,3
+2393,2307305,G2,Dust2,4
+2394,2307410,Japaleno,Cobblestone,3
+2395,2307410,fnatic,Mirage,4
+2396,2307300,Norse,Overpass,3
+2397,2307300,Gambit,Mirage,4
+2398,2307298,EPG,Mirage,3
+2399,2307298,FaZe,Train,4
+2400,2307281,EPG,Train,3
+2401,2307281,RuSh3D,Mirage,4
+2402,2307280,Quantum Bellator Fire,Cobblestone,3
+2403,2307280,EPG,Mirage,4
+2404,2307279,EPG,Dust2,3
+2405,2307279,Tengri,Train,4
+2406,2307278,RuSh3D,Dust2,3
+2407,2307278,Quantum Bellator Fire,Cobblestone,4
+2408,2307277,EPG,Nuke,3
+2409,2307277,1337,Dust2,4
+2410,2307276,zARLANS,Cache,3
+2411,2307276,Tengri,Overpass,4
+2412,2307275,Tengri,Mirage,3
+2413,2307275,RuSh3D,Overpass,4
+2414,2307273,Quantum Bellator Fire,Mirage,3
+2415,2307273,1337,Train,4
+2416,2307272,EPG,Overpass,3
+2417,2307272,Tengri,Mirage,4
+2418,2307271,zARLANS,Mirage,3
+2419,2307271,Quantum Bellator Fire,Cobblestone,4
+2420,2307259,BOOYAKA,Dust2,3
+2421,2307259,Tengri,Mirage,4
+2422,2307260,BOOYAKA,Cobblestone,3
+2423,2307260,zARLANS,Mirage,4
+2424,2307261,BOOYAKA,Overpass,3
+2425,2307261,RuSh3D,Mirage,4
+2426,2307258,RuSh3D,Cobblestone,3
+2427,2307258,Tengri,Mirage,4
+2428,2307262,Sniper Squad,Mirage,3
+2429,2307262,Quantum Bellator Fire,Cobblestone,4
+2430,2307249,Quantum Bellator Fire,Mirage,3
+2431,2307249,1337,Train,4
+2432,2307248,Sniper Squad,Mirage,3
+2433,2307248,EPG,Cobblestone,4
+2434,2307251,zARLANS,Cache,3
+2435,2307251,Tengri,Mirage,4
+2436,2307247,1337,Dust2,3
+2437,2307247,EPG,Overpass,4
+2438,2307246,1337,Train,3
+2439,2307246,Sniper Squad,Mirage,4
+2440,2307245,EPG,Cobblestone,3
+2441,2307245,Quantum Bellator Fire,Dust2,4
+2442,2307250,zARLANS,Mirage,3
+2443,2307250,RuSh3D,Cobblestone,4
+2444,2307257,Singularity,Mirage,3
+2445,2307257,Outlaws,Train,4
+2446,2307185,DEMONIO,Cache,3
+2447,2307185,Black Dragons,Cobblestone,4
+2448,2307176,ProGaming,Mirage,3
+2449,2307176,DEMONIO,Dust2,4
+2450,2307175,Black Dragons,Cobblestone,3
+2451,2307175,TShow,Train,4
+2452,2307169,Furious,Overpass,3
+2453,2307169,Black Dragons,Cobblestone,4
+2454,2307172,DEMONIO,Dust2,3
+2455,2307172,TeamOne,Train,4
+2456,2307171,Uranus,Cobblestone,3
+2457,2307171,TShow,Mirage,4
+2458,2307170,KaBuM.IDM,Dust2,3
+2459,2307170,ProGaming,Mirage,4
+2460,2307078,Tricked,Nuke,3
+2461,2307078,Outlaws,Train,4
+2462,2307041,Tricked,Nuke,3
+2463,2307041,EPG,Mirage,4
+2464,2307042,DarkPassage,Train,3
+2465,2307042,Outlaws,Overpass,4
+2466,2306997,Tricked,Overpass,3
+2467,2306997,PRIDE,Mirage,4
+2468,2307019,Infused,Dust2,3
+2469,2307019,DarkPassage,Mirage,4
+2470,2306996,Ha MaSSe,Mirage,3
+2471,2306996,EPG,Overpass,4
+2472,2307007,Fragsport,Mirage,3
+2473,2307007,Outlaws,Nuke,4
+2474,2307155,Outlaws,Overpass,3
+2475,2307155,RESISTANCE,Cache,4
+2476,2307154,levelONE,Mirage,3
+2477,2307154,Outlaws,Nuke,4
+2478,2307153,RESISTANCE,Cobblestone,3
+2479,2307153,Brewtopia,Cache,4
+2480,2307124,TwisteD,Cache,3
+2481,2307124,RESISTANCE,Cobblestone,4
+2482,2307119,levelONE,Mirage,3
+2483,2307119,Overpowered,Train,4
+2484,2307104,Epsilon,Overpass,3
+2485,2307104,VG.CyberZen,Cobblestone,4
+2486,2307104,Epsilon,Mirage,5
+2487,2307104,VG.CyberZen,Dust2,6
+2488,2307103,iGame.com,Train,5
+2489,2307103,TYLOO,Cobblestone,6
+2490,2307102,VG.CyberZen,Dust2,5
+2491,2307102,iGame.com,Train,6
+2492,2307101,TYLOO,Cobblestone,5
+2493,2307101,Epsilon,Cache,6
+2494,2307100,Innova,Cache,5
+2495,2307100,Epsilon,Mirage,6
+2496,2307085,Immunity,Dust2,5
+2497,2307085,VG.CyberZen,Cobblestone,6
+2498,2307090,ex-g3x,Dust2,5
+2499,2307090,EDG,Mirage,6
+2500,2307099,iGame.com,Train,5
+2501,2307099,JYP,Cobblestone,6
+2502,2307097,Born Of Fire,Nuke,5
+2503,2307097,Epsilon,Overpass,6
+2504,2307084,TYLOO,Cache,5
+2505,2307084,ex-g3x,Train,6
+2506,2307096,iGame.com,Cache,5
+2507,2307096,Epsilon,Overpass,6
+2508,2307088,VG.CyberZen,Train,5
+2509,2307088,ex-g3x,Dust2,6
+2510,2307095,JYP,Dust2,5
+2511,2307095,Born Of Fire,Mirage,6
+2512,2307083,Immunity,Dust2,5
+2513,2307083,TYLOO,Cobblestone,6
+2514,2307098,iGame.com,Dust2,5
+2515,2307098,Innova,Cache,6
+2516,2307094,JYP,Cobblestone,5
+2517,2307094,Epsilon,Mirage,6
+2518,2307089,EDG,Dust2,5
+2519,2307089,VG.CyberZen,Cobblestone,6
+2520,2307087,ex-g3x,Mirage,5
+2521,2307087,Immunity,Dust2,6
+2522,2307082,EDG,Mirage,5
+2523,2307082,TYLOO,Cobblestone,6
+2524,2307093,Born Of Fire,Mirage,5
+2525,2307093,Innova,Dust2,6
+2526,2307086,Immunity,Mirage,5
+2527,2307086,EDG,Dust2,6
+2528,2307092,JYP,Mirage,5
+2529,2307092,Innova,Cache,6
+2530,2307081,TYLOO,Overpass,5
+2531,2307081,VG.CyberZen,Dust2,6
+2532,2307091,iGame.com,Train,5
+2533,2307091,Born Of Fire,Dust2,6
+2534,2307143,OpTic,Overpass,3
+2535,2307143,Astralis,Train,4
+2536,2307142,SK,Cache,3
+2537,2307142,Astralis,Overpass,4
+2538,2307141,OpTic,Overpass,3
+2539,2307141,Envy,Nuke,4
+2540,2307065,SK,Cache,3
+2541,2307065,Dignitas,Mirage,4
+2542,2307064,OpTic,Train,3
+2543,2307064,FaZe,Nuke,4
+2544,2307063,Immortals,Cache,3
+2545,2307063,SK,Train,4
+2546,2307062,Cloud9,Dust2,3
+2547,2307062,OpTic,Overpass,4
+2548,2307079,Tricked,Overpass,3
+2549,2307079,PENTA,Dust2,4
+2550,2307076,Rogue,Dust2,3
+2551,2307076,Tricked,Nuke,4
+2552,2307075,PENTA,Cache,3
+2553,2307075,LDLC,Cobblestone,4
+2554,2307018,TYLOO,Mirage,3
+2555,2307018,VG.CyberZen,Dust2,4
+2556,2307016,VG.CyberZen,Train,3
+2557,2307016,Recca,Dust2,4
+2558,2307017,Signature,Cache,3
+2559,2307017,TYLOO,Mirage,4
+2560,2307015,TYLOO,Cobblestone,3
+2561,2307015,5POWER,Cache,4
+2562,2307014,Signature,Mirage,3
+2563,2307014,Risky,Train,4
+2564,2307013,TheMongolz,Dust2,3
+2565,2307013,Recca,Mirage,4
+2566,2307048,Cloud9,Train,3
+2567,2307048,TSM,Cache,4
+2568,2307046,Muffin Lightning,Cache,3
+2569,2307046,TSM,Mirage,4
+2570,2307047,Immortals,Cobblestone,3
+2571,2307047,Cloud9,Dust2,4
+2572,2307045,DarkPassage,Mirage,5
+2573,2307045,iNation,Dust2,6
+2574,2307044,DarkPassage,Mirage,5
+2575,2307044,Nexus,Overpass,6
+2576,2307043,Outlaws,Cobblestone,5
+2577,2307043,Nexus,Nuke,6
+2578,2307035,iNation,Cache,5
+2579,2307035,DarkPassage,Mirage,6
+2580,2307034,iNation,Nuke,5
+2581,2307034,Nexus,Mirage,6
+2582,2307033,Outlaws,Train,5
+2583,2307033,DarkPassage,Cobblestone,6
+2584,2307020,eUnited,Nuke,3
+2585,2307020,Luminosity,Train,4
+2586,2307005,Rush,Cache,3
+2587,2307005,Luminosity,Cobblestone,4
+2588,2307004,eUnited,Train,3
+2589,2307004,TSM,Mirage,4
+2590,2306850,eUnited,Overpass,3
+2591,2306850,L4SALARY,Nuke,4
+2592,2306849,Rush,Overpass,3
+2593,2306849,Muffin Lightning,Train,4
+2594,2307010,Astralis,Train,3
+2595,2307010,OpTic,Cobblestone,4
+2596,2307009,OpTic,Train,3
+2597,2307009,FaZe,Overpass,4
+2598,2307008,Astralis,Overpass,3
+2599,2307008,SK,Train,4
+2600,2306823,Virtus.pro,Nuke,3
+2601,2306823,FaZe,Overpass,4
+2602,2306822,OpTic,Train,3
+2603,2306822,mousesports,Cache,4
+2604,2306821,NiP,Cobblestone,3
+2605,2306821,Astralis,Train,4
+2606,2306820,SK,Dust2,3
+2607,2306820,Dignitas,Mirage,4
+2608,2306298,OpTic,Cobblestone,3
+2609,2306298,fnatic,Dust2,4
+2610,2306297,OpTic,Overpass,3
+2611,2306297,Envy,Dust2,4
+2612,2306295,Natus Vincere,Dust2,3
+2613,2306295,SK,Train,4
+2614,2306294,ALTERNATE aTTaX,Cobblestone,3
+2615,2306294,Natus Vincere,Overpass,4
+2616,2306292,NiP,Nuke,3
+2617,2306292,G2,Train,4
+2618,2306291,Echo Fox,Nuke,3
+2619,2306291,G2,Dust2,4
+2620,2306022,FaZe,Mirage,3
+2621,2306022,Cloud9,Train,4
+2622,2306021,Immortals,Mirage,3
+2623,2306021,FaZe,Train,4
+2624,2306933,Heroic,Cobblestone,3
+2625,2306933,VG.CyberZen,Overpass,4
+2626,2306933,Heroic,Mirage,5
+2627,2306933,VG.CyberZen,Dust2,6
+2628,2306873,paiN,Train,5
+2629,2306873,VG.CyberZen,Cobblestone,6
+2630,2306871,Heroic,Cobblestone,5
+2631,2306871,compLexity,Train,6
+2632,2306842,FIVE,Cache,3
+2633,2306842,compLexity,Dust2,4
+2634,2306841,FIVE,Dust2,3
+2635,2306841,Vault,Overpass,4
+2636,2306810,5POWER,Mirage,5
+2637,2306810,paiN,Cache,6
+2638,2306965,Brewtopia,Cobblestone,5
+2639,2306965,Nexus,Cache,6
+2640,2306966,Outlaws,Train,5
+2641,2306966,Netland,Overpass,6
+2642,2306943,Outlaws,Cobblestone,5
+2643,2306943,Nexus,Mirage,6
+2644,2306942,Brewtopia,Mirage,5
+2645,2306942,Netland,Overpass,6
+2646,2306963,DIVIZON,Train,5
+2647,2306963,EURONICS,Cobblestone,6
+2648,2306962,PENTA,Cache,5
+2649,2306962,ALTERNATE aTTaX,Dust2,6
+2650,2306911,Renegades,Nuke,3
+2651,2306911,Gambit,Cobblestone,4
+2652,2306910,Gambit,Cobblestone,3
+2653,2306910,GODSENT,Train,4
+2654,2306909,Renegades,Dust2,3
+2655,2306909,Kinguin,Mirage,4
+2656,2306908,Cloud9,Mirage,3
+2657,2306908,Gambit,Cobblestone,4
+2658,2306907,FlipSid3,Overpass,3
+2659,2306907,Kinguin,Cache,4
+2660,2306906,OpTic,Overpass,3
+2661,2306906,Cloud9,Dust2,4
+2662,2306905,FlipSid3,Train,3
+2663,2306905,Dignitas,Overpass,4
+2664,2306932,Pixel,Dust2,5
+2665,2306932,Revolte,Mirage,6
+2666,2306930,DarkPassage,Cobblestone,5
+2667,2306930,Outlaws,Train,6
+2668,2306929,DarkPassage,Cobblestone,5
+2669,2306929,Outlaws,Train,6
+2670,2306931,Pixel,Dust2,5
+2671,2306931,Revolte,Mirage,6
+2672,2306928,Nexus,Cache,5
+2673,2306928,Bpro,Cobblestone,6
+2674,2306927,Nexus,Cache,5
+2675,2306927,Bpro,Cobblestone,6
+2676,2306897,Revolte,Mirage,5
+2677,2306897,Nexus,Cache,6
+2678,2306896,Revolte,Mirage,5
+2679,2306896,Nexus,Cache,6
+2680,2306895,Brewtopia,Mirage,5
+2681,2306895,Pixel,Cobblestone,6
+2682,2306894,Brewtopia,Mirage,5
+2683,2306894,Pixel,Cobblestone,6
+2684,2306848,Pixel,Mirage,5
+2685,2306848,Nexus,Cache,6
+2686,2306847,Pixel,Mirage,5
+2687,2306847,Nexus,Cache,6
+2688,2306846,iNation,Train,5
+2689,2306846,Pixel,Mirage,6
+2690,2306845,iNation,Train,5
+2691,2306845,Pixel,Mirage,6
+2692,2306817,Brewtopia,Mirage,5
+2693,2306817,iNation,Cache,6
+2694,2306816,Brewtopia,Mirage,5
+2695,2306816,iNation,Cache,6
+2696,2306815,Revolte,Cobblestone,5
+2697,2306815,Outlaws,Mirage,6
+2698,2306814,Revolte,Cobblestone,5
+2699,2306814,Outlaws,Mirage,6
+2700,2306711,Bpro,Cache,5
+2701,2306711,DarkPassage,Train,6
+2702,2306710,Bpro,Cache,5
+2703,2306710,DarkPassage,Train,6
+2704,2306696,Brewtopia,Mirage,5
+2705,2306696,Bpro,Overpass,6
+2706,2306695,Brewtopia,Mirage,5
+2707,2306695,Bpro,Overpass,6
+2708,2306694,DarkPassage,Cobblestone,5
+2709,2306694,Revolte,Dust2,6
+2710,2306693,DarkPassage,Cobblestone,5
+2711,2306693,Revolte,Dust2,6
+2712,2306692,Pixel,Mirage,5
+2713,2306692,Outlaws,Train,6
+2714,2306691,Pixel,Mirage,5
+2715,2306691,Outlaws,Train,6
+2716,2306638,DarkPassage,Dust2,5
+2717,2306638,iNation,Mirage,6
+2718,2306637,DarkPassage,Dust2,5
+2719,2306637,iNation,Mirage,6
+2720,2306488,Outlaws,Cache,5
+2721,2306488,Bpro,Train,6
+2722,2306487,Outlaws,Cache,5
+2723,2306487,Bpro,Train,6
+2724,2306492,Nexus,Cache,5
+2725,2306492,Brewtopia,Mirage,6
+2726,2306491,Nexus,Cache,5
+2727,2306491,Brewtopia,Mirage,6
+2728,2306490,iNation,Mirage,5
+2729,2306490,Revolte,Cache,6
+2730,2306489,iNation,Mirage,5
+2731,2306489,Revolte,Cache,6
+2732,2306478,Bpro,Dust2,5
+2733,2306478,Pixel,Cache,6
+2734,2306477,Bpro,Dust2,5
+2735,2306477,Pixel,Cache,6
+2736,2306452,Outlaws,Cobblestone,5
+2737,2306452,Guerilla Method,Mirage,6
+2738,2306451,Outlaws,Cobblestone,5
+2739,2306451,Guerilla Method,Mirage,6
+2740,2306400,Bpro,Dust2,5
+2741,2306400,Revolte,Mirage,6
+2742,2306399,Bpro,Dust2,5
+2743,2306399,Revolte,Mirage,6
+2744,2306382,Revolte,Nuke,5
+2745,2306382,Guerilla Method,Cobblestone,6
+2746,2306381,Revolte,Nuke,5
+2747,2306381,Guerilla Method,Cobblestone,6
+2748,2306317,Outlaws,Train,5
+2749,2306317,Nexus,Mirage,6
+2750,2306316,Outlaws,Train,5
+2751,2306316,Nexus,Mirage,6
+2752,2306648,g3x,Train,3
+2753,2306648,BigGods,Mirage,4
+2754,2306648,g3x,Nuke,5
+2755,2306648,BigGods,Dust2,6
+2756,2306146,TeamOne,Mirage,3
+2757,2306146,g3x,Cobblestone,4
+2758,2306145,BigGods,Mirage,3
+2759,2306145,CNB,Cache,4
+2760,2306837,Epsilon,Mirage,3
+2761,2306837,iGame.com,Dust2,4
+2762,2306836,Gambit,Train,3
+2763,2306836,Space Soldiers,Dust2,4
+2764,2306835,iGame.com,Train,3
+2765,2306835,Gambit,Cache,4
+2766,2306735,Epsilon,Cache,3
+2767,2306735,Space Soldiers,Cobblestone,4
+2768,2305946,Heroic,Train,3
+2769,2305946,Space Soldiers,Dust2,4
+2770,2305930,Epsilon,Cache,3
+2771,2305930,FlipSid3,Cobblestone,4
+2772,2305694,FaZe,Mirage,3
+2773,2305694,Gambit,Dust2,4
+2774,2305166,HellRaisers,Train,3
+2775,2305166,Epsilon,Mirage,4
+2776,2305165,MK,Overpass,3
+2777,2305165,LGR,Dust2,4
+2778,2305095,Gambit,Dust2,3
+2779,2305095,Preparation,Mirage,4
+2780,2304867,HellRaisers,Nuke,3
+2781,2304867,PENTA,Cache,4
+2782,2304525,Space Soldiers,Cobblestone,3
+2783,2304525,LGR,Train,4
+2784,2304392,PENTA,Cache,3
+2785,2304392,Preparation,Train,4
+2786,2304391,ENCE,Cache,3
+2787,2304391,LGR,Dust2,4
+2788,2304364,Space Soldiers,Cobblestone,3
+2789,2304364,Spirit,Cache,4
+2790,2304362,Gambit,Cobblestone,3
+2791,2304362,Epsilon,Mirage,4
+2792,2304330,Escape,Mirage,3
+2793,2304330,Gambit,Train,4
+2794,2304329,Epsilon,Mirage,3
+2795,2304329,PRIDE,Cache,4
+2796,2304182,ALTERNATE aTTaX,Dust2,3
+2797,2304182,HellRaisers,Train,4
+2798,2304068,X,Train,3
+2799,2304068,MK,Dust2,4
+2800,2304050,fruits,Cobblestone,3
+2801,2304050,X,Train,4
+2802,2304049,Kinguin,Cache,3
+2803,2304049,MK,Mirage,4
+2804,2306718,SK,Train,3
+2805,2306718,NiP,Cache,4
+2806,2306717,NiP,Nuke,3
+2807,2306717,FaZe,Train,4
+2808,2306716,SK,Train,3
+2809,2306716,Astralis,Mirage,4
+2810,2306715,NiP,Dust2,3
+2811,2306715,Immortals,Cobblestone,4
+2812,2306714,G2,Nuke,3
+2813,2306714,SK,Train,4
+2814,2306641,g3x,Train,3
+2815,2306641,3xTeam,Cache,4
+2816,2306617,Immortals,Cache,3
+2817,2306617,Cloud9,Train,4
+2818,2306616,Renegades,Nuke,3
+2819,2306616,FaZe,Mirage,4
+2820,2306615,Echo Fox,Dust2,3
+2821,2306615,TYLOO,Mirage,4
+2822,2306613,TSM,Nuke,3
+2823,2306613,FaZe,Mirage,4
+2824,2306611,Echo Fox,Nuke,3
+2825,2306611,FlipSid3,Train,4
+2826,2306629,ALLIN,Cache,5
+2827,2306629,Spirit,Dust2,6
+2828,2306627,ALLIN,Mirage,5
+2829,2306627,Spirit,Overpass,6
+2830,2306619,Quantum Bellator Fire,Train,5
+2831,2306619,ALLIN,Dust2,6
+2832,2306618,Spirit,Dust2,5
+2833,2306618,VwS,Overpass,6
+2834,2306521,TheMongolz,Cache,3
+2835,2306521,dream[S]cape,Mirage,4
+2836,2306521,TheMongolz,Cobblestone,5
+2837,2306521,dream[S]cape,Overpass,6
+2838,2306520,TheMongolz,Cache,3
+2839,2306520,Leapfrog,Train,4
+2840,2306519,Risky,Dust2,3
+2841,2306519,dream[S]cape,Mirage,4
+2842,2306515,5POWER,Cache,3
+2843,2306515,dream[S]cape,Train,4
+2844,2306518,Leapfrog,Dust2,3
+2845,2306518,BOT,Cache,4
+2846,2306517,TheMongolz,Cache,3
+2847,2306517,AVANT,Overpass,4
+2848,2306516,Risky,Cobblestone,3
+2849,2306516,Chiefs,Mirage,4
+2850,2306514,Savor the Fear,Dust2,3
+2851,2306514,5POWER,Mirage,4
+2852,2306512,BOOT,Mirage,3
+2853,2306512,TheMongolz,Dust2,4
+2854,2306513,dream[S]cape,Dust2,3
+2855,2306513,AVANT,Nuke,4
+2856,2306511,Taiwan Z,Mirage,3
+2857,2306511,Chiefs,Cache,4
+2858,2306507,Taiwan Z,Mirage,3
+2859,2306507,Leapfrog,Train,4
+2860,2306510,5POWER,Mirage,3
+2861,2306510,Risky,Train,4
+2862,2306508,BOOT,Cobblestone,3
+2863,2306508,BOT,Cache,4
+2864,2306509,dream[S]cape,Train,3
+2865,2306509,Sabertooth,Cache,4
+2866,2306503,Chiefs,Mirage,3
+2867,2306503,Leapfrog,Overpass,4
+2868,2306506,Savor the Fear,Dust2,3
+2869,2306506,Risky,Overpass,4
+2870,2306504,BOT,Cobblestone,3
+2871,2306504,TheMongolz,Cache,4
+2872,2306505,Sabertooth,Nuke,3
+2873,2306505,AVANT,Mirage,4
+2874,2306620,OpTic,Cobblestone,3
+2875,2306620,G2,Dust2,4
+2876,2306606,OpTic,Cache,3
+2877,2306606,Heroic,Mirage,4
+2878,2306605,G2,Overpass,3
+2879,2306605,Envy,Nuke,4
+2880,2306596,NRG,Dust2,3
+2881,2306596,OpTic,Cobblestone,4
+2882,2306595,Liquid,Train,3
+2883,2306595,G2,Cache,4
+2884,2306588,CLG,Overpass,3
+2885,2306588,NRG,Dust2,4
+2886,2306587,compLexity,Cache,3
+2887,2306587,Liquid,Nuke,4
+2888,2306582,Norse,Train,3
+2889,2306582,ENCE,Mirage,4
+2890,2306581,Epsilon,Mirage,3
+2891,2306581,BFAIM,Cobblestone,4
+2892,2306646,TShow,Overpass,3
+2893,2306646,Black Dragons,Mirage,4
+2894,2306647,ProGaming,Mirage,3
+2895,2306647,TeamOne,Cobblestone,4
+2896,2306566,TeamOne,Train,3
+2897,2306566,Black Dragons,Mirage,4
+2898,2306565,TShow,Overpass,3
+2899,2306565,ProGaming,Train,4
+2900,2306484,Argentina,Overpass,3
+2901,2306484,Black Dragons,Cache,4
+2902,2306486,NoX,Overpass,3
+2903,2306486,TShow,Mirage,4
+2904,2306485,3xTeam,Cache,3
+2905,2306485,ProGaming,Train,4
+2906,2306475,DEMONIO,Cobblestone,3
+2907,2306475,TeamOne,Train,4
+2908,2306572,Muffin Lightning,Overpass,3
+2909,2306572,Immortals,Train,4
+2910,2306571,paiN,Dust2,3
+2911,2306571,TSM,Train,4
+2912,2306495,Muffin Lightning,Cache,3
+2913,2306495,Echo Fox,Dust2,4
+2914,2306525,Selfless,Mirage,3
+2915,2306525,paiN,Overpass,4
+2916,2306523,Immortals,Cobblestone,3
+2917,2306523,Splyce,Overpass,4
+2918,2306496,Cloud9,Train,3
+2919,2306496,TSM,Cobblestone,4
+2920,2306397,TheMongolz,Nuke,3
+2921,2306397,VG.CyberZen,Cobblestone,4
+2922,2306397,TheMongolz,Dust2,5
+2923,2306397,VG.CyberZen,Overpass,6
+2924,2306389,dream[S]cape,Dust2,3
+2925,2306389,VG.CyberZen,Train,4
+2926,2306323,VG.CyberZen,Train,3
+2927,2306323,Fire Dragoon,Dust2,4
+2928,2306072,New4,Train,3
+2929,2306072,MVP.karnal,Dust2,4
+2930,2306017,VG.CyberZen,Mirage,3
+2931,2306017,Signature,Dust2,4
+2932,2306014,New4,Cache,3
+2933,2306014,dream[S]cape,Overpass,4
+2934,2305999,VG.CyberZen,Mirage,3
+2935,2305999,TheMongolz,Dust2,4
+2936,2305966,MiTH,Mirage,3
+2937,2305966,MVP.karnal,Cache,4
+2938,2305939,MVP.karnal,Cobblestone,3
+2939,2305939,dream[S]cape,Dust2,4
+2940,2305938,BOOT,Cache,3
+2941,2305938,Signature,Train,4
+2942,2305775,VG.CyberZen,Nuke,3
+2943,2305775,Signature,Mirage,4
+2944,2305624,MiTH,Mirage,3
+2945,2305624,New4,Cache,4
+2946,2305563,BOOT,Cache,3
+2947,2305563,TheMongolz,Dust2,4
+2948,2306494,compLexity,Dust2,3
+2949,2306494,Muffin Lightning,Mirage,4
+2950,2306493,paiN,Mirage,3
+2951,2306493,Vault,Cache,4
+2952,2306481,RivaL,Dust2,3
+2953,2306481,Muffin Lightning,Train,4
+2954,2306482,compLexity,Cache,3
+2955,2306482,Wizard,Mirage,4
+2956,2306480,Vault,Train,3
+2957,2306480,PuDI,Nuke,4
+2958,2306446,HellRaisers,Cobblestone,3
+2959,2306446,GODSENT,Mirage,4
+2960,2306445,GODSENT,Mirage,3
+2961,2306445,Epsilon,Cache,4
+2962,2306444,Epsilon,Cache,3
+2963,2306444,Space Soldiers,Dust2,4
+2964,2306443,GODSENT,Train,3
+2965,2306443,HellRaisers,Cobblestone,4
+2966,2306433,HellRaisers,Nuke,3
+2967,2306433,Space Soldiers,Cobblestone,4
+2968,2306432,GODSENT,Train,3
+2969,2306432,Epsilon,Cache,4
+2970,2306430,ENCE,Mirage,3
+2971,2306430,HellRaisers,Cobblestone,4
+2972,2306429,GODSENT,Train,3
+2973,2306429,LDLC,Dust2,4
+2974,2306426,Heroic,Train,3
+2975,2306426,HellRaisers,Nuke,4
+2976,2306428,ALTERNATE aTTaX,Cobblestone,3
+2977,2306428,GODSENT,Train,4
+2978,2306450,Kinguin,Cobblestone,3
+2979,2306450,Gambit,Dust2,4
+2980,2306450,Kinguin,Mirage,5
+2981,2306450,Gambit,Train,6
+2982,2306449,Rogue,Mirage,3
+2983,2306449,Kinguin,Cache,4
+2984,2306442,Rogue,Mirage,3
+2985,2306442,fnatic Academy,Cache,4
+2986,2306436,Gambit,Dust2,3
+2987,2306436,Kinguin,Train,4
+2988,2306435,EURONICS,Cobblestone,3
+2989,2306435,Rogue,Mirage,4
+2990,2306434,PENTA,Cache,3
+2991,2306434,fnatic Academy,Mirage,4
+2992,2306424,PENTA,Cache,3
+2993,2306424,Kinguin,Cobblestone,4
+2994,2306416,fnatic Academy,Cobblestone,3
+2995,2306416,DIVIZON,Cache,4
+2996,2306409,EURONICS,Overpass,3
+2997,2306409,Kinguin,Cobblestone,4
+2998,2306408,Rogue,Mirage,3
+2999,2306408,Gambit,Nuke,4
+3000,2306393,Millenium,Dust2,3
+3001,2306393,PENTA,Cache,4
+3002,2306392,DIVIZON,Cache,3
+3003,2306392,Rogue,Mirage,4
+3004,2306391,fnatic Academy,Cobblestone,3
+3005,2306391,Gambit,Overpass,4
+3006,2306375,Athletico,Mirage,3
+3007,2306375,Chiefs,Cache,4
+3008,2306375,Athletico,Nuke,5
+3009,2306375,Chiefs,Train,6
+3010,2306374,Chiefs,Cache,3
+3011,2306374,Parallax,Mirage,4
+3012,2306373,Immunity,Overpass,3
+3013,2306373,Athletico,Train,4
+3014,2307066,GODSENT,Train,3
+3015,2307066,Rogue,Overpass,4
+3016,2306888,Rogue,Train,3
+3017,2306888,Kinguin,Dust2,4
+3018,2306887,GODSENT,Train,3
+3019,2306887,LDLC,Cobblestone,4
+3020,2306709,Space Soldiers,Cobblestone,3
+3021,2306709,GODSENT,Cache,4
+3022,2306708,Rogue,Train,3
+3023,2306708,Epsilon,Cache,4
+3024,2306707,Spirit,Cobblestone,3
+3025,2306707,Kinguin,Cache,4
+3026,2306706,iGame.com,Cobblestone,3
+3027,2306706,LDLC,Cache,4
+3028,2306483,DarkPassage,Dust2,3
+3029,2306483,VwS,Mirage,4
+3030,2306402,DarkPassage,Cobblestone,3
+3031,2306402,Revolte,Mirage,4
+3032,2306401,Outlaws,Train,3
+3033,2306401,VwS,Mirage,4
+3034,2306417,paiN,Overpass,3
+3035,2306417,Selfless,Mirage,4
+3036,2306418,compLexity,Train,3
+3037,2306418,Splyce,Cobblestone,4
+3038,2306412,compLexity,Cache,3
+3039,2306412,Denial,Cobblestone,4
+3040,2306411,subtLe,Dust2,3
+3041,2306411,paiN,Mirage,4
+3042,2306413,Splyce,Overpass,3
+3043,2306413,SweetNSour,Train,4
+3044,2306380,zARLANS,Mirage,5
+3045,2306380,Preparation,Cobblestone,6
+3046,2306378,Preparation,Overpass,5
+3047,2306378,s4s,Train,6
+3048,2306301,Quantum Bellator Fire,Nuke,5
+3049,2306301,Enso,Dust2,6
+3050,2306299,ALLIN,Dust2,5
+3051,2306299,Quantum Bellator Fire,Train,6
+3052,2306267,ANOX,Overpass,5
+3053,2306267,VwS,Mirage,6
+3054,2306266,Bunkergg,Dust2,5
+3055,2306266,EYESports,Mirage,6
+3056,2306258,Spirit,Cobblestone,5
+3057,2306258,ANOX,Dust2,6
+3058,2306260,Tengri,Mirage,5
+3059,2306260,EYESports,Overpass,6
+3060,2306249,Renegades,Train,3
+3061,2306249,TYLOO,Mirage,4
+3062,2306250,VG.CyberZen,Train,3
+3063,2306250,TYLOO,Cache,4
+3064,2306248,TYLOO,Dust2,3
+3065,2306248,MVP Project,Overpass,4
+3066,2306220,VG.CyberZen,Dust2,3
+3067,2306220,Renegades,Nuke,4
+3068,2306219,TYLOO,Overpass,3
+3069,2306219,VG.CyberZen,Nuke,4
+3070,2306218,Renegades,Nuke,3
+3071,2306218,MVP Project,Cobblestone,4
+3072,2306182,Fire Dragoon,Dust2,3
+3073,2306182,VG.CyberZen,Cobblestone,4
+3074,2306183,Athletico,Nuke,3
+3075,2306183,MVP Project,Overpass,4
+3076,2306180,Fire Dragoon,Cache,3
+3077,2306180,BOT,Dust2,4
+3078,2306181,nxl,Dust2,3
+3079,2306181,Athletico,Cache,4
+3080,2306178,Renegades,Cobblestone,6
+3081,2306176,Renegades,Nuke,6
+3082,2306177,Athletico,Train,6
+3083,2306174,VG.CyberZen,Dust2,6
+3084,2306175,TYLOO,Mirage,6
+3085,2306268,LDLC,Dust2,3
+3086,2306268,ALTERNATE aTTaX,Cobblestone,4
+3087,2306257,Platinium,Cache,3
+3088,2306257,ALTERNATE aTTaX,Overpass,4
+3089,2306256,LDLC,Overpass,3
+3090,2306256,Space Soldiers,Train,4
+3091,2306241,SK,Overpass,3
+3092,2306241,Cloud9,Mirage,4
+3093,2306240,Cloud9,Cobblestone,3
+3094,2306240,mousesports,Mirage,4
+3095,2306239,NiP,Nuke,3
+3096,2306239,SK,Overpass,4
+3097,2306238,Cloud9,Dust2,3
+3098,2306238,OpTic,Cobblestone,4
+3099,2306237,NiP,Nuke,3
+3100,2306237,Envy,Dust2,4
+3101,2306074,Splyce,Overpass,3
+3102,2306074,VG.CyberZen,Train,4
+3103,2306073,Kinguin,Cache,3
+3104,2306073,4dimensioN,Mirage,4
+3105,2306060,4dimensioN,Mirage,3
+3106,2306060,Splyce,Overpass,4
+3107,2306059,VG.CyberZen,Dust2,3
+3108,2306059,Kinguin,Train,4
+3109,2306058,Splyce,Train,3
+3110,2306058,MVP PK,Cobblestone,4
+3111,2306054,VG.CyberZen,Overpass,3
+3112,2306054,ENZO,Cobblestone,4
+3113,2306065,subtLe,Dust2,5
+3114,2306065,Selfless,Mirage,6
+3115,2306064,QuetzaL,Cobblestone,5
+3116,2306064,TeamOne,Mirage,6
+3117,2306029,Selfless,Mirage,5
+3118,2306029,TeamOne,Train,6
+3119,2306028,subtLe,Cobblestone,5
+3120,2306028,QuetzaL,Cache,6
+3121,2306027,TeamOne,Train,5
+3122,2306027,Force of Nature,Dust2,6
+3123,2306026,QuetzaL,Mirage,5
+3124,2306026,Colombia,Overpass,6
+3125,2305977,Dignitas,Nuke,3
+3126,2305977,Virtus.pro,Cobblestone,4
+3127,2305976,Dignitas,Cobblestone,3
+3128,2305976,Natus Vincere,Overpass,4
+3129,2305975,SK,Train,3
+3130,2305975,Virtus.pro,Nuke,4
+3131,2305974,fnatic,Train,3
+3132,2305974,Dignitas,Cobblestone,4
+3133,2305973,SK,Train,3
+3134,2305973,G2,Dust2,4
+3135,2305810,fnatic,Cobblestone,5
+3136,2305810,Virtus.pro,Mirage,6
+3137,2305809,fnatic,Cobblestone,5
+3138,2305809,Virtus.pro,Mirage,6
+3139,2305808,NiP,Nuke,5
+3140,2305808,Natus Vincere,Overpass,6
+3141,2305807,NiP,Nuke,5
+3142,2305807,Natus Vincere,Overpass,6
+3143,2305806,SK,Overpass,5
+3144,2305806,HellRaisers,Cobblestone,6
+3145,2305805,SK,Overpass,5
+3146,2305805,HellRaisers,Cobblestone,6
+3147,2305804,G2,Dust2,5
+3148,2305804,Dignitas,Overpass,6
+3149,2305803,G2,Dust2,5
+3150,2305803,Dignitas,Overpass,6
+3151,2305801,fnatic,Train,5
+3152,2305801,SK,Mirage,6
+3153,2305800,Natus Vincere,Train,5
+3154,2305800,G2,Cobblestone,6
+3155,2305799,Natus Vincere,Train,5
+3156,2305799,G2,Cobblestone,6
+3157,2305798,Dignitas,Cobblestone,5
+3158,2305798,NiP,Nuke,6
+3159,2305797,Dignitas,Cobblestone,5
+3160,2305797,NiP,Nuke,6
+3161,2305796,Virtus.pro,Cobblestone,5
+3162,2305796,HellRaisers,Nuke,6
+3163,2305795,Virtus.pro,Cobblestone,5
+3164,2305795,HellRaisers,Nuke,6
+3165,2305794,G2,Cobblestone,5
+3166,2305794,NiP,Cache,6
+3167,2305793,G2,Cobblestone,5
+3168,2305793,NiP,Cache,6
+3169,2305792,fnatic,Cache,5
+3170,2305792,HellRaisers,Overpass,6
+3171,2305791,fnatic,Cache,5
+3172,2305791,HellRaisers,Overpass,6
+3173,2305790,Natus Vincere,Mirage,5
+3174,2305790,Dignitas,Nuke,6
+3175,2305789,Natus Vincere,Mirage,5
+3176,2305789,Dignitas,Nuke,6
+3177,2305788,Virtus.pro,Mirage,5
+3178,2305788,SK,Cobblestone,6
+3179,2305787,Virtus.pro,Mirage,5
+3180,2305787,SK,Cobblestone,6
+3181,2305972,Bpro,Train,5
+3182,2305972,ENCE,Mirage,6
+3183,2305971,Tricked,Train,5
+3184,2305971,Epsilon,Mirage,6
+3185,2305956,Epsilon,Mirage,5
+3186,2305956,iNation,Dust2,6
+3187,2306377,Epsilon,Mirage,3
+3188,2306377,Kinguin,Cobblestone,4
+3189,2305927,Epsilon,Cache,3
+3190,2305927,FlipSid3,Train,4
+3191,2305926,Kinguin,Overpass,3
+3192,2305926,Gambit,Dust2,4
+3193,2305920,DarkPassage,Dust2,3
+3194,2305920,Epsilon,Cache,4
+3195,2305919,ENCE,Cache,3
+3196,2305919,FlipSid3,Cobblestone,4
+3197,2305916,iGame.com,Train,3
+3198,2305916,Kinguin,Cache,4
+3199,2305918,ALTERNATE aTTaX,Cobblestone,3
+3200,2305918,Gambit,Mirage,4
+3201,2305892,PENTA,Cache,3
+3202,2305892,ENCE,Mirage,4
+3203,2305888,Epsilon,Dust2,3
+3204,2305888,k1ck,Overpass,4
+3205,2305889,DarkPassage,Mirage,3
+3206,2305889,Crowns,Overpass,4
+3207,2305885,iNation,Cache,3
+3208,2305885,FlipSid3,Train,4
+3209,2305886,PRIDE,Nuke,3
+3210,2305886,Gambit,Dust2,4
+3211,2305890,KPI,Nuke,3
+3212,2305890,iGame.com,Train,4
+3213,2305891,Rogue,Overpass,3
+3214,2305891,ALTERNATE aTTaX,Cobblestone,4
+3215,2305887,EU4IA,Cache,3
+3216,2305887,Kinguin,Cobblestone,4
+3217,2305724,g3x,Train,5
+3218,2305724,TeamOne,Dust2,6
+3219,2305720,TeamOne,Dust2,5
+3220,2305720,Hardknocks,Overpass,6
+3221,2305721,g3x,Cache,5
+3222,2305721,BigGods,Dust2,6
+3223,2305734,Dignitas,Nuke,3
+3224,2305734,Virtus.pro,Cobblestone,4
+3225,2305573,.Russia,Mirage,5
+3226,2305573,Dignitas,Cobblestone,6
+3227,2305574,Virtus.pro,Cobblestone,5
+3228,2305574,Kinguin,Cache,6
+3229,2305572,.Russia,Mirage,5
+3230,2305572,Virtus.pro,Overpass,6
+3231,2305571,Kinguin,Cobblestone,5
+3232,2305571,Dignitas,Mirage,6
+3233,2305533,Virtus.pro,Cobblestone,5
+3234,2305533,Envy,Nuke,6
+3235,2305532,Ukraine,Overpass,5
+3236,2305532,.Russia,Mirage,6
+3237,2305528,dd,Cobblestone,5
+3238,2305528,Ukraine,Overpass,6
+3239,2305529,Epsilon,Mirage,5
+3240,2305529,Virtus.pro,Train,6
+3241,2305531,Kinguin,Cobblestone,5
+3242,2305531,iGame.com,Train,6
+3243,2305530,GODSENT,Mirage,5
+3244,2305530,Dignitas,Cobblestone,6
+3245,2305526,Astralis,Dust2,5
+3246,2305526,GODSENT,Mirage,6
+3247,2305527,.Norway,Cache,5
+3248,2305527,iGame.com,Dust2,6
+3249,2305555,TYLOO,Mirage,3
+3250,2305555,ENCE,Cache,4
+3251,2305378,HellRaisers,Cobblestone,3
+3252,2305378,Tengri,Mirage,4
+3253,2305323,Spirit,Cobblestone,3
+3254,2305323,Tengri,Mirage,4
+3255,2305131,NokSuKao,Mirage,3
+3256,2305131,Spirit,Cobblestone,4
+3257,2305128,HellRaisers,Cache,3
+3258,2305128,FlipSid3,Train,4
+3259,2304943,NokSuKao,Train,3
+3260,2304943,Preparation,Cobblestone,4
+3261,2304960,Spirit,Mirage,3
+3262,2304960,FlipSid3,Overpass,4
+3263,2304975,Gambit,Train,3
+3264,2304975,HellRaisers,Cache,4
+3265,2304872,Gambit,Dust2,3
+3266,2304872,ANOX,Mirage,4
+3267,2304679,NokSuKao,Cobblestone,3
+3268,2304679,FlipSid3,Overpass,4
+3269,2304736,Tengri,Train,3
+3270,2304736,HellRaisers,Cobblestone,4
+3271,2304434,Preparation,Overpass,3
+3272,2304434,Spirit,Cobblestone,4
+3273,2304433,Gambit,Train,3
+3274,2304433,Tengri,Cache,4
+3275,2304432,HellRaisers,Train,3
+3276,2304432,ANOX,Cache,4
+3277,2305257,Gambit,Train,5
+3278,2305257,FlipSid3,Cobblestone,6
+3279,2305256,Tengri,Cache,5
+3280,2305256,Gambit,Cobblestone,6
+3281,2305217,Spirit,Cache,5
+3282,2305217,Gambit,Dust2,6
+3283,2305216,FlipSid3,Overpass,5
+3284,2305216,Tengri,Mirage,6
+3285,2305176,Tengri,Train,5
+3286,2305176,Gambit,Dust2,6
+3287,2305175,FlipSid3,Overpass,5
+3288,2305175,Spirit,Cobblestone,6
+3289,2305234,Virtus.pro,Cobblestone,3
+3290,2305234,Natus Vincere,Train,4
+3291,2305232,Virtus.pro,Mirage,3
+3292,2305232,SK,Overpass,4
+3293,2305233,Liquid,Cobblestone,3
+3294,2305233,Natus Vincere,Train,4
+3295,2305273,BigGods,Mirage,3
+3296,2305273,INTZ,Train,4
+3297,2305273,BigGods,Cobblestone,5
+3298,2305273,INTZ,Dust2,6
+3299,2305296,g3x,Train,3
+3300,2305296,Remo Brave,Dust2,4
+3301,2305228,INTZ,Train,3
+3302,2305228,Remo Brave,Cobblestone,4
+3303,2305227,BigGods,Cobblestone,3
+3304,2305227,g3x,Mirage,4
+3305,2305127,Selfless,Train,5
+3306,2305127,Muffin Lightning,Cache,6
+3307,2305122,CLG,Mirage,5
+3308,2305122,Selfless,Overpass,6
+3309,2305123,Muffin Lightning,Train,5
+3310,2305123,Echo Fox,Mirage,6
+3311,2305107,Dignitas,Cobblestone,3
+3312,2305107,GODSENT,Mirage,4
+3313,2304959,Dignitas,Nuke,3
+3314,2304959,Astralis,Mirage,4
+3315,2304911,FaZe,Train,3
+3316,2304911,GODSENT,Mirage,4
+3317,2304631,Heroic,Overpass,3
+3318,2304631,Dignitas,Cache,4
+3319,2304393,GODSENT,Dust2,3
+3320,2304393,mousesports,Cache,4
+3321,2304390,Wizards,Nuke,3
+3322,2304390,FaZe,Mirage,4
+3323,2304361,Wizards,Nuke,3
+3324,2304361,Space Soldiers,Cobblestone,4
+3325,2304360,FaZe,Train,3
+3326,2304360,Astralis,Mirage,4
+3327,2304341,Dignitas,Overpass,3
+3328,2304341,mousesports,Dust2,4
+3329,2304340,Space Soldiers,Dust2,3
+3330,2304340,FaZe,Train,4
+3331,2304336,GODSENT,Dust2,3
+3332,2304336,Heroic,Train,4
+3333,2304335,Wizards,Cobblestone,3
+3334,2304335,Astralis,Overpass,4
+3335,2305111,OpTic,Train,3
+3336,2305111,Cloud9,Overpass,4
+3337,2305088,TSM,Mirage,3
+3338,2305088,Cloud9,Train,4
+3339,2304846,CLG,Dust2,3
+3340,2304846,Cloud9,Overpass,4
+3341,2304847,OpTic,Cache,3
+3342,2304847,Immortals,Cobblestone,4
+3343,2304738,TSM,Mirage,3
+3344,2304738,Echo Fox,Dust2,4
+3345,2304737,NRG,Cache,3
+3346,2304737,OpTic,Cobblestone,4
+3347,2304740,compLexity,Cache,3
+3348,2304740,Immortals,Overpass,4
+3349,2305132,Immortals,Overpass,3
+3350,2305132,Echo Fox,Dust2,4
+3351,2305132,Immortals,Train,5
+3352,2305132,Echo Fox,Mirage,6
+3353,2304934,SK,Train,5
+3354,2304934,Immortals,Mirage,6
+3355,2304936,SK,Train,5
+3356,2304936,Selfless,Dust2,6
+3357,2304935,FakeOutNation,Cobblestone,5
+3358,2304935,paiN,Overpass,6
+3359,2304937,Selfless,Overpass,5
+3360,2304937,paiN,Train,6
+3361,2304938,SofaKingGood,Cache,5
+3362,2304938,Immortals,Cobblestone,6
+3363,2304939,SK,Train,5
+3364,2304939,SofaKingGood,Cache,6
+3365,2304940,Immortals,Train,5
+3366,2304940,paiN,Overpass,6
+3367,2304708,RONIN,Overpass,5
+3368,2304708,Immortals,Cobblestone,6
+3369,2304709,SK,Dust2,5
+3370,2304709,Renegades,Mirage,6
+3371,2304710,Renegades,Mirage,5
+3372,2304710,Immortals,Train,6
+3373,2304714,Renegades,Dust2,5
+3374,2304714,SofaKingGood,Cobblestone,6
+3375,2304712,Immortals,Train,5
+3376,2304712,Selfless,Mirage,6
+3377,2304713,Renegades,Train,5
+3378,2304713,RONIN,Mirage,6
+3379,2304715,RONIN,Cobblestone,5
+3380,2304715,Selfless,Train,6
+3381,2304717,SK,Train,5
+3382,2304717,RONIN,Mirage,6
+3383,2304719,Renegades,Cache,5
+3384,2304719,Selfless,Cobblestone,6
+3385,2304626,RONIN,Mirage,5
+3386,2304626,paiN,Overpass,6
+3387,2304623,Selfless,Overpass,5
+3388,2304623,SofaKingGood,Dust2,6
+3389,2304624,SK,Train,5
+3390,2304624,paiN,Overpass,6
+3391,2304620,SofaKingGood,Cache,5
+3392,2304620,RONIN,Overpass,6
+3393,2304622,Renegades,Mirage,5
+3394,2304622,paiN,Cobblestone,6
+3395,2305286,Dignitas,Nuke,3
+3396,2305286,Tricked,Cobblestone,4
+3397,2305286,Dignitas,Mirage,5
+3398,2305286,Tricked,Overpass,6
+3399,2305172,GODSENT,Cache,5
+3400,2305172,FlipSid3,Train,6
+3401,2304769,passions,Mirage,5
+3402,2304769,Heroic,Overpass,6
+3403,2304758,Gambit,Mirage,5
+3404,2304758,Tricked,Cobblestone,6
+3405,2304767,Preparation,Cobblestone,5
+3406,2304767,Tricked,Nuke,6
+3407,2304764,Preparation,Mirage,5
+3408,2304764,GODSENT,Dust2,6
+3409,2304763,FlipSid3,Overpass,5
+3410,2304763,Preparation,Cobblestone,6
+3411,2304761,Epsilon,Mirage,5
+3412,2304761,Heroic,Overpass,6
+3413,2304755,Tricked,Cobblestone,5
+3414,2304755,passions,Mirage,6
+3415,2304756,Gambit,Cobblestone,5
+3416,2304756,Preparation,Mirage,6
+3417,2304768,Epsilon,Cache,5
+3418,2304768,GODSENT,Dust2,6
+3419,2304760,Gambit,Mirage,5
+3420,2304760,Heroic,Train,6
+3421,2304759,GODSENT,Train,5
+3422,2304759,Heroic,Overpass,6
+3423,2304757,passions,Overpass,5
+3424,2304757,Preparation,Nuke,6
+3425,2304753,Tricked,Overpass,5
+3426,2304753,Epsilon,Mirage,6
+3427,2304754,Tricked,Overpass,5
+3428,2304754,GODSENT,Train,6
+3429,2304613,Preparation,Mirage,5
+3430,2304613,Epsilon,Overpass,6
+3431,2304612,FlipSid3,Nuke,5
+3432,2304612,Heroic,Overpass,6
+3433,2304611,Preparation,Mirage,5
+3434,2304611,Heroic,Cobblestone,6
+3435,2304610,FlipSid3,Train,5
+3436,2304610,Gambit,Mirage,6
+3437,2304609,Tricked,Cobblestone,5
+3438,2304609,Heroic,Overpass,6
+3439,2304608,Epsilon,Mirage,5
+3440,2304608,FlipSid3,Overpass,6
+3441,2304607,Gambit,Cobblestone,5
+3442,2304607,passions,Mirage,6
+3443,2304606,FlipSid3,Overpass,5
+3444,2304606,passions,Mirage,6
+3445,2304605,Epsilon,Dust2,5
+3446,2304605,passions,Mirage,6
+3447,2304604,FlipSid3,Overpass,5
+3448,2304604,Tricked,Mirage,6
+3449,2305075,5POWER,Cache,5
+3450,2305075,TYLOO,Mirage,6
+3451,2305074,5POWER,Mirage,5
+3452,2305074,Born Of Fire,Cache,6
+3453,2305073,5POWER,Mirage,5
+3454,2305073,BOOT,Cache,6
+3455,2305068,Born Of Fire,Mirage,5
+3456,2305068,TYLOO,Overpass,6
+3457,2305001,Born Of Fire,Cache,5
+3458,2305001,5POWER,Cobblestone,6
+3459,2305000,BOOT,Mirage,5
+3460,2305000,TYLOO,Dust2,6
+3461,2304956,mousesports,Cache,3
+3462,2304956,Envy,Cobblestone,4
+3463,2304956,mousesports,Dust2,5
+3464,2304956,Envy,Mirage,6
+3465,2304955,mousesports,Cache,3
+3466,2304955,GODSENT,Mirage,4
+3467,2304955,mousesports,Dust2,5
+3468,2304955,GODSENT,Overpass,6
+3469,2304954,Epsilon,Mirage,3
+3470,2304954,Envy,Cobblestone,4
+3471,2304954,Epsilon,Cache,5
+3472,2304954,Envy,Nuke,6
+3473,2305080,Renegades,Train,3
+3474,2305080,VG.CyberZen,Dust2,4
+3475,2305079,dream[S]cape,Dust2,3
+3476,2305079,VG.CyberZen,Cache,4
+3477,2305078,Renegades,Train,3
+3478,2305078,TheMongolz,Mirage,4
+3479,2305020,nxl,Cobblestone,3
+3480,2305020,VG.CyberZen,Dust2,4
+3481,2305019,AllGamers,Cobblestone,3
+3482,2305019,dream[S]cape,Mirage,4
+3483,2305018,Renegades,Nuke,3
+3484,2305018,MiTH,Dust2,4
+3485,2305017,TheMongolz,Cache,3
+3486,2305017,MVP Project,Overpass,4
+3487,2304994,nxl,Mirage,3
+3488,2304994,EHOME,Train,4
+3489,2304995,Rebellion,Dust2,3
+3490,2304995,MiTH,Mirage,4
+3491,2304992,Risky,Train,3
+3492,2304992,dream[S]cape,Cobblestone,4
+3493,2304993,MVP Project,Train,3
+3494,2304993,New4,Mirage,4
+3495,2305006,Dignitas,Overpass,5
+3496,2305006,Astralis,Dust2,6
+3497,2305003,NewStyle,Mirage,5
+3498,2305003,Astralis,Nuke,6
+3499,2305002,Dignitas,Dust2,5
+3500,2305002,Wizards,Nuke,6
+3501,2305005,Virtus.pro,Cobblestone,5
+3502,2305005,Kinguin,Mirage,6
+3503,2304977,Virtus.pro,Cobblestone,5
+3504,2304977,Refuse,Cache,6
+3505,2304976,PRIDE,Cobblestone,5
+3506,2304976,Kinguin,Train,6
+3507,2304913,MAXISAUCISSE,Dust2,5
+3508,2304913,Envy,Cobblestone,6
+3509,2304910,dizLown,Dust2,5
+3510,2304910,MAXISAUCISSE,Cache,6
+3511,2304909,Red Instinct,Cobblestone,5
+3512,2304909,Envy,Cache,6
+3513,2304798,MK,Train,3
+3514,2304798,ALTERNATE aTTaX,Cobblestone,4
+3515,2304798,MK,Dust2,5
+3516,2304798,ALTERNATE aTTaX,Cache,6
+3517,2304696,Spirit,Cobblestone,3
+3518,2304696,ALTERNATE aTTaX,Dust2,4
+3519,2304359,Spirit,Mirage,3
+3520,2304359,MK,Overpass,4
+3521,2304358,AGG,Nuke,3
+3522,2304358,ALTERNATE aTTaX,Dust2,4
+3523,2304189,DenDD,Cobblestone,3
+3524,2304189,AGG,Mirage,4
+3525,2304181,ALTERNATE aTTaX,Cobblestone,3
+3526,2304181,Rogue,Train,4
+3527,2304150,MK,Dust2,3
+3528,2304150,ALTERNATE aTTaX,Cobblestone,4
+3529,2304023,AGG,Nuke,3
+3530,2304023,Tricked,Mirage,4
+3531,2303894,AGG,Train,3
+3532,2303894,MK,Dust2,4
+3533,2303721,DenDD,Cache,3
+3534,2303721,Spirit,Mirage,4
+3535,2303653,Unity,Mirage,3
+3536,2303653,Kinguin,Cache,4
+3537,2303647,Kinguin,Cache,3
+3538,2303647,Spirit,Dust2,4
+3539,2303625,Unity,Mirage,3
+3540,2303625,DenDD,Cache,4
+3541,2303578,beGenius,Cache,3
+3542,2303578,AGG,Cobblestone,4
+3543,2303577,DenDD,Mirage,3
+3544,2303577,Space Soldiers,Cache,4
+3545,2304848,Immortals,Train,3
+3546,2304848,OpTic,Cache,4
+3547,2304850,Immortals,Train,3
+3548,2304850,NRG,Cache,4
+3549,2304849,SK,Dust2,3
+3550,2304849,OpTic,Cobblestone,4
+3551,2304820,Echo Fox,Dust2,3
+3552,2304820,NRG,Cache,4
+3553,2304819,SK,Train,3
+3554,2304818,OpTic,Cobblestone,3
+3555,2304818,TSM,Dust2,4
+3556,2304817,Immortals,Overpass,3
+3557,2304817,compLexity,Cache,4
+3558,2304845,GODSENT,Mirage,5
+3559,2304845,Epsilon,Overpass,6
+3560,2304836,GODSENT,Mirage,5
+3561,2304836,Iwku,Overpass,6
+3562,2304835,fnatic Academy,Mirage,5
+3563,2304835,Epsilon,Overpass,6
+3564,2304840,Cloud9,Train,3
+3565,2304840,Virtus.pro,Cobblestone,4
+3566,2304816,Dignitas,Mirage,3
+3567,2304816,Virtus.pro,Cobblestone,4
+3568,2304824,Envy,Cache,3
+3569,2304824,Cloud9,Mirage,4
+3570,2304823,Dignitas,Nuke,3
+3571,2304823,FaZe,Cache,4
+3572,2304815,Envy,Dust2,3
+3573,2304815,Heroic,Nuke,4
+3574,2304811,FlipSid3,Train,3
+3575,2304811,Dignitas,Cobblestone,4
+3576,2304808,Gambit,Cobblestone,3
+3577,2304808,Envy,Cache,4
+3578,2304793,OpTic,Cache,3
+3579,2304793,Renegades,Dust2,4
+3580,2304792,Liquid,Mirage,3
+3581,2304792,Echo Fox,Nuke,4
+3582,2304799,NRG,Dust2,3
+3583,2304799,SK,Overpass,4
+3584,2304791,TSM,Mirage,3
+3585,2304791,Immortals,Cobblestone,4
+3586,2304772,OpTic,Cobblestone,3
+3587,2304772,compLexity,Cache,4
+3588,2304774,Selfless,Mirage,3
+3589,2304774,TSM,Dust2,4
+3590,2304776,Echo Fox,Nuke,3
+3591,2304776,Splyce,Overpass,4
+3592,2304775,eUnited,Dust2,3
+3593,2304775,Liquid,Mirage,4
+3594,2304777,NRG,Cache,3
+3595,2304777,CLG,Cobblestone,4
+3596,2304741,Spirit,Dust2,5
+3597,2304741,Tengri,Mirage,6
+3598,2304739,NokSuKao,Mirage,5
+3599,2304739,Gambit,Dust2,6
+3600,2304614,Gambit,Cache,5
+3601,2304614,PuddiPuddi,Cobblestone,6
+3602,2304615,Spirit,Dust2,5
+3603,2304615,Enso,Mirage,6
+3604,2304557,Shadows,Train,5
+3605,2304557,Tengri,Mirage,6
+3606,2304556,NokSuKao,Mirage,5
+3607,2304556,Kung Fu Masters,Overpass,6
+3608,2304180,Spirit,Cobblestone,5
+3609,2304180,Comanche,Mirage,6
+3610,2304179,Space Jam,Mirage,5
+3611,2304179,Preparation,Cache,6
+3612,2303995,Gambit,Cache,5
+3613,2303995,Binary Dragons,Dust2,6
+3614,2303994,Vesuvius,Mirage,5
+3615,2303994,NokSuKao,Cobblestone,6
+3616,2303992,Binary Dragons,Dust2,5
+3617,2303992,Space Jam,Cobblestone,6
+3618,2303991,Preparation,Mirage,5
+3619,2303991,Gambit,Dust2,6
+3620,2303881,Spirit,Mirage,5
+3621,2303881,NokSuKao,Overpass,6
+3622,2303880,Vesuvius,Mirage,5
+3623,2303880,Comanche,Dust2,6
+3624,2303757,Vesuvius,Mirage,5
+3625,2303757,Spirit,Cobblestone,6
+3626,2303756,Gambit,Train,5
+3627,2303756,Space Jam,Dust2,6
+3628,2303755,Comanche,Mirage,5
+3629,2303755,NokSuKao,Train,6
+3630,2303754,Binary Dragons,Dust2,5
+3631,2303754,Preparation,Cobblestone,6
+3632,2304676,NiP,Cache,5
+3633,2304676,G2,Overpass,6
+3634,2304675,Dignitas,Cobblestone,5
+3635,2304675,G2,Dust2,6
+3636,2304674,NiP,Dust2,5
+3637,2304674,Cloud9,Cobblestone,6
+3638,2304630,Heroic,Cobblestone,5
+3639,2304630,Dignitas,Nuke,6
+3640,2304629,G2,Dust2,5
+3641,2304629,Envy,Cobblestone,6
+3642,2304628,NiP,Cache,5
+3643,2304628,Astralis,Dust2,6
+3644,2304627,Cloud9,Overpass,5
+3645,2304627,FlipSid3,Train,6
+3646,2304577,Envy,Dust2,5
+3647,2304577,VG.CyberZen,Cache,6
+3648,2304576,TYLOO,Train,5
+3649,2304576,Astralis,Overpass,6
+3650,2304575,FaZe,Train,5
+3651,2304575,FlipSid3,Nuke,6
+3652,2304574,Dignitas,Dust2,5
+3653,2304574,GODSENT,Overpass,6
+3654,2304578,Kinguin,Overpass,1
+3655,2304578,Space Soldiers,Dust2,2
+3656,2304578,Kinguin,Train,5
+3657,2304578,Space Soldiers,Mirage,6
+3658,2304551,Space Soldiers,Cobblestone,3
+3659,2304551,PRIDE,Dust2,4
+3660,2304550,Kinguin,Cache,3
+3661,2304550,Space Soldiers,Cobblestone,4
+3662,2304541,PRIDE,Cobblestone,3
+3663,2304541,MK,Dust2,4
+3664,2304514,MK,Overpass,3
+3665,2304514,Kinguin,Cobblestone,4
+3666,2304513,PRIDE,Mirage,3
+3667,2304513,Space Soldiers,Cobblestone,4
+3668,2303533,AGG,Dust2,5
+3669,2303533,Tricked,Overpass,6
+3670,2303545,Tricked,Train,5
+3671,2303545,ALTERNATE aTTaX,Dust2,6
+3672,2304573,GODSENT,Dust2,3
+3673,2304573,ALTERNATE aTTaX,Overpass,4
+3674,2304572,Kinguin,Cobblestone,3
+3675,2304572,G2,Cache,4
+3676,2304571,HellRaisers,Nuke,3
+3677,2304571,FaZe,Train,4
+3678,2304570,Dignitas,Nuke,3
+3679,2304570,Gambit,Cobblestone,4
+3680,2304548,GODSENT,Cache,3
+3681,2304548,deadweight,Mirage,4
+3682,2304549,FlipSid3,Overpass,3
+3683,2304549,ALTERNATE aTTaX,Cobblestone,4
+3684,2304503,Astralis,Mirage,3
+3685,2304496,Envy,Nuke,3
+3686,2304496,Astralis,Dust2,4
+3687,2304495,mousesports,Mirage,3
+3688,2304495,FaZe,Nuke,4
+3689,2304422,Dignitas,Nuke,3
+3690,2304422,Astralis,Cache,4
+3691,2304421,FlipSid3,Train,3
+3692,2304421,Envy,Cache,4
+3693,2304420,Gambit,Cobblestone,3
+3694,2304420,mousesports,Cache,4
+3695,2304419,FaZe,Mirage,3
+3696,2304419,GODSENT,Train,4
+3697,2304457,CNB,Train,3
+3698,2304457,Remo Brave,Cache,4
+3699,2304325,Remo Brave,Cache,3
+3700,2304325,TeamOne,Train,4
+3701,2304324,paiN,Train,3
+3702,2304324,CNB,Cobblestone,4
+3703,2304478,Immortals,Cobblestone,3
+3704,2304478,Cloud9,Train,4
+3705,2304477,Heroic,Overpass,3
+3706,2304477,Echo Fox,Nuke,4
+3707,2304448,Immortals,Train,3
+3708,2304448,Echo Fox,Nuke,4
+3709,2304445,compLexity,Cache,3
+3710,2304445,Echo Fox,Dust2,4
+3711,2304447,Heroic,Overpass,3
+3712,2304447,Cloud9,Train,4
+3713,2304444,CLG,Mirage,3
+3714,2304444,Cloud9,Train,4
+3715,2304446,Immortals,Overpass,3
+3716,2304446,Selfless,Mirage,4
+3717,2304443,OpTic,Train,3
+3718,2304443,Heroic,Cobblestone,4
+3719,2304442,compLexity,Cache,3
+3720,2304442,Rogue,Mirage,4
+3721,2304427,ACE,Dust2,3
+3722,2304427,compLexity,Cache,4
+3723,2304441,Winterfox,Mirage,3
+3724,2304441,Selfless,Cobblestone,4
+3725,2304429,Splyce,Overpass,3
+3726,2304429,Winterfox,Mirage,4
+3727,2304410,NRG,Cobblestone,4
+3728,2304410,CLG,Overpass,5
+3729,2304402,Echo Fox,Dust2,3
+3730,2304402,TSM,Mirage,4
+3731,2304401,OpTic,Cobblestone,3
+3732,2304401,TSM,Mirage,4
+3733,2304407,Synthetik,Cache,3
+3734,2304407,CLG,Cobblestone,4
+3735,2304191,OpTic,Cache,3
+3736,2304191,Echo Fox,Dust2,4
+3737,2304399,MK,Dust2,3
+3738,2304399,PENTA,Cache,4
+3739,2304398,PENTA,Cache,3
+3740,2304398,Spirit,Mirage,4
+3741,2304347,MK,Overpass,3
+3742,2304347,AGG,Mirage,4
+3743,2304346,ENCE,Mirage,3
+3744,2304346,PENTA,Cache,4
+3745,2304045,MK,Overpass,3
+3746,2304045,Kinguin,Cache,4
+3747,2304027,Rogue,Mirage,3
+3748,2304027,Spirit,Cobblestone,4
+3749,2303830,AGG,Dust2,3
+3750,2303830,Epsilon,Cache,4
+3751,2303690,Space Soldiers,Cobblestone,3
+3752,2303690,Spirit,Mirage,4
+3753,2303638,Kinguin,Cache,3
+3754,2303638,Spirit,Mirage,4
+3755,2303564,PENTA,Cache,3
+3756,2303564,LGR,Dust2,4
+3757,2303563,PENTA,Mirage,3
+3758,2303563,AGG,Cobblestone,4
+3759,2303532,LGR,Dust2,3
+3760,2303532,Secret fe,Cobblestone,4
+3761,2303492,X,Cobblestone,3
+3762,2303492,Epsilon,Mirage,4
+3763,2303491,ENCE,Mirage,3
+3764,2303491,Epsilon,Dust2,4
+3765,2303478,X,Train,3
+3766,2303478,Preparation,Mirage,4
+3767,2303462,MK,Overpass,3
+3768,2303462,PRIDE,Train,4
+3769,2303459,Unity,Cache,3
+3770,2303459,PRIDE,Cobblestone,4
+3771,2304332,Spirit,Mirage,3
+3772,2304332,Millenium,Cache,4
+3773,2304331,AGG,Train,3
+3774,2304331,DenDD,Cache,4
+3775,2303916,AGG,Overpass,3
+3776,2303916,Spirit,Mirage,4
+3777,2303915,Millenium,Mirage,3
+3778,2303915,DenDD,Cobblestone,4
+3779,2303820,Magistra,Nuke,3
+3780,2303820,Millenium,Cache,4
+3781,2303818,AGG,Cobblestone,3
+3782,2303818,Tricked,Nuke,4
+3783,2303817,DenDD,Cobblestone,3
+3784,2303817,ANOX,Mirage,4
+3785,2303720,Spirit,Cobblestone,3
+3786,2303720,ALTERNATE aTTaX,Overpass,4
+3787,2304373,Spirit,Cobblestone,3
+3788,2304373,PRIDE,Mirage,4
+3789,2304339,PRIDE,Train,3
+3790,2304339,Preparation,Mirage,4
+3791,2304338,Spirit,Mirage,3
+3792,2304338,Epiphany Bolt,Cache,4
+3793,2304177,ANOX,Overpass,3
+3794,2304177,Epiphany Bolt,Dust2,4
+3795,2304186,Spirit,Mirage,3
+3796,2304186,AGG,Cobblestone,4
+3797,2304185,XPC,Train,3
+3798,2304185,Preparation,Mirage,4
+3799,2304184,EURONICS,Nuke,3
+3800,2304184,PRIDE,Cache,4
+3801,2304367,TeamOne,Dust2,3
+3802,2304367,Remo Brave,Mirage,4
+3803,2304337,TRS,Mirage,3
+3804,2304337,TeamOne,Train,4
+3805,2304323,Remo Brave,Dust2,3
+3806,2304323,ProGaming,Mirage,4
+3807,2304250,Black Dragons,Mirage,3
+3808,2304250,TRS,Dust2,4
+3809,2304249,Furious,Cache,3
+3810,2304249,ProGaming,Train,4
+3811,2304251,TeamOne,Dust2,3
+3812,2304251,IDM,Cache,4
+3813,2304248,Remo Brave,Cobblestone,3
+3814,2304248,Crashers,Dust2,4
+3815,2304297,Liquid,Mirage,3
+3816,2304297,Cloud9,Dust2,4
+3817,2304298,Cloud9,Train,3
+3818,2304298,Immortals,Overpass,4
+3819,2304299,Liquid,Mirage,3
+3820,2304299,OpTic,Cobblestone,4
+3821,2304205,Immortals,Cobblestone,3
+3822,2304205,Selfless,Mirage,4
+3823,2304204,Cloud9,Overpass,3
+3824,2304204,NRG,Cache,4
+3825,2304203,Liquid,Mirage,3
+3826,2304203,Luminosity,Cache,4
+3827,2304206,TSM,Mirage,3
+3828,2304206,OpTic,Cobblestone,4
+3829,2304296,Crowns,Cobblestone,3
+3830,2304296,MK,Inferno,4
+3831,2304295,Crowns,Mirage,3
+3832,2304295,Echo Fox,Dust2,4
+3833,2304294,ALTERNATE aTTaX,Cobblestone,3
+3834,2304294,MK,Dust2,4
+3835,2304266,Bravado,Mirage,5
+3836,2304266,Space Soldiers,Dust2,6
+3837,2304265,DarkPassage,Cobblestone,5
+3838,2304265,Chosen5,Dust2,6
+3839,2304257,Bravado,Train,5
+3840,2304257,Chosen5,Cache,6
+3841,2304256,Space Soldiers,Dust2,5
+3842,2304256,DarkPassage,Cache,6
+3843,2304260,Heroic,Cobblestone,3
+3844,2304260,Dignitas,Dust2,4
+3845,2304259,Dignitas,Mirage,3
+3846,2304259,Rogue,Cache,4
+3847,2304258,Astralis,Dust2,3
+3848,2304258,Heroic,Cobblestone,4
+3849,2304268,Heroic,Train,3
+3850,2304268,Singularity,Nuke,4
+3851,2304172,Renegades,Overpass,5
+3852,2304172,Immortals,Cobblestone,6
+3853,2304171,Cloud9,Cache,5
+3854,2304171,OpTic,Mirage,6
+3855,2304031,NRG,Train,5
+3856,2304031,Cloud9,Dust2,6
+3857,2304063,Renegades,Mirage,5
+3858,2304063,TSM,Cache,6
+3859,2304062,Immortals,Train,5
+3860,2304062,Luminosity,Mirage,6
+3861,2304030,Renegades,Cache,5
+3862,2304030,Prospects,Cobblestone,6
+3863,2303979,Luminosity,Mirage,5
+3864,2303979,Echo Fox,Cache,6
+3865,2304006,OpTic,Mirage,5
+3866,2304006,CLG,Cobblestone,6
+3867,2304017,Selfless,Cache,5
+3868,2304017,NRG,Dust2,6
+3869,2303843,Selfless,Cache,5
+3870,2303843,Luminosity,Cobblestone,6
+3871,2303842,Luminosity,Mirage,5
+3872,2303842,Tectonic,Train,6
+3873,2303835,Blight,Overpass,5
+3874,2303835,Prospects,Cobblestone,6
+3875,2303844,Tectonic,Train,5
+3876,2303844,Rush,Mirage,6
+3877,2303836,compLexity,Cache,5
+3878,2303836,Blight,Overpass,6
+3879,2303876,Blight,Cobblestone,5
+3880,2303876,Kaliber,Cache,6
+3881,2303834,Kaliber,Dust2,5
+3882,2303834,compLexity,Cache,6
+3883,2303832,compLexity,Overpass,5
+3884,2303832,Prospects,Cache,6
+3885,2304057,Envy,Dust2,5
+3886,2304057,HellRaisers,Nuke,6
+3887,2304048,HellRaisers,Dust2,5
+3888,2304048,X,Cobblestone,6
+3889,2304029,Dignitas,Nuke,5
+3890,2304029,Envy,Dust2,6
+3891,2303997,FaZe,Mirage,5
+3892,2303997,X,Cobblestone,6
+3893,2303996,Envy,Cobblestone,5
+3894,2303996,Spirit,Mirage,6
+3895,2303984,Dignitas,Mirage,5
+3896,2303984,FlipSid3,Overpass,6
+3897,2303873,Dignitas,Mirage,5
+3898,2303873,Kinguin,Train,6
+3899,2303827,HellRaisers,Nuke,5
+3900,2303827,ALTERNATE aTTaX,Cache,6
+3901,2303826,MK,Dust2,5
+3902,2303826,Spirit,Mirage,6
+3903,2303858,GODSENT,Train,5
+3904,2303858,X,Dust2,6
+3905,2303789,HellRaisers,Nuke,5
+3906,2303789,Gambit,Train,6
+3907,2303788,Spirit,Mirage,5
+3908,2303788,fruits,Cobblestone,6
+3909,2303783,Gambit,Cobblestone,5
+3910,2303783,fruits,Cache,6
+3911,2303782,Spirit,Cobblestone,5
+3912,2303782,Gambit,Dust2,6
+3913,2303759,HellRaisers,Mirage,5
+3914,2303759,fruits,Train,6
+3915,2303758,Spirit,Mirage,5
+3916,2303758,HellRaisers,Nuke,6
+3917,2303709,X,Mirage,5
+3918,2303709,NokSuKao,Overpass,6
+3919,2303707,AGG,Train,5
+3920,2303707,X,Overpass,6
+3921,2303708,AGG,Overpass,5
+3922,2303708,NokSuKao,Dust2,6
+3923,2303706,X,Overpass,5
+3924,2303706,Dignitas,Mirage,6
+3925,2303705,Dignitas,Mirage,5
+3926,2303705,AGG,Cobblestone,6
+3927,2303704,Dignitas,Mirage,5
+3928,2303704,NokSuKao,Nuke,6
+3929,2303667,MK,Dust2,5
+3930,2303667,ENCE,Mirage,6
+3931,2303666,ALTERNATE aTTaX,Dust2,5
+3932,2303666,MK,Cache,6
+3933,2303665,ENCE,Dust2,5
+3934,2303665,ALTERNATE aTTaX,Cobblestone,6
+3935,2303664,Epsilon,Dust2,5
+3936,2303664,MK,Cache,6
+3937,2303646,ENCE,Dust2,5
+3938,2303646,Epsilon,Mirage,6
+3939,2303645,Epsilon,Dust2,5
+3940,2303645,ALTERNATE aTTaX,Cobblestone,6
+3941,2303644,PRIDE,Cobblestone,5
+3942,2303644,GODSENT,Mirage,6
+3943,2303623,GODSENT,Mirage,5
+3944,2303623,Kinguin,Cache,6
+3945,2303622,PRIDE,Mirage,5
+3946,2303622,PENTA,Cobblestone,6
+3947,2303605,GODSENT,Cobblestone,5
+3948,2303605,PENTA,Cache,6
+3949,2303603,PRIDE,Mirage,5
+3950,2303603,Kinguin,Cache,6
+3951,2304116,HellRaisers,Mirage,3
+3952,2304116,Gambit,Cobblestone,4
+3953,2304113,Space Soldiers,Cobblestone,3
+3954,2304113,X,Train,4
+3955,2304091,Epsilon,Mirage,3
+3956,2304091,HellRaisers,Dust2,4
+3957,2304108,ENCE,Mirage,3
+3958,2304108,Gambit,Cobblestone,4
+3959,2304107,Space Soldiers,Cobblestone,3
+3960,2304107,Dignitas,Mirage,4
+3961,2304087,Kinguin,Mirage,3
+3962,2304087,X,Train,4
+3963,2304080,Spirit,Cobblestone,3
+3964,2304080,ENCE,Dust2,4
+3965,2304085,Escape,Mirage,3
+3966,2304085,Space Soldiers,Train,4
+3967,2304086,Comanche,Mirage,3
+3968,2304086,Dignitas,Overpass,4
+3969,2304081,NokSuKao,Cobblestone,3
+3970,2304081,HellRaisers,Dust2,4
+3971,2304082,Epsilon,Mirage,3
+3972,2304082,fruits,Cobblestone,4
+3973,2304083,ANOX,Cobblestone,3
+3974,2304083,X,Train,4
+3975,2304084,DenDD,Overpass,3
+3976,2304084,Kinguin,Mirage,4
+3977,2304079,AT FINEST,Mirage,3
+3978,2304079,Gambit,Train,4
+3979,2304076,EDG,Mirage,3
+3980,2304076,3 NEW 2 OLD,Cobblestone,4
+3981,2304056,VG.CyberZen,Train,3
+3982,2304056,3 NEW 2 OLD,Dust2,4
+3983,2304055,EDG,Mirage,3
+3984,2304055,TYLOO,Cache,4
+3985,2304075,Parallax,Cache,3
+3986,2304075,Athletico,Dust2,4
+3987,2303978,Parallax,Overpass,3
+3988,2303978,Chiefs,Cobblestone,4
+3989,2303977,AVANT,Overpass,3
+3990,2303977,Athletico,Mirage,4
+3991,2304066,EURONICS,Cobblestone,5
+3992,2304066,PENTA,Cache,6
+3993,2304065,PENTA,Cobblestone,5
+3994,2304065,ALTERNATE aTTaX,Nuke,6
+3995,2304064,PANTHERS,Cobblestone,5
+3996,2304064,EURONICS,Nuke,6
+3997,2303937,ENCE,Train,3
+3998,2303937,MK,Inferno,4
+3999,2303862,ALTERNATE aTTaX,Cobblestone,3
+4000,2303862,MK,Overpass,4
+4001,2303870,ENCE,Train,3
+4002,2303870,Kalashnikov 47,Cobblestone,4
+4003,2303771,Kalashnikov 47,Cobblestone,3
+4004,2303771,ArchAngels,Cache,4
+4005,2303772,MK,Dust2,3
+4006,2303772,Spirit,Cobblestone,4
+4007,2303773,ENCE,Train,3
+4008,2303773,NokSuKao,Mirage,4
+4009,2303764,ALTERNATE aTTaX,Cobblestone,3
+4010,2303764,Oslo Lions,Nuke,4
+4011,2303951,Luminosity,Train,3
+4012,2303951,Echo Fox,Dust2,4
+4013,2303989,Tricked,Cobblestone,3
+4014,2303989,Spirit,Mirage,4
+4015,2303933,LGR,Cache,3
+4016,2303933,Spirit,Dust2,4
+4017,2303895,Spirit,Cache,3
+4018,2303895,PRIDE,Mirage,4
+4019,2303863,Epiphany Bolt,Cache,3
+4020,2303863,ArchAngels,Mirage,4
+4021,2303718,LGR,Dust2,3
+4022,2303718,ArchAngels,Mirage,4
+4023,2303717,Epiphany Bolt,Mirage,3
+4024,2303717,Delete,Nuke,4
+4025,2303714,Spirit,Cobblestone,3
+4026,2303714,Preparation,Train,4
+4027,2303604,Tricked,Nuke,3
+4028,2303604,Preparation,Mirage,4
+4029,2303600,LGR,Dust2,3
+4030,2303600,Delete,Cache,4
+4031,2303586,ArchAngels,Mirage,3
+4032,2303586,NokSuKao,Nuke,4
+4033,2303912,Virtus.pro,Cobblestone,3
+4034,2303912,GODSENT,Cache,4
+4035,2303971,HWA,Cobblestone,5
+4036,2303971,Millennium,Dust2,6
+4037,2303972,Space Soldiers,Cobblestone,5
+4038,2303972,DarkPassage,Cache,6
+4039,2303961,Millennium,Cobblestone,5
+4040,2303961,DarkPassage,Mirage,6
+4041,2303960,Space Soldiers,Cobblestone,5
+4042,2303960,HWA,Cache,6
+4043,2303694,TYLOO,Dust2,3
+4044,2303694,VG.CyberZen,Cache,4
+4045,2303694,TYLOO,Mirage,5
+4046,2303694,VG.CyberZen,Overpass,6
+4047,2303891,LGR,Dust2,5
+4048,2303891,Spirit,Cache,6
+4049,2303859,Spirit,Mirage,5
+4050,2303859,Delete,Cache,6
+4051,2303825,Epiphany Bolt,Cache,5
+4052,2303825,LGR,Train,6
+4053,2303761,Preparation,Dust2,5
+4054,2303761,Epiphany Bolt,Cache,6
+4055,2303733,Epiphany Bolt,Cache,5
+4056,2303733,ArchAngels,Mirage,6
+4057,2303732,Preparation,Mirage,5
+4058,2303732,Delete,Train,6
+4059,2303651,Delete,Overpass,5
+4060,2303651,ArchAngels,Mirage,6
+4061,2303650,Preparation,Mirage,5
+4062,2303650,Epiphany Bolt,Overpass,6
+4063,2303713,Spirit,Mirage,5
+4064,2303713,Millenium,Cache,6
+4065,2303696,LGR,Cache,5
+4066,2303696,Millenium,Dust2,6
+4067,2303697,DarkPassage,Cobblestone,5
+4068,2303697,Spirit,Mirage,6
+4069,2303649,Millenium,Mirage,5
+4070,2303649,Spirit,Cache,6
+4071,2303648,LGR,Dust2,5
+4072,2303648,DarkPassage,Cobblestone,6
+4073,2304474,BLUEJAYS,Mirage,5
+4074,2304474,PENTA,Cache,6
+4075,2304473,PENTA,Cache,5
+4076,2304473,EURONICS,Nuke,6
+4077,2304472,BLUEJAYS,Mirage,5
+4078,2304472,PENTA,Cache,6
+4079,2304436,Planetkey,Cache,5
+4080,2304436,EURONICS,Cobblestone,6
+4081,2303786,EURONICS,Cobblestone,5
+4082,2303786,PENTA,Cache,6
+4083,2303785,BLUEJAYS,Cache,5
+4084,2303785,Planetkey,Dust2,6
+4085,2303791,MVP Project,Nuke,3
+4086,2303791,Athletico,Train,4
+4087,2303790,TYLOO,Mirage,3
+4088,2303790,Athletico,Dust2,4
+4089,2303781,MVP Project,Mirage,3
+4090,2303781,VG.CyberZen,Train,4
+4091,2303780,AllGamers,Cache,3
+4092,2303780,TYLOO,Train,4
+4093,2303779,Athletico,Mirage,3
+4094,2303779,New4,Dust2,4
+4095,2303776,VG.CyberZen,Train,3
+4096,2303776,BOOT,Cobblestone,4
+4097,2303775,MVP Project,Train,3
+4098,2303775,Born Of Fire,Mirage,4
+4099,2303737,LGD,Mirage,3
+4100,2303737,AllGamers,Cache,4
+4101,2303736,FIVE,Cache,3
+4102,2303736,New4,Mirage,4
+4103,2303735,BOOT,Cache,3
+4104,2303735,EHOME,Cobblestone,4
+4105,2303734,Born Of Fire,Cobblestone,3
+4106,2303734,5POWER,Mirage,4
+4107,2303753,Epsilon,Cache,3
+4108,2303753,Space Soldiers,Cobblestone,4
+4109,2303752,Epsilon,Nuke,3
+4110,2303752,ENCE,Dust2,4
+4111,2303751,Space Soldiers,Cobblestone,3
+4112,2303751,Millenium,Dust2,4
+4113,2303750,Tricked,Train,3
+4114,2303750,Space Soldiers,Cobblestone,4
+4115,2303745,Escape,Dust2,3
+4116,2303745,Epsilon,Nuke,4
+4117,2303774,LGR,Dust2,3
+4118,2303774,ENCE,Cache,4

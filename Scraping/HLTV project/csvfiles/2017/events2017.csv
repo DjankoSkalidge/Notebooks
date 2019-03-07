@@ -1,0 +1,1001 @@
+,Unnamed: 0,event,code,prizepool,date,location,nteams
+0,0,esea-main-season-26-north-america,3315,"$9,000",Dec 6th,Online (North America),8
+1,1,esea-open-season-26-south-africa,3317,"$2,000",Nov 29th,South Africa (Online),8
+2,2,esl-southeast-europe-championship-season-6,3381,3 spots at the offline finals,Nov 25th,Online (Europe),8
+3,3,legend-series-4,3354,"$2,334",Nov 13th,Online (Europe),22
+4,4,vreecase-cup-2,3320,"$5,000",Oct 30th,Online (Europe),16
+5,5,renameme,3545,"$24,841",Oct 2nd,Online (Europe),6
+6,6,esports-european-league,3182,"$24,000",Oct 2nd,"Gennevilliers, France",6
+7,7,legend-series-north-america-qualifier,3405,TBA,Dec 10th 2017,North America (Online),4+
+8,8,esl-italy-championship-2017,3415,"$2,940",Dec 10th 2017,Online,4
+9,9,interlan-2017,3414,"$2,940",Dec 10th 2017,"Viljandi, Estonia",3
+10,10,wesg-2017-philippines,3417,1 spot at WESG 2017 APAC Regional Finals,Dec 9th,Online (Philippines),4+
+11,11,wesg-2017-singapore,3416,1 spot at WESG 2017 APAC Regional Finals,Dec 9th,Online (Singapore),4+
+12,12,esl-pro-league-season-6-finals,3072,"$750,000",Dec 5th,"Odense, Denmark",12
+13,13,makemybet-cup-1,3400,"$2,000",Dec 4th,Online (CIS),8
+14,14,midtv-challenge-cup-1,3384,"$15,000",Nov 27th,Online,10
+15,15,wesg-2017-indonesia-lan,3413,1 spot at WESG 2017 APAC Regional Finals,Dec 9th 2017,,4
+16,16,kings-of-the-baltics-finals,3410,"$8,233",Dec 9th 2017,"Vilnius, Lithuania",4
+17,17,australian-esports-masters-season-3-finals,3217,"$6,700",Dec 7th,"Adelaide, Australia",8
+18,18,rog-masters-2017-grand-finals,3283,"$235,000",Dec 6th,"Kuala Lumpur, Malaysia",6
+19,19,gfinity-elite-series-season-2,3201,"$110,000",Oct 7th,"London, United Kingdom",8
+20,20,legion-challenge-2017,3411,"$7,200",Dec 8th 2017,Online,2
+21,21,wesg-2017-australia,3408,2 spots at WESG 2017 APAC Regional Finals,Dec 7th,Online (Australia),7
+22,22,wesg-2017-new-zealand-pacific-islands,3406,1 spot at WESG 2017 APAC Regional Finals,Dec 7th,Online (New Zealand),4
+23,23,cevo-main-season-13-north-america,3322,"$10,000",Nov 5th,North America (Online),16
+24,24,skinhub-season-2,3228,"$10,000",Oct 11th,Online (Europe),16
+25,25,wesg-2017-south-asia-south-east-asia,3407,TBA,Dec 6th 2017,Online (Asia),4+
+26,26,liga-tyc-sports-aorus-2,3409,"$1,600",Dec 6th 2017,Online,2
+27,27,streamme-gauntlet-cis-vs-eu-16,3390,"$1,500",Nov 29th,Online (Europe),8
+28,28,wesg-2017-east-asia,3401,TBA,Dec 4th 2017,Asia (Online),4+
+29,29,wesg-2017-central-asia,3402,TBA,Dec 4th 2017,Online (Central Asia),4
+30,30,polish-esport-league-season-2-finals,3379,"$36,000",Dec 3rd 2017,"Warsaw, Poland",4
+31,31,nations-elite-esports-cup-balkan-qualifier,3372,1 spot in NEE Cup,Dec 3rd 2017,Online (Europe),4+
+32,32,dreamhack-open-winter-2017-byoc,3399,"$6,000",Dec 3rd 2017,"Jönköping, Sweden",2+
+33,33,csgo-super-league-2017-finals,3394,"$30,274",Dec 2nd,Chengde,4
+34,34,99damage-league-season-7,3396,"$11,900",Dec 2nd,Online (Germany),4
+35,35,esl-masters-spain-winter-2017-finals,3395,"$19,630",Dec 2nd,"Madrid, Spain",6
+36,36,dreamhack-open-winter-2017,2574,"$100,000",Dec 1st,"Jönköping, Sweden",8
+37,37,wesg-2017-west-asia,3398,1 spot at WESG APAC finals,Dec 2nd 2017,Online (West Asia),4+
+38,38,cyberpowerpc-extreme-gaming-series-winter-2017,3391,"$25,000",Dec 1st,North America (Online),8
+39,39,wesg-2017-malaysia-lan,3351,"$4,155 + 1 spot at APAC Regional",Dec 1st 2017,"Kuala Lumpur, Malaysia",8
+40,40,superliga-finals-2017,3397,"$5,355",Dec 1st 2017,"Penafiel, Portugal",2+
+41,41,nordic-championship-season-2-finals,3275,"$20,322",Dec 1st 2017,"Jönköping, Sweden",2
+42,42,nations-elite-esports-cup-iberian-qualifier,3371,1 spot in NEE Cup,Nov 29th,Online (Iberia),4+
+43,43,nations-elite-esports-cup-nordic-qualifier,3370,1 spot in NEE Cup,Nov 30th 2017,Online (Europe),4+
+44,44,ucc-cup-1-by-resf,3387,"$2,000",Nov 28th,Europe (Online),8
+45,45,alienware-liga-pro-gamers-club-nov-17,3377,"$2,300",Nov 23rd,South America (Online),8
+46,46,aoc-cybergamer-premier-league-championship-2017-qualifier,3388,2 spots at CGPL Championship 2017,Nov 27th,Online (Australia),4
+47,47,cyberfest-2017,3350,"$2,914",Nov 26th 2017,"Selangor, Malaysia",4+
+48,48,gext-2017-sea-finals,3349,"$5,000",Nov 25th,"Makati, Philippines",4
+49,49,fcdb-cup-2017,3224,"$40,000",Nov 25th,"Minsk, Belarus",8
+50,50,challenge-of-the-gods-2017,3378,"$6,600",Nov 24th,Espírito Santo,4
+51,51,wesg-2017-europe-cis-regional-finals-female,3115,"$16,000",Nov 23rd,"Barcelona, Spain",8
+52,52,wesg-2017-europe-cis-regional-finals,3114,"$92,500",Nov 23rd,"Barcelona, Spain",20
+53,53,vip-adria-league-season-1-finals,3295,"$11,600",Nov 25th 2017,"Zagreb, Croatia",4
+54,54,blast-pro-series-copenhagen-2017,2998,"$250,000",Nov 24th,"Copenhagen, Denmark",6
+55,55,china-top-2017-shenzhen,3292,"$113,361",Nov 19th,"Shenzhen, China",4
+56,56,ecs-season-4-north-america,3060,4 spots at ECS S4 Finals,Oct 6th,Online (North America),10
+57,57,ecs-season-4-europe,3059,4 spots at ECS S4 Finals,Oct 6th,Online (Europe),10
+58,58,esea-mdl-season-26-australia,3049,"$6,000 + 1 slot at ESEA S26 Global Challenge",Sep 25th,Online (Oceania),17
+59,59,eoddset-power-fight-club-2,3363,"$1,582",Nov 21st,Online (Denmark),8
+60,60,streamme-gauntlet-cis-vs-eu-15,3367,"$1,500",Nov 20th,Online (Europe),8
+61,61,sp-gaming-tournament-4,3335,$850,Nov 6th,Online,4
+62,62,nordic-championship-season-2,3276,"$3,646",Oct 25th,Online (Europe),8
+63,63,daddyskins-western-league-qualifier,3357,2 spots in DaddySkins Western League,Nov 19th 2017,Online (Europe),8+
+64,64,nations-elite-esports-cup-european-qualifier,3369,1 spot in NEE Cup,Nov 18th,Europe (Online),4+
+65,65,omen-strike-one-2017,3368,"$6,250",Nov 17th,"Lima, Peru",8
+66,66,iem-oakland-2017,2956,"$300,000",Nov 14th,"Burbank & Oakland, California, USA",12
+67,67,esl-benelux-winter-championship-2017,3352,"$7,580",Nov 12th,"Haarlem & Utrecht, Netherlands",4
+68,68,wegl-2017-super-fight-invitational,3355,"$53,580",Nov 17th,"Busan, South Korea",4
+69,69,zen-league-season-2-finals,3166,"$24,300",Nov 17th,"Sydney, Australia",4
+70,70,moche-lpgo,3358,"$7,670",Nov 16th,"Lisbon, Portugal",4
+71,71,wesg-2017-southern-south-america,3332,1 spot at AM Regional,Nov 15th,Online,4+
+72,72,play2live-match,3364,"$1,500",Nov 17th 2017,Online (Europe),2
+73,73,makemybet-championship-1,3208,"$10,000",Sep 25th,Online (EU & CIS),8
+74,74,wesg-2017-northern-south-america,3331,1 spot at AM Regional,Nov 14th,Online,4+
+75,75,cybergamer-intermediate-season-12-finals,3345,"$2,125",Nov 6th,Online (Australia),4+
+76,76,esea-mdl-season-26-europe,3047,"$2,500 + 3 slot at ESEA S26 Global Challenge",Sep 27th,Online (EU),27
+77,77,esea-mdl-season-26-north-america,3048,4 slots at ESEA S26 Global Challenge,Sep 26th,Online (NA),24
+78,78,wesg-2017-peru,3330,1 spot at AM Regional,Nov 13th,Online (Peru),4+
+79,79,wca-2017-europe-main-qualifier,3122,"$43,915",Sep 25th,Online (EU),20
+80,80,streamme-gauntlet-cis-vs-eu-14,3343,"$1,500",Nov 8th,Online (EU & CIS),8
+81,81,mobagame-cup-1,3185,"$5,000",Sep 15th 2017,Online (Asia),8
+82,82,fcdb-cup-2017-closed-qualifier,3311,4 spots at LAN,Oct 29th,Europe (Online),12
+83,83,mountain-dew-league-mongolia-fall-2017-invite,3353,$611,Nov 12th 2017,"Ulaanbaatar, Mongolia",2+
+84,84,operation-havoc,3346,"$1,716",Nov 12th 2017,"Quezon City, Philippines",4+
+85,85,dreamhack-open-winter-2017-north-america-closed-qualifier,3274,1 spot at DH Winter,Nov 12th 2017,Online (North America),16
+86,86,dreamhack-open-winter-2017-europe-closed-qualifier,3272,1 spot at DH Winter,Nov 12th 2017,Online (Europe),16
+87,87,wesg-2017-mexico-other,3329,1 spot at AM Regional,Nov 11th,Online,4+
+88,88,ibuypower-masters-2017,3165,"$100,000",Nov 11th,"Santa Ana, California, USA",8
+89,89,philips-oneblade-cup-2017,3344,"$11,920",Nov 11th,Online,8
+90,90,wesg-2017-argentina,3328,1 spot at AM Regional,Nov 10th,Online (Argentina),4+
+91,91,czech-championship-2017,3339,"$4,770",Nov 10th,"Brno, Czech Republic",8
+92,92,esl-pro-league-season-6-north-america,2867,"$125,000",Aug 22nd,Online (NA),14
+93,93,wpgi-league-season-3-finals,3348,"$3,070",Nov 11th 2017,"Perth, Australia",2+
+94,94,dreamhack-open-winter-2017-north-america-open-qualifier,3273,8 spots in Closed Qualifier,Nov 11th 2017,Online (North America),TBA
+95,95,dreamhack-open-winter-2017-europe-open-qualifier,3271,8 spots in Closed Qualifier,Nov 11th 2017,Europe (Online),16+
+96,96,wesg-2017-iberia-lan-female,3340,"$13,068 + 1 spot at EU Regional",Nov 10th,"Vitoria-Gasteiz, Spain",2
+97,97,wesg-2017-iberia-lan,3321,"$15,910 + 1 spot at EU Regional",Nov 10th,"Vitoria-Gasteiz, Spain",4
+98,98,telenor-league-fall-2017,3347,"$16,980",Nov 10th,"Lillestrøm, Norway",4
+99,99,wesg-2017-canada,3327,2 spots at AM Regional,Nov 9th,Online (Canada),8+
+100,100,iesf-world-championship-2017,3069,"$17,978",Nov 8th,"Busan, South Korea",16
+101,101,esl-pro-league-season-6-europe,2866,"$125,000",Aug 22nd,Online (EU),14
+102,102,wesg-2017-united-states,3326,3 spots at AM Regional,Nov 7th,Online (United States),8+
+103,103,wesg-2017-brazil,3325,2 spots at AM Regional,Nov 7th,Online (Brazil),8+
+104,104,vip-adria-league-season-1,3196,4 spots at the LAN Finals,Sep 19th,Online (Adria),8
+105,105,philips-oneblade-cup-2017-final-qualifier,3341,4 spots in the main event,Nov 6th 2017,Online,8
+106,106,experience-league-2017,3338,"$4,860",Nov 5th 2017,Espírito Santo,2
+107,107,esl-turkey-championship-2017-finals,3334,"$19,500",Nov 5th 2017,"Istanbul, Turkey",2
+108,108,neverstopgaming-season-2,3337,"$3,309",Nov 4th,"Bangkok, Thailand",4+
+109,109,conquerors-insignia-2017,3324,"$8,494",Nov 4th,"Bangalore, India",8
+110,110,rog-masters-2017-americas-regional-finals,3259,1 spot at Grand Finals,Nov 4th,"Huntington Beach, California, United States",4
+111,111,americas-minor-eleague-major-2018,3252,"$50,000 + 2 spots at Main Qualifier",Nov 2nd,"Toronto, Canada",8
+112,112,europe-minor-eleague-major-2018,3251,"$50,000 + 2 spots at Main Qualifier",Nov 2nd,"Bucharest, Romania",8
+113,113,sl-i-league-invitational-shanghai-2017,3190,"$150,000",Nov 2nd,"Shanghai, China",8
+114,114,aoc-cybergamer-premier-league-spring-2017-finals,2895,"$12,350",Nov 3rd,"Adelaide, Australia",4
+115,115,eswc-2017,3232,"$59,000",Nov 2nd,"Paris, France",4
+116,116,csgofastcom-cup-1,3293,"$10,000",Oct 30th,Europe (Online),8
+117,117,philips-oneblade-cup-2017-danish-qualifier,3294,1 spot in the main event,Oct 30th 2017,Online (Denmark),4
+118,118,aoc-csgo-cup,3305,"$4,000",Oct 22nd,Online (EU & CIS),8
+119,119,fcdb-cup-2017-open-qualifier,3310,4 spots in the Closed Qualifier,Oct 29th 2017,Europe (Online),8+
+120,120,rog-masters-2017-asia-pacific-regional-finals,3240,2 spots at Grand Finals,Oct 28th,"Manila Bay, Philippines",8
+121,121,wca-2017-north-america-finals,2938,"$18,450",Oct 28th,Online,8
+122,122,wesg-2017-iberia,3264,TBA,Oct 27th,Online (Iberia),TBA
+123,123,cis-minor-eleague-major-2018,3250,"$50,000 + 2 spots at Main Qualifier",Oct 26th,"Bucharest, Romania",8
+124,124,asia-minor-eleague-major-2018,3249,"$50,000 + 2 spots at Main Qualifier",Oct 26th,"Seoul, South Korea",8
+125,125,epicenter-2017,3133,"$490,000",Oct 24th,"Saint Petersburg, Russia",8
+126,126,esl-clash-of-nations,3204,"$10,000",Oct 27th,"Madrid, Spain",8
+127,127,rog-masters-2017-asia-pacific-main-qualifier,3178,2 spots at ROG MASTERS 2017 APAC Regional Finals,Oct 26th,"Manila Bay, Philippines",12
+128,128,alienware-liga-pro-gamers-club-oct-17,3301,"$2,300",Oct 19th,Online,8
+129,129,esports-balkan-league-season-1,3014,"$2,800",Sep 11th,Online (Balkans),8
+130,130,wesg-2017-poland,3262,2 spots at EU Regional,Oct 19th,Online (Poland),8+
+131,131,epicenter-2017-wild-card-qualifier,3153,"$10,000 + 2 spots at EPICENTER 2017",Oct 23rd 2017,"Saint Petersburg, Russia",4
+132,132,philips-oneblade-cup-2017-mixed-qualifier,3307,1 spot in the main event,Oct 23rd 2017,Online,4
+133,133,daddyskins-cup-2,3284,"$3,000",Oct 16th,Online (EU),8
+134,134,tiger-masters-season-3-finals,3304,"$1,720",Oct 22nd 2017,"Prague, Czech Republic",2+
+135,135,wesg-2017-russia-lan,3245,"$2,000",Oct 22nd 2017,"Saint Petersburg, Russia",2
+136,136,eswc-2017-qualifier-2,3306,1 spot at ESWC 2017,Oct 22nd 2017,Online (France),2
+137,137,4gamers-csgo-masters-porto,3302,"$9,424",Oct 21st,"Porto, Portugal",4
+138,138,st-petersburg-governors-cup,3297,"$5,215",Oct 21st,"Saint Petersburg, Russia",4
+139,139,dreamhack-open-denver-2017,2573,"$100,000",Oct 20th,"Denver, Colorado, USA",8
+140,140,extremesland-2017-asia-finals,2921,"$100,000",Oct 19th,"Shanghai, China",16
+141,141,nordic-championship-season-2-finland-qualifier,3280,2 spots in Season 2,Oct 21st 2017,Online (Finland),4+
+142,142,nordic-championship-season-2-norway-qualifier,3279,2 spots in Season 2,Oct 21st 2017,Online (Norway),4+
+143,143,nordic-championship-season-2-denmark-qualifier,3278,2 spots in Season 2,Oct 21st 2017,Online (Denmark),4+
+144,144,nordic-championship-season-2-sweden-qualifier,3277,2 spots in Season 2,Oct 21st 2017,Online (Sweden),4+
+145,145,wesg-2017-russia-lan-female,3303,$400,Oct 21st 2017,"Moscow, Russia",2
+146,146,wesg-2017-denmark,3263,2 spots at EU Regional,Oct 20th,Online (Denmark),8+
+147,147,king-of-nordic-season-8,3104,"$5,849",Aug 18th,Online (EU),4
+148,148,americas-minor-last-chance-qualifier-eleague-major-2018,3298,1 spot at Americas Minor,Oct 19th 2017,Online (North America),3
+149,149,dust2dk-eoddset-masters-14,3285,"$1,587",Oct 17th,Online (Denmark),7
+150,150,wesg-2017-sweden,3261,2 spots at EU Regional,Oct 17th,Online (Sweden),8+
+151,151,skincoin-invitational,3291,2 spots at China Top 2017 Shenzhen,Oct 17th,Online (EU),8
+152,152,douyu-csgo-asia-invitational-2-wild-card,3286,"$1,512",Oct 16th,Online,5
+153,153,st-petersburg-governors-cup-closed-qualifier,3296,4 spots at St. Petersburg Governor's Cup,Oct 18th 2017,Online (CIS),8
+154,154,wesg-2017-baltics-scandinavia,3260,1 spot at EU Regional,Oct 17th,Online (Europe),4+
+155,155,tna-challenge-cup-qualifier,3288,1 spot at TNA Challenge Cup,Oct 16th,Online,8
+156,156,aoc-cybergamer-premier-league-spring-2017,3129,4 slots to AOC CGPL Spring 2017 Finals,Sep 3rd,Online (Australia),8
+157,157,philips-oneblade-cup-2017-finnish-qualifier,3287,1 spot in the main event,Oct 16th 2017,Online (Finland),4
+158,158,wca-2017-mongolian-qualifier,3282,$163,Oct 14th,"Ulaanbaatar, Mongolia",4+
+159,159,wca-2017-china-qualifier-wild-card,3212,"$12,147",Sep 22nd 2017,Online (Asia),16
+160,160,europe-minor-closed-qualifier-eleague-major-2018,3255,8 spots at EU Minor,Oct 15th 2017,Online (Europe),16
+161,161,americas-minor-north-america-closed-qualifier-eleague-major-2018,3257,5 spots at AM Minor,Oct 15th 2017,Online (North America),16
+162,162,rog-masters-2017-emea-finals,3183,2 spots at the World Finals,Oct 14th,"Krefeld, Germany",8
+163,163,americas-minor-south-america-open-qualifier-eleague-major-2018,3258,1 spot at AM Minor,Oct 14th,Online (South America),4+
+164,164,esl-india-premiership-2017-fall-finals,3242,"$10,355",Oct 12th,"Hyderabad, India",7
+165,165,cis-minor-last-chance-qualifier-eleague-major-2018,3281,1 spot at CIS Minor,Oct 14th 2017,CIS (Online),3
+166,166,europe-minor-open-qualifier-eleague-major-2018,3254,8 spots in EU Closed Qualifier,Oct 14th 2017,Online (Europe),16+
+167,167,americas-minor-north-america-open-qualifier-eleague-major-2018,3256,8 spots at NA Closed Qualifier,Oct 13th,Online (North America),16+
+168,168,eleague-csgo-premier-2017,3016,"$1,000,000",Sep 8th,"Atlanta, Georgia, USA",16
+169,169,wesg-2017-russia-qualifier-2,3244,1 spot at EU Regional,Oct 11th,Online (Russia),4+
+170,170,igamecom-nordic-invitational-2,3265,"$8,000",Oct 9th,Europe (Online),8
+171,171,sl-i-league-invitational-shanghai-2017-europe-qualifier,3219,1 spot at SL i-League Shanghai,Sep 24th,Online (EU),19
+172,172,epicenter-2017-americas-closed-qualifier,3152,1 spot at the Wild Card Qualifier,Sep 19th,Online (NA),8
+173,173,epicenter-2017-cis-closed-qualifier,3151,1 spot at the Wild Card Qualifier,Sep 14th,Online (CIS),8
+174,174,zen-league-season-2,3134,4 slots to ZEN League S2 Finals,Sep 12th,Online (Asia-Pacific),12
+175,175,hellcase-cup-6,3157,"$62,000",Sep 4th,Online (EU & CIS),20
+176,176,cis-minor-open-qualifier-eleague-major-2018,3253,6 spots at CIS Minor,Oct 10th 2017,Online (CIS),16+
+177,177,csesportcom-cup-1,3207,"$3,000",Sep 23rd,Online (Europe),12
+178,178,philips-oneblade-cup-2017-swedish-qualifier,3270,1 spot in the main event,Oct 9th 2017,Online (Sweden),4
+179,179,wesg-2017-russia-qualifier-1,3243,1 spot at EU Regional,Oct 8th,Online (Russia),4+
+180,180,eswc-2017-qualifier-1,3269,1 spot at ESWC 2017,Oct 8th 2017,Online (France),2
+181,181,wca-2017-south-america-finals,2935,"$18,450",Oct 7th,Online (South America),8
+182,182,epicenter-2017-europe-closed-qualifier,3150,1 spot at the Wild Card Qualifier,Sep 17th,Online (EU),8
+183,183,extremesland-2017-singapore-qualifier,3267,1 spot at eXTREMESLAND Asia Finals 2017,Oct 7th 2017,,4
+184,184,polish-cup-cybersport,3266,"$7,050",Oct 7th 2017,"Poznan, Poland",4
+185,185,famalico-extreme-gaming,3268,"$3,500",Oct 7th 2017,"Famalicão, Portugal",4
+186,186,wesg-2017-central-europe,3238,1 spot at EU Regional,Oct 6th,Online (Europe),4+
+187,187,esl-african-championship-season-2-finals,3239,"$46,096",Oct 6th,"Johannesburg, South Africa",4
+188,188,ngc-masters-2017,3101,"$17,585",Oct 5th,"Husum, Germany",8
+189,189,esl-brazil-premier-league-4,3229,"$6,100",Sep 27th,Online,4
+190,190,sl-i-league-invitational-shanghai-2017-cis-qualifier,3195,1 spot at SL i-League Shanghai,Sep 20th,,20
+191,191,wesg-2017-britain-iceland,3237,1 spot at EU Regional,Oct 5th,Online (Europe),4+
+192,192,finnish-esports-league-season-3-finals,3246,"$17,610",Oct 5th 2017,"Tampere, Finland",2
+193,193,wesg-2017-eastern-europe,3236,1 spot at EU Regional,Oct 4th,Online (Europe),4+
+194,194,wesg-2017-south-east-cis-turkey,3234,1 spot at EU Regional,Oct 3rd,Online (Europe),4+
+195,195,extremesland-2017-pakistan-qualifier,3241,1 slot at eXTREMESLAND Asia Finals 2017,Oct 2nd,"Karachi, Pakistan",4+
+196,196,wesg-2017-france,3235,2 spots at EU Regional,Oct 2nd,Online (France),8+
+197,197,iem-oakland-2017-north-america-closed-qualifier,3139,1 spot at IEM Oakland,Oct 2nd 2017,,8
+198,198,iem-oakland-2017-europe-closed-qualifier,3137,1 spot at IEM Oakland,Oct 2nd 2017,,8
+199,199,wesg-2017-south-east-europe,3222,1 spot at EU Regional,Sep 30th,Online (SEE),4+
+200,200,cyberpowerpc-extreme-gaming-series-fall-2017,3225,"$15,000",Sep 30th,Online (North America),8
+201,201,pc-coolers-league-season-2-finals,3223,"$5,000",Sep 30th,"Bucharest, Romania",4
+202,202,dew-arena-2017,3230,"$10,641",Sep 29th,"Delhi, India",4
+203,203,china-top-2017-kunshan,3189,"$100,000",Sep 29th,"Kunshan, China",4
+204,204,rog-cool-league-season-2-finals,3233,"$2,715",Sep 30th 2017,"Prague, Czech Republic",2
+205,205,wesg-2017-germany,3156,1 spot at EU Regional,Sep 29th,Online (Germany),4+
+206,206,connection-lan-2017,3231,"$7,065",Sep 29th,"Seinäjoki, Finland",8
+207,207,wca-2017-middle-east-north-africa-qualifier,3226,"37,030",Sep 27th,Online (MENA),8
+208,208,iesf-2017-italy-finals,3227,1 spot at IeSF World Championship 2017,Sep 29th 2017,"Milan, Italy",2
+209,209,ecs-season-4-na-promotion,3058,2 spots in ECS S4,Sep 23rd,Online (NA),4
+210,210,ecs-season-4-eu-promotion,3057,2 spots in ECS S4,Sep 23rd,Online (EU),4
+211,211,alienware-liga-pro-gamers-club-sep-17,3213,"$2,300",Sep 21st,Online,8
+212,212,wesg-2017-ukraine,3220,1 spot at EU Regional,Sep 26th,Online (Ukraine),4+
+213,213,sl-i-league-invitational-shanghai-2017-china-qualifier,3194,1 spot in the SL i-League Invitational Shanghai,Sep 18th,Online (China),16
+214,214,legend-series-3,3035,"$3,555",Aug 3rd,Online (EU & CIS),8
+215,215,dust2dk-eoddset-masters-13,3202,1 spot in Dust2.dk eOddset Final 4 #2,Sep 24th,Online (Denmark),8
+216,216,dreamhack-open-denver-2017-north-america-closed-qualifier,3200,1 spot at DH Denver,Sep 24th,Online (NA),16
+217,217,mga-thailand-csgo-season-3,3218,"$1,148",Sep 24th 2017,"Bangkok, Thailand",4
+218,218,extremesland-2017-malaysia-qualifier,3216,1 slot at eXTREMESLAND Asia Finals 2017,Sep 24th 2017,"Kuala Lumpur ,Malaysia",4+
+219,219,dreamhack-open-denver-2017-europe-closed-qualifier,3199,1 spot at DH Denver,Sep 24th 2017,,16
+220,220,iem-oakland-2017-south-east-asia-qualifier,3135,1 spot at IEM Oakland,Sep 23rd,Online (SEA),16+
+221,221,extremesland-2017-india-regional-finals,3075,1 slot at eXTREMESLAND Asia Finals 2017,Sep 23rd,"Bangalore, India",4
+222,222,australian-esports-masters-season-2-finals,2942,"$6,820",Sep 23rd,"Adelaide, Australia",8
+223,223,esl-uk-premiership-autumn-2017-finals,3210,"$8,639",Sep 23rd,"Birmingham, United Kingdom",4
+224,224,rog-cool-league-season-2,3209,"$1,142",Sep 23rd,Online (CZ & SK),4
+225,225,dreamhack-open-denver-2017-north-america-open-qualifier,3198,8 spots in the Closed Qualifier,Sep 23rd,Online (NA),16+
+226,226,esea-season-25-mdl-global-challenge,3046,"$50,000",Sep 23rd,"Burbank, California, USA",8
+227,227,worldgaming-csgo-canadian-championship-series-2017,3020,"$44,750",Sep 23rd,"Toronto, Canada",8
+228,228,extremesland-2017-china-regional-finals,3211,"$8,731",Sep 22nd,"Shanghai, China",8
+229,229,todosgamers-cup-1,3214,"$1,500",Sep 21st,Online (Latin America),4
+230,230,wca-2017-europe-closed-qualifier,3121,4 spots in the Main Qualifier,Sep 4th,Online (EU),16
+231,231,meta-17,3205,"$1,500",Sep 23rd 2017,"Minsk, Belarus",8
+232,232,dreamhack-open-denver-2017-europe-open-qualifier,3197,8 spots in the Closed Qualifier,Sep 23rd 2017,Online (EU),16+
+233,233,logitech-g-challenge-2017,3215,"$3,000",Sep 22nd,"Buenos Aires, Argentina",4
+234,234,extremesland-2017-philippines-qualifier,3206,1 slot at eXTREMESLAND Asia Finals 2017,Sep 21st,Online (Philippines),4+
+235,235,streamme-gauntlet-cis-vs-eu-13,3180,"$1,500",Sep 13th,Online (EU & CIS),8
+236,236,makemybet-championship-1-closed-qualifier,3175,4 spots in the main tournament,Sep 11th,Online (EU & CIS),8
+237,237,iem-oakland-2017-north-america-open-qualifier,3138,2 spots in the Closed Qualifier,Sep 19th,Online (NA),16+
+238,238,iem-oakland-2017-europe-open-qualifier,3136,2 spots in the Closed Qualifier,Sep 19th,Online (EU),16+
+239,239,ecs-season-4-na-development-league,3056,2 spots in ECS Relegation,Aug 29th,Online (NA),8
+240,240,ecs-season-4-eu-development-league,3055,2 spots in ECS Relegation,Aug 29th,Online (EU),8
+241,241,iesf-2017-italy-qualifier,3192,1 spot at LAN Grand-Final,Sep 17th 2017,,4
+242,242,iesf-2017-serbia-qualifier,3191,1 spot at IeSF World Champhionship 2017,Sep 17th 2017,,4
+243,243,gameon-iii-finals,3179,"$4,184",Sep 17th 2017,"Vilnius, Lithuania",4
+244,244,rog-masters-2017-malaysia-regional-finals,3193,1 slot at ROG Masters APAC Main Qualifier,Sep 16th,"Selangor, Malaysia",4+
+245,245,rog-masters-2017-indonesia-regional-finals,3188,1 slot at ROG Masters APAC Main Qualifier,Sep 16th,"Jakarta, Indonesia",4
+246,246,extremesland-2017-japan-regional-finals,3010,1 spot at eXTREMESLAND Asia Finals,Sep 16th,"Tokyo, Japan",4
+247,247,esl-polish-championship-summer-2017-finals,3184,"$16,625",Sep 15th,"Lodz, Poland",4
+248,248,esl-one-new-york-2017,2636,"$250,000",Sep 15th,"New York, New York, USA",8
+249,249,extremesland-2017-taiwan-qualifier,3187,1 slot at eXTREMESLAND Asia Finals 2017,Sep 16th 2017,"Taipei, Taiwan",4
+250,250,gext-thailand-2017-finals,3081,"$2,850",Sep 16th 2017,"Bangkok, Thailand",2
+251,251,iesf-2017-swedish-finals,3186,1 spot at IeSF World Champhionship 2017,Sep 16th 2017,"Stockholm, Sweden",2
+252,252,iesf-2017-australia-finals,3181,1 spot at IeSF World Championship 2017,Sep 16th 2017,"Sydney, Australia",2
+253,253,mother-russia-1xbet,3002,"$10,000",Jul 26th,Online (EU & CIS),16
+254,254,vreecase-cup-1,3162,"$2,000",Sep 6th,Online (CIS),8
+255,255,extremesland-2017-vietnam-regional-finals,3173,1 slot at eXTREMESLAND Asia Finals 2017,Sep 10th 2017,"Hanoi, Vietnam",4
+256,256,wesg-2017-china-finals-female,3172,"$9,263",Sep 10th 2017,"SuZhou, JiangSu",4
+257,257,hyperx-goexanimo-csgo-5x5-5,3174,"$1,083",Sep 10th 2017,"Rega, Latvia",4+
+258,258,extremesland-2017-indonesia-regional-finals,3168,1 slot at eXTREMESLAND Asia Finals 2017,Sep 10th 2017,"Jakarta, Indonesia",4
+259,259,wesg-2017-china-finals,3169,"$27,107",Sep 9th,"SuZhou, China",12
+260,260,german-clash-season-2-finals,3164,"$6,123",Sep 9th,Online (Germany),4
+261,261,omen-by-hp-comiccon-bulgaria-2017,3163,"$2,980",Sep 9th,"Sofia, Bulgaria",4
+262,262,epicenter-2017-cis-qualifier-2,3147,1 spot in the Closed Qualifier,Sep 9th,,8+
+263,263,epicenter-2017-europe-qualifier-2,3145,1 spot in the Closed Qualifier,Sep 9th,,16+
+264,264,extremesland-2017-thailand-regional-finals,3077,1 slot at eXTREMESLAND Asia Finals 2017,Sep 9th,"Bangkok, Thailand",8
+265,265,cross-border-esport-2017,2973,"$15,300",Sep 8th,"Sønderborg, Denmark",24
+266,266,dreamhack-open-montreal-2017,2572,"$100,000",Sep 8th,"Montreal, Canada",8
+267,267,esg-tour-mykonos-2017,3061,"$235,000",Sep 7th,"Mykonos, Greece",8
+268,268,rog-masters-2017-singapore-finals,3132,One slot to ROG MASTERS 2017 APAC Main Qualifier,Sep 9th 2017,"Marina Bay, Singapore",2
+269,269,extremesland-2017-anz-regional-finals,2972,1 slot at eXTREMESLAND Asia Finals 2017,Sep 9th 2017,"Sydney, Australia",4
+270,270,lcg-copa-invierno-2017,3171,$640,Sep 9th 2017,"Santiago, Chile",4
+271,271,epicenter-2017-americas-qualifier-2,3149,1 spot in the Closed Qualifier,Sep 9th 2017,Online (NA),8+
+272,272,iesf-2017-philippines-qualifier,3160,1 slot at IeSF World Champhionship 2017,Sep 8th 2017,Online (Philippines),4+
+273,273,cross-border-esport-2017-female-finals,3167,"$4,050",Sep 8th 2017,"Sønderborg, Denmark",2
+274,274,99damage-league-season-6,3161,"$11,915",Sep 6th,Online (Germany),4
+275,275,mmbetsnet-stars-challenge-south-america,3011,"$2,500",Aug 21st,Online (South America),8
+276,276,zen-league-season-2-asia-closed-qualifier,3159,3 slots to ZEN League Season 2,Sep 5th,Online (Asia),4
+277,277,zen-league-season-2-anz-closed-qualifier,3158,3 slots to ZEN League Season 2,Sep 5th,Online (Australia),5
+278,278,streamme-gauntlet-cis-vs-eu-12,3128,"$1,500",Aug 28th,Online (EU & CIS),8
+279,279,esea-open-season-25-south-africa,3043,"$2,000",Aug 9th,Online (South Africa),8
+280,280,esea-mdl-season-25-europe,2879,"$2,500",Jun 6th,Online (EU),24
+281,281,wca-2017-europe-qualifier-2,3143,2 spots in the Closed Qualifier,Sep 3rd 2017,,4
+282,282,girlgamer-esports-festival-2017,3140,"$12,781",Sep 2nd,"Ilhas, Macau",4
+283,283,rog-masters-2017-australian-open-qualifier,3154,1 spot at ROG MASTERS 2017 APAC Main Qualifier,Sep 2nd,Online (Australia),6+
+284,284,epicenter-2017-cis-qualifier-1,3146,1 spot in the Closed Qualifier,Sep 2nd,,8+
+285,285,epicenter-2017-europe-qualifier-1,3144,1 spot in the Closed Qualifier,Sep 2nd,,16+
+286,286,epicenter-2017-americas-qualifier-1,3148,1 spot in the Closed Qualifier,Sep 2nd,Online (NA),8+
+287,287,extremesland-2017-china-closed-qualifier,3141,8 spots at the LAN Finals,Sep 2nd,Online(China),16
+288,288,rog-masters-2017-tw-hk-mo-regional-finals,3102,"$11,608",Sep 2nd,"Taipei, Taiwan",4
+289,289,dreamhack-masters-malm-2017,2684,"$250,000",Aug 30th,"Malmö, Sweden",16
+290,290,rog-masters-2017-singapore-open-qualifier,3131,2 spots to ROG MASTERS 2017 Singapore Finals,Sep 2nd 2017,Online (Singapore),4+
+291,291,wca-2017-europe-qualifier-1,3142,2 spots in the Closed Qualifier,Sep 2nd 2017,,4
+292,292,liga-tyc-sports-aorus-finals,3155,"$1,500",Sep 2nd 2017,Rosario,2
+293,293,iiyama-csgo-homemasters-3-finals,3085,"$3,569",Sep 2nd 2017,"Peine, Germany",2
+294,294,gext-thailand-2017,3080,"$1,020",Aug 12th,Online (Thailand),8
+295,295,rog-masters-2017-korea-qualifier,3067,"$8,880",Aug 8th,"Seoul, South Korea",8
+296,296,gfinity-elite-series-season-1,2979,"$110,000",Jul 8th,"London, United Kingdom",8
+297,297,dust2dk-eoddset-final-4-1,3111,"$3,164",Aug 30th,Online (Denmark),4
+298,298,alienware-liga-pro-gamers-club-aug-17,3119,"$2,300",Aug 24th,Online (Brazil),8+
+299,299,daddyskins-cup-1,3105,"$3,000",Aug 21st,Online (EU),8
+300,300,nvidia-csgo-challenge,3130,"$2,500",Aug 30th 2017,Online,4
+301,301,iesf-2017-vietnam-qualifier,3127,1 slot at IeSF World Champhionship 2017,Aug 28th,"Ha Noi, Vietnam",4+
+302,302,dreamhack-open-montreal-2017-north-america-closed-qualifier,3098,1 spot at DH Montreal,Aug 27th,Online (NA),16+
+303,303,esea-mdl-season-25-north-america,2880,"$2,500",Jun 6th,Online (NA),24
+304,304,rog-masters-2017-thailand-qualifier,3126,"$2,250",Aug 27th 2017,"Bangkok, Thailand",2+
+305,305,wca-2017-south-america-qualifier-2,2934,TBA,Aug 27th 2017,Online (South America),4
+306,306,iesf-2017-malaysian-qualifier,3125,1 slot to IeSF World Championship 2017,Aug 27th 2017,"Kuala Lumpur, Malaysia",4
+307,307,dreamhack-open-montreal-2017-europe-closed-qualifier,3097,1 spot at DH Montreal,Aug 27th 2017,Online (EU),16
+308,308,extremesland-2017-japan-open-qualifier,3009,4 spots at Japan Finals,Aug 27th 2017,Online (Japan),8+
+309,309,extremesland-2017-india-open-qualifier,3074,TBA,Aug 26th,Online (India),4+
+310,310,binary-dragons-prestige-lan,3093,"$10,000",Aug 26th,"Moscow, Russia",8
+311,311,temporada-de-juegos-lan-2017,3124,"$3,000",Aug 26th,"Buenos Aires, Argentina",8
+312,312,csbetgo-cup-1,3120,"$4,000",Aug 26th,Online (Poland),8
+313,313,nest-2017,3118,"$1,175",Aug 26th,"Ljubljana, Slovenia",8
+314,314,rog-masters-2017-asia-pacific-open-qualifier,3078,1 spot at APAC Main Qualifier,Aug 26th,(Online) Asia-Pacific,4+
+315,315,eleague-csgo-premier-2017-north-america-qualifier,3018,3 spots at EL Premier 2017,Aug 26th,Online (NA),16+
+316,316,eleague-csgo-premier-2017-europe-qualifier,3017,2 spots at EL Premier 2017,Aug 26th,Online (EU),16+
+317,317,91lounge-cup-1,3076,"$6,000",Aug 15th,Online (Asia),8
+318,318,esl-meisterschaft-summer-2017-finals,3123,"$17,222",Aug 26th 2017,"Cologne, Germany",2
+319,319,dreamhack-open-montreal-2017-north-america-open-qualifier,3096,8 spots in Closed Qualifier,Aug 26th 2017,Online (NA),16+
+320,320,dreamhack-open-montreal-2017-europe-open-qualifier,3095,8 spots in Closed Qualifier,Aug 26th 2017,Online (EU),16+
+321,321,esea-open-season-25-asia-pacific,3044,"$2,500",Aug 10th,(Online) Asia,16
+322,322,uk-masters-summer-2017-finals,3092,"$9,615",Aug 25th 2017,"Birmingham, England",2
+323,323,ecs-season-4-na-development-league-open-qualifier-2,3054,2 spots in ECS D-League,Aug 23rd,Online (NA),8+
+324,324,arab-gaming-championship-2017-summer-open,3109,"$8,170",Aug 22nd,Online,8
+325,325,rog-masters-2017-hong-kong-macau-qualifier,3031,$768,Aug 12th,"Lai Chi Kok & Wan Chai , Hong Kong",8
+326,326,esl-major-league-summer-2017,3036,"$4,000",Aug 10th,Online (EU),8
+327,327,dust2dk-eoddset-masters-12,3110,1 spot in Dust2.dk eOddset Final 4 #1,Aug 23rd,Online (Denmark),8
+328,328,gameon-iii,3108,4 spots in GameOn III Finals,Aug 23rd,Online,8
+329,329,ecs-season-4-eu-development-league-open-qualifier-2,3052,2 spots in ECS D-League,Aug 23rd,,16+
+330,330,log-cup-3-by-csmoney,3019,"$2,000",Jul 27th,Online (EU),8
+331,331,aoc-cybergamer-premier-league-spring-2017-closed-qualifier,3088,4 spots to CGPL Spring 2017,Aug 21st,Online (Australia),8
+332,332,esea-main-season-25-europe,3041,"$9,000",Aug 16th,Online (EU),8
+333,333,esea-main-season-25-north-america,3040,"$9,000",Aug 16th,Online (NA),8
+334,334,esea-open-season-25-latin-america,3042,"$1,600",Aug 9th,Online (LATAM),8
+335,335,esl-australia-nz-championship-season-4-finals,3015,"$7,990",Aug 20th 2017,"Sydney, Australia",4
+336,336,netgear-csgo-summer-2017,3107,"$3,800",Aug 20th 2017,"San Jose, California",4
+337,337,gloot-cup-summer-2017,3106,"$8,992",Aug 20th 2017,Online (EU),4
+338,338,rog-masters-2017-philippines-qualifier,3099,"$1,870",Aug 19th,"Metro Manila, Philippines",4
+339,339,rog-masters-2017-japan-open-qualifier,3079,1 spot at ROG MASTERS 2017 APAC Main Qualifier,Aug 19th,Online (Japan),4+
+340,340,esl-one-new-york-2017-north-america-closed-qualifier,2969,1 slot at ESL One New York 2017,Aug 19th,,8
+341,341,esl-one-new-york-2017-europe-closed-qualifier,2968,1 slot to ESL One New York 2017,Aug 19th,,8
+342,342,tiger-masters-season-3-qualification-2,3103,$900,Aug 19th,"Prague, Czech Republic",4
+343,343,ecs-season-4-eu-development-league-open-qualifier-1,3051,2 spots in ECS D-League,Aug 19th,,16+
+344,344,csgo-super-league-2017-summer-season-finals,3068,2 spots at CSL Finals,Aug 19th,"Beijing, China",4
+345,345,ecs-season-4-na-development-league-open-qualifier-1,3053,2 spots in ECS D-League,Aug 19th,Online (NA),16+
+346,346,rog-masters-2017-south-asia-regional-finals,3026,"$7,795",Aug 18th,"Bengaluru, India",6
+347,347,rog-masters-2017-taiwan-qualifier,3084,2 spots at Regional Finals,Aug 13th,Online (Taiwan),4
+348,348,extremesland-2017-mongolia-closed-qualifier,3064,1 spot at eXTREMESLAND Asia Finals 2017,Aug 19th 2017,"Ulaanbaatar, Mongolia",4
+349,349,rog-masters-2017-emea-qualifier,3000,"$5,000",Aug 15th,Online,12
+350,350,binary-dragons-prestige-lan-closed-qualifier,3094,1 spot at the LAN Finals,Aug 17th,Online (EU & CIS),8
+351,351,esg-tour-mykonos-2017-closed-qualifier,3062,1 spot at ESG Mykonos,Aug 17th,Online (EU),4
+352,352,unikrn-tv-australian-showdown,3086,"$7,895",Aug 16th,Online (Australia),4
+353,353,streamme-gauntlet-cis-vs-eu-11,3090,"$1,500",Aug 15th,Online (EU & CIS),8
+354,354,gloot-cup-summer-2017-qualifier-4,3100,1 spot in the main tournament,Aug 17th 2017,Online,4
+355,355,uk-masters-summer-2017,3091,"$3,244",Aug 15th,Online (UK),4
+356,356,extremesland-2017-mongolia-open-qualifier,3065,3 spots at the Closed Qualifier,Aug 15th,Online (Mongolia),4+
+357,357,esea-open-season-25-brazil,3045,"$2,475",Aug 10th,Online (Brazil),8
+358,358,israel-esports-championship-2017,3070,"$2,800",Aug 16th 2017,"Rishon LeZion, Israel",2
+359,359,esl-one-new-york-2017-europe-open-qualifier,2966,1 slot in the Closed Qualifier,Aug 14th,Online,16+
+360,360,esl-one-new-york-2017-north-america-open-qualifier,2967,1 slot in the Closed Qualifier,Aug 14th,Online (NA),16+
+361,361,skinhub-csgo-championship-1,3004,"$10,000",Jul 24th,Online (EU),8
+362,362,esea-mdl-season-25-australia,2897,"$5,000",Jun 4th,Online (Australia),17
+363,363,iesf-2017-australia-closed-qualifier,3083,2 slots to IeSF AU Finals,Aug 13th 2017,Online (Australia),8
+364,364,tuddinn-hringurinn-2017,3089,"$2,634",Aug 13th 2017,Reykjavik,4+
+365,365,ibuypower-gamefest-2017,3066,"$10,000",Aug 12th,"Costa Mesa, California",4
+366,366,pg-way-trnava-2017,3087,"$2,364",Aug 12th,"Trnava, Slovakia",4+
+367,367,zowie-goexanimo-csgo-5x5-4,3082,$950,Aug 12th,"Riga, Latvia",4+
+368,368,wca-2017-north-america-qualifier-2,2937,TBA,Aug 11th,Online,4
+369,369,iiyama-csgo-homemasters-3,3073,2 spots at iiyama CS:GO HomeMasters #3 LAN Finals,Aug 12th 2017,Online,8
+370,370,rog-masters-2017-americas-main-qualifier,3013,1 spot at Americas Finals,Aug 8th,,8
+371,371,gloot-cup-summer-2017-qualifier-3,3071,1 spot in the main tournament,Aug 10th 2017,Online,4
+372,372,csgo-super-league-2017-summer-season,2981,4 spots for the LAN Finals,Jul 6th,Online (China),16
+373,373,rog-masters-2017-vietnam-qualifier,3050,"$1,980",Aug 5th,Online (Vietnam),4
+374,374,rog-masters-2017-india-qualifier-2,3033,3 slots at South Asia Regional Finals,Aug 5th,Online (India),4
+375,375,extremesland-2017-anz-closed-qualifier,2971,2 spots at the ANZ Regional Finals,Aug 5th,Online (Oceania),8
+376,376,alienware-liga-pro-gamers-club-jul-17,3038,"$2,300",Aug 2nd,Online,8
+377,377,headshot-cup-4,3037,"$3,000",Aug 2nd,Online (EU & CIS),8
+378,378,esl-meisterschaft-summer-2017,3063,"$4,700",Aug 5th 2017,"Krefeld, Germany",4
+379,379,rog-masters-2017-benelux-finals,2997,1 spot at the EMEA Main Qualifier,Aug 5th 2017,"Haarlem, Netherlands",2
+380,380,rog-masters-2017-nordic-qualifier,2993,"$15,000",Aug 5th 2017,"Helsinki, Finland",4
+381,381,nordic-championship-season-1-finals,2918,"$20,960",Aug 5th 2017,"Helsinki, Finland",2
+382,382,rog-masters-2017-emea-open-qualifier,3034,1 spot at the EMEA Main Qualifier,Aug 2nd,Online,8+
+383,383,gloot-cup-summer-2017-qualifier-2,3039,1 spot in the main tournament,Aug 3rd 2017,Online,4
+384,384,esportsmfi-2017-finals,3028,"$7,050",Aug 3rd 2017,"Helsinki, Finland",2
+385,385,streamme-gauntlet-cis-vs-eu-10,3030,"$1,500",Aug 1st,Online (EU & CIS),8
+386,386,cbe-2017-europe-closed-qualifier,3029,"$2,370",Aug 1st,Online (Europe),8
+387,387,wca-2017-asia-pacific-closed-qualifier,2932,"$37,400",Jul 24th,Online (Asia-Pacific),9
+388,388,copa-brasil-2017-finals,3032,"$4,800",Jul 31st 2017,São Paulo,2
+389,389,cbe-2017-europe-open-qualifier-3,3027,"$1,175",Jul 30th 2017,Online (EU),2
+390,390,rog-masters-2017-russia-finals,3025,1 spot at the EMEA Main Qualifier,Jul 30th 2017,"Moscow, Russia",4
+391,391,rog-masters-2017-portuguese-finals,3024,1 spot at the EMEA Main Qualifier,Jul 29th,"Porto, Portugal",4
+392,392,fragadelphia-11,2836,"$35,000",Jul 28th,"Philadelphia, Pennsylvania, USA",38
+393,393,gamers-club-masters-2017,3003,"$7,400",Jul 28th,"São Paulo, Brazil",8
+394,394,rog-masters-2017-bangladesh-open-qualifier,2970,1 spot at South Asia Regional Finals,Jul 29th 2017,(Online) Bangladesh,4
+395,395,fragadelphia-11-online,3023,"$2,750",Jul 28th 2017,"Philadelphia, Pennsylvania, USA",2
+396,396,rog-masters-2017-china-regional-finals,3008,1 spot at the ROG MASTERS 2017 Grand Finals,Jul 27th,"Shanghai, China",4
+397,397,gloot-cup-summer-2017-qualifier-1,3022,1 spot in the main tournament,Jul 27th 2017,Online,2
+398,398,rog-masters-2017-india-qualifier-1,3021,1 spot at South Asia Finals,Jul 27th 2017,,2
+399,399,rog-masters-2017-benelux-playoffs,2996,2 spots at the Benelux Finals,Jul 26th 2017,,4
+400,400,rog-masters-2017-americas-open-qualifier,2989,TBA,Jul 25th,Online,8
+401,401,liga-tyc-sports-aorus-1,3005,TBA,Jul 17th,Online,8
+402,402,esl-australia-nz-championship-season-4,2943,4 spots for the LAN Finals,Jul 4th,Online (Oceania),8
+403,403,streamme-gauntlet-cis-vs-eu-9,3006,"$1,500",Jul 21st,Online (EU & CIS),8
+404,404,aoc-cybergamer-premier-league-winter-2017-finals,2894,"$11,185",Jul 22nd,"Adelaide, Australia",4
+405,405,rog-masters-2017-romania-qualifier,3012,1 spot in the Europe Playoff,Jul 22nd,"Bucharest, Romania",4+
+406,406,dreamhack-open-atlanta-2017,2571,"$100,000",Jul 21st,"Atlanta, Georgia, USA",8
+407,407,pgl-major-krakow-2017,2720,"$1,000,000",Jul 16th,"Krakow, Poland",16
+408,408,amd-red-league-latam-north-2017,2855,"$1,500",Jun 25th,Online (LatAm),8
+409,409,wca-2017-china-qualifier-2,2928,"$14,685",Jun 19th,Online (China),10
+410,410,nordic-championship-season-1,2912,2 spots at LAN finals,Jun 26th,Online,8
+411,411,omen-masters-of-gaming,3007,"$3,255",Jul 21st 2017,Utica,2
+412,412,rog-masters-2017-united-states-open-qualifier,2987,TBA,Jul 20th,Online,4
+413,413,rog-masters-2017-nordic-open-qualifier-2,2992,2 spots at the Nordic Main Qualifier,Jul 20th 2017,,4+
+414,414,rog-masters-2017-canada-open-qualifier,2988,TBA,Jul 19th,Online,4
+415,415,rog-masters-2017-benelux-open-qualifier-2,2995,2 spots in the Benelux Playoffs,Jul 19th 2017,,4+
+416,416,rog-masters-2017-france-qualifier,2999,1 spot at the EMEA Main Qualifier,Jul 17th,,4
+417,417,binary-dragons-cup-7,2977,"$3,000",Jul 3rd,Online (EU),12
+418,418,wca-2017-north-america-qualifier-1,2936,2 spots at WCA NA,Jul 16th 2017,Online,4
+419,419,rog-masters-2017-mexico-open-qualifier,2986,TBA,Jul 15th,Online,4
+420,420,esl-african-championship-season-1,3001,"$28,600",Jul 15th,Online,4
+421,421,wca-2017-asia-pacific-open-qualifier,2933,2 slots for WCA APAC Closed Qualifier,Jul 14th,"(Online), Asia-Pacific",8
+422,422,dreamhack-open-valencia-2017,2570,"$100,000",Jul 13th,"Valencia, Spain",8
+423,423,hellcase-cup-5,2916,"$10,000",Jun 13th,Online (EU),20
+424,424,rog-masters-2017-benelux-open-qualifier-1,2994,2 spots in the Benelux Playoffs,Jul 12th 2017,,4+
+425,425,rog-masters-2017-nordic-open-qualifier-1,2991,2 spots at the Nordic Main qualifier,Jul 12th 2017,,4+
+426,426,lordis-game-cup,2990,"$4,000",Jul 11th,Lodz,8
+427,427,dreamhack-masters-malm-2017-north-america-closed-qualifier,2902,1 spot at DH Masters Malmö,Jul 11th 2017,Online (NA),16
+428,428,dreamhack-masters-malm-2017-europe-closed-qualifier,2900,2 spots at DH Masters Malmö,Jul 11th 2017,Online (EU),16
+429,429,rog-masters-2017-colombia-open-qualifier,2985,1 spot at Americas Qual.,Jul 10th,Online (Colombia),4+
+430,430,rog-masters-2017-peru-open-qualifier,2984,1 spot at Americas Qual.,Jul 10th,Online (Peru),4+
+431,431,rog-masters-2017-chile-open-qualifier,2983,1 spot at Americas Qual.,Jul 10th,Online (Chile),4+
+432,432,fpsgod-super-league-winter,2533,"$10,000",Oct 26th 2016,Online (Asia),12
+433,433,digitalityx,2982,"$5,975",Jul 9th 2017,"Stavanger, Norway",2+
+434,434,dreamhack-masters-malm-2017-north-america-open-qualifier,2901,8 spots at the Closed Qualifier,Jul 9th 2017,Online (NA),16+
+435,435,dreamhack-masters-malm-2017-europe-open-qualifier,2899,8 spots at the Closed Qualifier,Jul 9th 2017,Online (EU),16+
+436,436,game-stadium-2017,2896,"$15,750",Jul 8th,"Madrid, Spain",4
+437,437,nesa-2017,2955,"$11,157",Jul 7th,"Vuokatti, Finland",16
+438,438,esl-one-cologne-2017,2635,"$250,000",Jul 4th,"Cologne, Germany",16
+439,439,fpsthailand-x-steelseries-pro-league-season-2,2975,"$6,500",Jul 7th,"Bangkok, Thailand",6
+440,440,rog-masters-2017-russia-qualifier,2962,4 spots at LAN finals,Jun 26th,Online,8
+441,441,king-of-nordic-season-7,2846,"$11,389",May 5th,Online (EU),4
+442,442,polish-esport-league-season-1,2978,"$18,800",Jul 6th 2017,Online,4
+443,443,samsung-goexanimo-csgo-5x5-3,2976,$456,Jul 2nd 2017,"Riga, Latvia",4+
+444,444,dreamhack-open-atlanta-2017-north-america-closed-qualifier,2951,1 spot at DH Open Atlanta,Jul 2nd 2017,Online (NA),8
+445,445,dreamhack-open-atlanta-2017-europe-closed-qualifier,2950,1 spot at DH Open Atlanta,Jul 2nd 2017,Online (EU),8
+446,446,australian-esports-masters-season-1-finals,2893,"$6,705",Jul 1st,"Adelaide, Australia",8
+447,447,esl-masters-spain-spring-2017-finals,2954,"$18,415",Jul 1st,Madrid,6
+448,448,hitpoint-finals-12,2964,"$3,007",Jul 1st,"Svitavy, Czech Republic",4
+449,449,esl-india-premiership-2017-summer-finals,2909,"$10,985",Jun 29th,"Mumbai, India",8
+450,450,pgl-major-krakow-2017-main-qualifier,2721,8 spots at PGL Major Krakow,Jun 29th,"Bucharest, Romania",16
+451,451,liga-pro-alienware-gamersclub-jun-17,2965,"$2,300",Jun 27th,Online,8
+452,452,rog-masters-2017-uk-open-qualifier,2974,1 spot at the EMEA Main Qualifier,Jul 1st 2017,Online,4
+453,453,dreamhack-open-atlanta-2017-north-america-open-qualifier,2949,4 spots at Closed Qual.,Jul 1st 2017,Online (NA),16+
+454,454,dreamhack-open-atlanta-2017-europe-open-qualifier,2948,4 spots at Closed Qual.,Jul 1st 2017,Online (EU),16+
+455,455,esl-national-championship-france-summer-2017,2940,"$16,703",Jul 1st 2017,"Paris, France",4
+456,456,dolphincs-shoot-em-up-3,2854,"$5,000",May 12th,Online (EU),16
+457,457,esl-australia-nz-championship-season-4-closed-qualifier,2952,2 spots at ESL ANZ S4,Jun 27th,Online (Oceania),4
+458,458,streamme-gauntlet-cis-vs-eu-8,2961,"$1,500",Jun 26th,Online (EU & CIS),8
+459,459,headshot-cup-3,2957,"$3,000",Jun 23rd,Online (CIS),8
+460,460,cbe-2017-europe-open-qualifier-1,2963,"$1,125",Jun 27th 2017,Online (EU),4
+461,461,aoc-cybergamer-premier-league-winter-2017,2856,4 spots for the LAN Finals,May 14th,Online (Australia),8
+462,462,rog-masters-2017-spain-open-qualifier,2939,1 spot at the EMEA Main Qualifier,Jun 25th 2017,"Madrid, Spain",4
+463,463,dreamhack-open-valencia-2017-north-america-closed-qualifier,2947,1 spot at DH Valencia,Jun 25th 2017,Online (NA),8
+464,464,dreamhack-open-valencia-2017-europe-closed-qualifier,2946,1 spot at DH Valencia,Jun 25th 2017,Online (EU),8
+465,465,hellenic-counter-strike-league-season-1-finals,2941,"$2,240",Jun 24th,"Athens, Greece",4
+466,466,bsl-nordeste,2959,"$1,500",Jun 23rd,"Teresina, Piauí, Brazil",8
+467,467,dreamhack-masters-malm-2017-asia-oceania-closed-qualifier,2903,1 spot at DH Masters Malmö,Jun 23rd,Online (South East Asia),8
+468,468,ecs-season-3-finals,2763,"$660,000",Jun 23rd,"London, United Kingdom",8
+469,469,esl-benelux-summer-championship-2017-finals,2953,"$7,243",Jun 24th 2017,"Amsterdam, Netherlands",4
+470,470,dreamhack-open-valencia-2017-north-america-open-qualifier,2945,4 spots for Closed Qual.,Jun 24th 2017,Online (NA),16
+471,471,dreamhack-open-valencia-2017-europe-open-qualifier,2944,4 spots for Closed Qual.,Jun 24th 2017,Online (EU),16
+472,472,esl-southeast-europe-championship-season-5-finals,2917,"$5,599",Jun 24th 2017,"Sofia, Bulgaria",4
+473,473,legend-series-2-finals,2890,"$3,360",Jun 24th 2017,"Hamburg, Germany",4
+474,474,tuddinn-spring-2017-lan-finals,2960,"$1,750",Jun 23rd 2017,"Reykjavik, Iceland",2
+475,475,dust2dk-eoddset-masters-11,2931,"$1,500",Jun 20th,Online (Denmark),8
+476,476,streamme-gauntlet-cis-vs-eu-7,2930,"$1,500",Jun 20th,Online (EU & CIS),8
+477,477,infinite-challenge-cup-weekly-4,2922,"$1,449",Jun 19th,Online (China),4
+478,478,razer-rising-stars-south-east-asian-league,2711,"$11,000",Mar 7th,Online (Asia),10
+479,479,dreamhack-summer-2017-byoc-free4all,2929,"$3,450",Jun 19th 2017,"Jönköping, Sweden",4
+480,480,esu-masters-2017,2924,"$11,468",Jun 17th,"Jönköping, Sweden",8
+481,481,dreamhack-open-summer-2017,2569,"$100,000",Jun 17th,"Jönköping, Sweden",8
+482,482,epic21,2927,"$2,722",Jun 18th 2017,"Kettering, England, UK",2
+483,483,adrenaline-cyber-league-2017,2889,"$100,000",Jun 18th 2017,"Moscow, Russia",4
+484,484,zen-esports-network-league-season-1-finals,2884,"$37,184",Jun 17th,"Sydney, Australia",4
+485,485,wca-2017-south-america-qualifier-1,2926,TBA,Jun 17th,Online (South America),8
+486,486,e-arena-plovdiv,2925,"$2,800",Jun 17th,"Plovdiv, Bulgaria",4
+487,487,cyberpowerpc-extreme-gaming-series-spring-2017,2923,"$15,000",Jun 17th,Online (NA),8
+488,488,dreamhack-masters-malm-2017-china-open-qualifier,2908,1 spot at Asia-Oceania Closed Qual.,Jun 16th,Online (China),8+
+489,489,dreamhack-masters-malm-2017-east-asia-open-qualifier,2907,1 spot at Asia-Oceania Closed Qual.,Jun 16th,Online (East Asia),8+
+490,490,europe-minor-pgl-major-krakow-2017,2723,"$50,000 + 2 spots at Main Qualifier",Jun 15th,"Bucharest, Romania",8
+491,491,predator-league-1-finals,2919,"$1,070",Jun 17th 2017,"Prague, Czech Republic",2
+492,492,zotac-cup-elite-esports-arena,2920,"$14,830",Jun 16th 2017,"Shanghai, China",4
+493,493,eleague-clash-for-cash,2853,"$250,000",Jun 16th 2017,"Atlanta, Georgia, USA",2
+494,494,esl-brazil-premier-league-3,2892,"$6,000",Jun 2nd,Online (Brazil),4
+495,495,dreamhack-masters-malm-2017-india-sea-open-qualifier,2906,2 spots at Asia-Oceania Closed Qual.,Jun 12th,Online (SEA),8+
+496,496,dreamhack-masters-malm-2017-gcc-open-qualifier,2905,1 spot at Asia-Oceania Closed Qual.,Jun 12th,Online (Middle East),8+
+497,497,dreamhack-masters-malm-2017-oceania-open-qualifier,2904,1 spot at Asia-Oceania Closed Qual.,Jun 11th,Online (Oceania),8+
+498,498,arcanebet-balkan-proleague-season-2,2830,"$3,500",Apr 26th,Online,8
+499,499,nordic-championship-season-1-denmark-qualifier,2915,2 spots at Nordic Championship S2,Jun 11th 2017,Online,4
+500,0,nordic-championship-season-1-denmark-qualifier,2915,2 spots at Nordic Championship S2,Jun 11th 2017,Online,4
+501,1,nordic-championship-season-1-norway-qualifier,2914,2 spots at Nordic Championship S2,Jun 11th 2017,Online,4
+502,2,nordic-championship-season-1-sweden-qualifier,2913,2 spots at Nordic Championship S2,Jun 11th 2017,Online,4
+503,3,esl-southeast-europe-championship-season-5-bulgaria-wild-card,2911,1 spot at ESL SEEC S5 Finals,Jun 11th 2017,Online,4
+504,4,wca-2017-italy-qualifier,2910,EU Qualifier + Main Tournament Wild Card,Jun 11th 2017,Online,4
+505,5,yoggi-yalla-cup-2017,2757,"$5,707",Jun 10th,,8
+506,6,infinite-challenge-cup-weekly-3,2898,"$1,449",Jun 9th,Online (Asia),4
+507,7,cis-minor-pgl-major-krakow-2017,2724,"$50,000",Jun 8th,"Moscow, Russia",8
+508,8,americas-minor-pgl-major-krakow-2017,2722,"$50,000",Jun 8th,"Santa Ana, California, USA",8
+509,9,cevo-main-season-12-north-america,2841,"$10,000",May 1st,Online,16
+510,10,esl-one-cologne-2017-china-closed-qualifier,2860,1 spot at ESL One Cologne,Jun 7th,Online,16
+511,11,farmskins-championship-1,2872,"$25,000",May 25th,Online,10
+512,12,ecs-season-3-north-america,2729,4 spots at ECS S3 Finals,Apr 14th,Online,10
+513,13,ecs-season-3-europe,2728,4 spots at ECS S3 Finals,Apr 14th,Online,10
+514,14,cevo-main-season-12-europe,2842,"$10,000",May 1st,Online,16
+515,15,headshot-cup-2,2886,"$2,500",May 29th,Online,8
+516,16,esl-southeast-europe-championship-season-5,2843,3 spots for ESL SEEC S5 Finals,May 4th,Online,16
+517,17,global-offensive-champions-league-season-6,2883,"$5,000",May 25th,Online,8
+518,18,binary-dragons-csgopolygon-cup-6,2835,"$5,000",Apr 26th,Online,16
+519,19,infinite-challenge-cup-weekly-2,2891,"$1,449",Jun 2nd,,4
+520,20,asia-minor-pgl-major-krakow-2017,2725,"$50,000",Jun 1st,"Beijing, China",8
+521,21,esl-pro-league-season-5-finals,2557,"$750,000",May 30th,"Dallas, Texas, USA",12
+522,22,csadria-championship-season-1-finals,2881,$500,Jun 3rd 2017,"Zagreb, Croatia",4
+523,23,legend-series-2,2888,4 spots for the LAN Finals,May 30th,Online,16
+524,24,yoggi-yalla-cup-2017-qualifier-8,2887,"$1,395",May 29th 2017,Online,4+
+525,25,liga-pro-alienware-gamersclub-may-17,2877,"$2,300",May 23rd,Online,8
+526,26,csgo-super-league-2017-spring-season-finals,2873,2 spots for the CSL Finals,May 27th,"Beijing, China",4
+527,27,geforce-cup-2017,2777,"$30,000",May 27th,"Wroclaw, Poland",8
+528,28,infinite-challenge-cup-weekly-1,2882,"$1,449",May 26th,Online (Asia),4
+529,29,birdielan-27,2885,"$10,155",May 27th 2017,Uppsala,4
+530,30,the-adria-masters-season-1-finals,2834,"$5,000",May 27th 2017,"Belgrade, Serbia",4
+531,31,streamme-gauntlet-cis-vs-eu-6,2874,"$1,500",May 23rd,Online (EU & CIS),8
+532,32,dust2dk-eoddset-masters-10,2878,"$1,500",May 23rd,Online,8
+533,33,esl-one-cologne-2017-china-open-qualifier,2861,8 spots at the Closed Qualifier,May 23rd,Online,16+
+534,34,farmskins-championship-1-closed-qualifier,2871,TBA,May 23rd,Online,8
+535,35,hellcase-cup-4,2813,"$10,000",May 1st,Online,8
+536,36,yoggi-yalla-cup-2017-qualifier-7,2875,"$1,395",May 22nd 2017,Online,4
+537,37,dreamhack-open-summer-2017-europe-closed-qualifier,2863,TBA,May 21st 2017,Online,8
+538,38,gamerz-season-1-nordic-edition,2870,Professional contracts,May 21st 2017,Sweden,2
+539,39,msi-goexanimo-2,2869,$784,May 21st 2017,"Riga, Latvia",4
+540,40,dreamhack-open-summer-2017-north-america-closed-qualifier,2865,1 spot at DH Open Summer,May 21st 2017,,8
+541,41,esl-one-cologne-2017-europe-closed-qualifier,2792,TBA,May 20th,Online,12
+542,42,esl-australia-nz-championship-season-3-finals,2802,"$7,415",May 20th,"Sydney, Australia",4
+543,43,dreamhack-open-summer-2017-north-america-open-qualifier,2864,TBA,May 20th 2017,,
+544,44,esl-one-cologne-2017-north-america-closed-qualifier,2795,TBA,May 20th 2017,,6
+545,45,dreamhack-open-summer-2017-europe-open-qualifier,2862,TBA,May 20th 2017,Online,16
+546,46,playing-ducks-homemasters-2,2774,"$3,292",May 20th 2017,Peine,2
+547,47,telenor-league-spring-2017,2868,TBA,May 20th 2017,Online,2
+548,48,varlelt-lithuanian-esports-league-2017-finals,2858,"$3,313",May 20th 2017,"Vilnius, Lithuania",4
+549,49,csgo-super-league-2017-spring-season,2815,4 spots for the LAN Finals,Apr 20th,Online,16
+550,50,europe-minor-closed-qualifier-pgl-major-krakow-2017,2822,8 spots at EU Minor,May 18th,Online (EU),16
+551,51,cis-minor-closed-qualifier-pgl-major-krakow-2017,2849,TBA,May 16th,Online,16
+552,52,the-adria-masters-season-1,2833,TBA,Apr 27th,Online,16
+553,53,cougar-csgo-tournament-lan-final,2859,"$4,479",May 18th 2017,"Ballerup, Denmark",2
+554,54,esl-pro-league-season-5-north-america-relegation,2797,TBA,May 16th,,4
+555,55,esl-pro-league-season-5-europe-relegation,2796,TBA,May 16th,,4
+556,56,geforce-cup-2017-closed-qualifier,2778,TBA,May 10th,Online,8
+557,57,europe-minor-qualifier-4-pgl-major-krakow-2017,2821,TBA,May 15th,Online,16
+558,58,streamme-gauntlet-cis-vs-eu-5,2851,"$1,500",May 9th,Online (EU & CIS),8
+559,59,beyondgodlike-csgo-sea-pro-league,2699,"$11,250",Mar 10th,South-East Asia,10
+560,60,cis-minor-qualifier-pgl-major-krakow-2017,2848,TBA,May 14th 2017,Online,8
+561,61,subaru-invitational-2017,2844,"$20,000",May 13th,,8
+562,62,americas-minor-north-america-closed-qualifier-pgl-major-krakow-2017,2828,TBA,May 13th,,16
+563,63,htc-2v2-invitational-by-pgl,2801,"$50,000",May 13th,"Bucharest, Romania",8
+564,64,esea-season-24-mdl-global-challenge,2749,"$50,000",May 13th,"Leicester, United Kingdom",8
+565,65,yoggi-yalla-cup-2017-inferno-online-qualifier,2857,"$1,400",May 13th,"Stockholm, Sweden",4
+566,66,asia-minor-china-qualifier-pgl-major-krakow-2017,2850,TBA,May 12th,Online,20
+567,67,99damage-league-season-5,2852,"$10,930",May 11th,Online,4
+568,68,esl-pro-league-season-5-north-america,2639,"$125,000",Feb 7th,Online,14
+569,69,esl-pro-league-season-5-europe,2638,"$125,000",Feb 7th,Online,14
+570,70,underdogs-5,2840,"$2,750",May 1st 2017,Online,8
+571,71,europe-minor-qualifier-3-pgl-major-krakow-2017,2820,TBA,May 9th,Online,16
+572,72,playing-ducks-homemasters-2-qualifier,2837,TBA,Apr 30th,Online,3
+573,73,wca-2017-china-qualifier-1,2766,TBA,Apr 10th,,
+574,74,dreamhack-open-tours-2017,2568,"$100,000",May 6th,"Tours, France",8
+575,75,lootbet-cup-1,2780,"$2,000",Apr 10th,Online,8
+576,76,pc-coolers-league-season-1-finals,2845,"$1,093",May 6th,"Bucharest, Romania",4
+577,77,4gamers-csgo-masters,2807,"$10,997",May 6th,"Lisbon, Portugal",6
+578,78,esports-arena-showdown-championship,2679,"$20,000",May 5th,"Santa Ana, California, USA",8
+579,79,americas-minor-north-america-qualifier-pgl-major-krakow-2017,2827,8 spots at the Closed Qualifier,May 5th,,16
+580,80,mettlestate-galaxy-csgo-championship-2017,2705,"$76,365",May 5th,"Johannesburg, South Africa",8
+581,81,iem-sydney-2017,2713,"$200,000",May 3rd,"Sydney, Australia",8
+582,82,esl-meisterschaft-spring-2017-finals,2772,"$16,390",May 6th 2017,Duisburg,4
+583,83,europe-minor-qualifier-2-pgl-major-krakow-2017,2819,TBA,May 4th,Online,16
+584,84,liga-pro-alienware-gamersclub-apr-17,2831,"$2,300",Apr 25th,Online,8
+585,85,betscsgo-cup-1,2809,"$5,000",Apr 19th,Online,4
+586,86,esl-major-league-spring-2017,2779,"$4,000",Apr 18th 2017,Online,8
+587,87,esl-one-cologne-2017-north-america-qualifier-2,2794,TBA,Apr 29th,Online,8
+588,88,tiger-masters-season-3-qualification-1,2839,$815,Apr 29th,"Prague, Czech Republic",4
+589,89,esl-polish-championship-spring-2017-finals,2798,"$17,478",Apr 29th,"Katowice, Poland",4
+590,90,asia-minor-oceania-qualifier-pgl-major-krakow-2017,2788,TBA,Apr 28th,,8
+591,91,dreamhack-open-austin-2017,2567,"$100,000",Apr 28th,"Austin, Texas, USA",8
+592,92,esl-one-cologne-2017-europe-qualifier-2,2791,TBA,Apr 29th 2017,Online,16
+593,93,europe-minor-qualifier-1-pgl-major-krakow-2017,2818,TBA,Apr 28th,Online,16
+594,94,americas-minor-south-america-qualifier-pgl-major-krakow-2017,2826,TBA,Apr 27th,Online,8
+595,95,asia-minor-sea-and-india-qualifier-pgl-major-krakow-2017,2787,TBA,Apr 24th,Online,8
+596,96,douyu-csgo-asia-invitational,2825,"$4,067",Apr 24th,Online,8
+597,97,hellcase-cup-4-closed-qualifier,2812,TBA,Apr 25th,Online,8
+598,98,over-the-limits-cup-1,2816,"$2,000",Apr 23rd,Online,8
+599,99,rename1,2838,TBA,Nov 30th 1999,Online,
+600,100,esea-main-season-24-europe,2782,"$8,500",Apr 9th 2017,Online,16
+601,101,yoggi-yalla-cup-2017-qualifier-5,2829,"$1,395",Apr 24th 2017,Online,4
+602,102,china-internet-gaming-2016-lan-final,2817,"$46,481",Apr 21st,"Hefei, China",8
+603,103,dust2dk-eoddset-masters-9-finals,2824,TBA,Apr 23rd 2017,Århus,2
+604,104,esl-one-cologne-2017-north-america-qualifier-1,2793,TBA,Apr 22nd,,8
+605,105,minho-electronic-esports-cup,2823,"$2,145",Apr 22nd,Braga,8
+606,106,esl-one-cologne-2017-europe-qualifier-1,2790,TBA,Apr 22nd,Online,16
+607,107,asia-minor-middle-east-qualifier-pgl-major-krakow-2017,2785,TBA,Apr 22nd,Middle East,8
+608,108,asia-minor-east-asia-qualifier-pgl-major-krakow-2017,2786,TBA,Apr 21st,East-Asia,16
+609,109,china-internet-gaming-2016-finals,2811,$46470,Apr 21st,"Hefei, China",8
+610,110,cs-summit-spring-2017,2641,"$150,000",Apr 20th,"Los Angeles, California",8
+611,111,esea-open-season-24-latin-america,2773,"$1,600",Apr 19th,Online,4
+612,112,dust2dk-eoddset-masters-9-iwdk-edition,2810,"$3,600",Apr 19th,Online,8
+613,113,esea-main-season-24-north-america,2789,"$9,000",Apr 12th,Online,8
+614,114,esea-open-season-24-south-africa,2751,"$2,000",Apr 11th,Online,8
+615,115,infoshow-lan-party-2017,2808,"$2,140",Apr 22nd 2017,Kaunas,4
+616,116,streamme-gauntlet-cis-vs-eu-4,2814,"$1,500",Apr 20th,Online (EU & CIS),8
+617,117,5k-maximum-level-season-1,2805,$250,Apr 18th,Latin America,4
+618,118,sltv-proseries-xvii,2803,"$2,000",Apr 14th,Online,6
+619,119,esea-open-season-24-asia-pacific,2752,"$2,000",Apr 7th,,8
+620,120,zen-esports-network-league-season-1,2553,"~$37,800",Mar 4th,Asia-Pacific,8
+621,121,yoggi-yalla-cup-2017-qualifier-4,2806,"$1,395",Apr 17th 2017,Online,4
+622,122,esea-mdl-season-24-europe,2672,"$2,500",Feb 5th,,24
+623,123,ttu-e-sport-spring-2017,2804,"$2,120",Apr 15th,Tallinn,4
+624,124,german-clash-season-1-finals,2799,"$4,243",Apr 15th,Online,4
+625,125,copenhagen-games-2017,2753,"$56,300",Apr 14th,"Copenhagen, Denmark",16
+626,126,copenhagen-games-2017-female,2663,"$15,025",Apr 13th,"Copenhagen, Denmark",28
+627,127,uk-masters-spring-2017-finals,2759,"$8,800",Apr 14th 2017,"Birmingham, England",2
+628,128,copenhagen-games-2017-byoc-qualifier,2675,8 spots for the Main tournament,Apr 13th,"Copenhagen, Denmark",76
+629,129,headshot-cup-1,2781,"$2,500",Apr 8th,Online,8
+630,130,esl-australia-nz-championship-season-3,2674,TBA,Feb 26th,Australia,8
+631,131,danish-championship-2017,2800,"$21,400",Apr 12th 2017,"Copenhagen, Denmark",6
+632,132,esea-mdl-season-24-australia,2748,"$5,000",Apr 4th,,8
+633,133,esea-open-season-24-brazil,2750,"$2,475",Apr 6th,,8
+634,134,yoggi-yalla-cup-2017-qualifier-3,2784,"$1,395",Apr 10th 2017,Online,4
+635,135,cybergamer-intermediate-season-10-finals,2775,"$1,970",Apr 9th,,4
+636,136,brasil-game-cup-rio-2017,2783,"$8,000",Apr 9th 2017,Rio de Janeiro,2
+637,137,streamme-gauntlet-cis-vs-eu-3,2767,"$1,500",Apr 5th,Online (EU & CIS),8
+638,138,sl-i-league-starseries-season-3-finals,2683,"$300,000",Apr 4th,"Kiev, Ukraine",16
+639,139,esea-mdl-season-24-north-america,2673,"$2,500",Jan 31st,,24
+640,140,acer-cybergamer-premier-league-autumn-2017-finals,2765,"$7,665",Apr 8th 2017,Adelaide,4
+641,141,arab-gaming-championship-2017-winter-open,2768,"$8,165",Apr 5th,,8
+642,142,israel-gamein-championship,2776,"$2,737",Apr 6th 2017,"Tel Aviv, Israel",4
+643,143,dust2dk-eoddset-masters-8,2771,"$1,435",Apr 4th,Online,8
+644,144,operation-kinguin-4,2769,"$5,000",Apr 3rd,Online,8
+645,145,liga-pro-alienware-gamersclub-mar-17,2760,"$1,600",Mar 28th,Online,8
+646,146,yoggi-yalla-cup-2017-qualifier-2,2770,"$1,395",Apr 3rd 2017,Online,4
+647,147,european-master-series-1,2700,"$3,000",Apr 1st,Online,8
+648,148,binary-dragons-csgopolygon-season-1,2732,"$20,000",Mar 27th,,16
+649,149,hellcase-cup-3,2731,"$10,000",Mar 25th,Online,8
+650,150,dreamhack-open-tours-2017-north-america-closed-qualifier,2746,TBA,Apr 2nd 2017,Online,8
+651,151,dreamhack-open-tours-2017-europe-closed-qualifier,2744,TBA,Apr 2nd 2017,Online,8
+652,152,ibuypower-invitational-spring-2017,2761,"$16,000",Apr 1st,,8
+653,153,uk-masters-spring-2017,2758,"$3,017",Apr 1st,Online,4
+654,154,serbian-first-league-s2-lan-finals,2739,"$1,291",Apr 1st,Belgrade,4
+655,155,mega8-autumn-cup-2017,2762,"$3,847",Mar 31st,Online,8
+656,156,esports-arena-showdown-v,2681,"$3,200",Apr 1st 2017,Santa Ana,4
+657,157,dreamhack-open-tours-2017-north-america-open-qualifier,2745,TBA,Apr 1st 2017,Online,16
+658,158,dreamhack-open-tours-2017-europe-open-qualifier,2743,TBA,Apr 1st 2017,Online,16
+659,159,legend-series-1-finals,2742,"$2,917",Apr 1st 2017,"Siek, Germany",2
+660,160,rog-cool-league-season-1-finals,2764,"$1,793",Apr 1st 2017,"Prague, Czech Republic",2
+661,161,iem-sydney-2017-china-and-mongolia-qualifier,2747,TBA,Mar 25th,,16
+662,162,yoggi-yalla-cup-2017-qualifier-1,2756,"$1,395",Mar 27th 2017,Online,4
+663,163,ecs-season-3-eu-promotion,2726,TBA,Mar 26th,,4
+664,164,dreamhack-open-austin-2017-north-america-closed-qualifier,2738,TBA,Mar 26th 2017,Online,8
+665,165,dreamhack-open-austin-2017-europe-closed-qualifier,2736,TBA,Mar 26th 2017,Online,8
+666,166,iem-sydney-2017-anz-open-qualifier,2754,TBA,Mar 25th,,4
+667,167,fpsthailand-x-steelseries-pro-league-season-1,2740,"$5,200",Mar 25th,,4
+668,168,ecs-season-3-na-promotion,2727,TBA,Mar 25th,,2
+669,169,dreamhack-open-austin-2017-north-america-open-qualifier,2737,TBA,Mar 25th 2017,Online,16
+670,170,dreamhack-open-austin-2017-europe-open-qualifier,2735,TBA,Mar 25th 2017,Online,16
+671,171,hellcase-cup-3-closed-qualifier,2730,TBA,Mar 22nd,,8
+672,172,legend-series-1,2741,"$1,404",Mar 22nd,Online,12
+673,173,acer-cybergamer-premier-league-autumn-2017,2658,TBA,Feb 3rd,Australia,8
+674,174,binary-dragons-cup-5,2733,"$2,200",Mar 19th,,16
+675,175,sl-i-league-season-3-europe-qualifier,2687,TBA,Feb 10th,Online,24
+676,176,sl-i-league-season-3-north-america-qualifier,2688,TBA,Feb 13th,Online,24
+677,177,sp-gaming-tournament-2,2714,$500,Mar 15th,Online,4
+678,178,log-cup-2-2017,2708,"$2,000",Mar 6th,Online,8
+679,179,china-cup-2017,2160,"$99,000",Mar 17th,"Chengde, China",6
+680,180,esl-uk-premiership-spring-2017-finals,2734,"$5,580",Mar 18th 2017,Leicester,2
+681,181,streamme-gauntlet-cis-vs-eu-2,2719,"$1,500",Mar 14th,Online (EU & CIS),8
+682,182,dolphin-cs-shoot-em-up-2,2645,"$1,270",Jan 11th,Online,16
+683,183,razer-rising-stars-european-league-season-1,2254,"$28,000",May 17th 2016,Online,16
+684,184,ecs-season-3-na-development-league,2703,TBA,Feb 28th,Online,8
+685,185,ecs-season-3-eu-development-league,2702,TBA,Feb 28th,Online,8
+686,186,binary-dragons-cup-4,2710,"$2,200",Mar 6th,Online,12
+687,187,lets-play-spring,2718,"$3,695",Mar 11th,"Sofia, Bulgaria",4
+688,188,esports-arena-showdown-iv,2680,"$3,200",Mar 11th 2017,Santa Ana,4
+689,189,esportsarcadetv-cup-2,2717,TBA,Mar 9th,Online,8
+690,190,wpgi-league-season-1-finals,2709,TBA,Mar 10th 2017,,2
+691,191,liga-pro-alienware-gamersclub-feb-17,2712,"$1,600",Mar 7th,Online,8
+692,192,iem-sydney-2017-anz-closed-qualifier,2755,TBA,Mar 31st,,8
+693,193,epsilan-14,2707,"$4,250",Mar 5th 2017,Champagne-au-Mont-d'Or,6
+694,194,iem-katowice-2017,2637,"$250,000",Mar 1st,"Katowice, Poland",12
+695,195,lantrek-2017,2706,"$5,250",Mar 2nd,Tampere,16
+696,196,intel-challenge-katowice-2017,2662,"$30,000",Mar 2nd,"Katowice, Poland",8
+697,197,sl-i-league-season-3-china-qualifier,2660,TBA,Feb 23rd,,16
+698,198,mettlestate-exhibition-match,2704,"$3,815",Mar 1st 2017,,2
+699,199,ecs-season-3-na-development-league-open-qualifier-2,2693,TBA,Feb 26th 2017,Online,16
+700,200,ecs-season-3-eu-development-league-open-qualifier-2,2691,TBA,Feb 26th 2017,Online,16
+701,201,zen-esports-network-league-season-1-last-chance-qualifier,2696,TBA,Feb 24th 2017,Asia,2
+702,202,dust2dk-eoddset-masters-7,2698,"$1,793",Feb 22nd,Online,8
+703,203,streamme-gauntlet-cis-vs-eu,2694,"$1,500",Feb 21st,Online (EU & CIS),8
+704,204,epic20,2695,"$2,948",Feb 19th 2017,Kettering,2
+705,205,ecs-season-3-na-development-league-open-qualifier-1,2692,TBA,Feb 19th 2017,Online,16
+706,206,ecs-season-3-eu-development-league-open-qualifier-1,2690,TBA,Feb 19th 2017,Online,16
+707,207,dreamhack-masters-las-vegas-2017,2541,"$450,000",Feb 15th,"Las Vegas, Nevada, USA",16
+708,208,esl-australia-nz-championship-season-3-closed-qualifier,2676,TBA,Feb 17th,Australia,8
+709,209,binary-dragons-cup-3,2685,"$2,200",Feb 9th,,12
+710,210,hellcase-cup-2,2659,"$10,000",Feb 6th,Online,8
+711,211,cevo-main-season-11-europe,2664,"$10,000",Jan 25th 2017,,4
+712,212,igamecom-winter-invitational,2671,"$10,000",Jan 30th,,6
+713,213,liga-pro-gamersclub-jan-17,2682,$800,Feb 7th,Online,8
+714,214,log-cup-1-2017,2670,"$1,500",Jan 30th,Online,8
+715,215,f5-big-lan-cup,2677,"$1,900",Feb 5th 2017,"Moscow, Russia",3
+716,216,iem-katowice-2017-na-closed-qualifier,2657,TBA,Feb 4th,,4
+717,217,iem-katowice-2017-eu-closed-qualifier,2655,TBA,Feb 4th,,8
+718,218,cevo-main-season-11-north-america,2665,"$10,000",Jan 25th 2017,,4
+719,219,esports-arena-showdown-iii,2678,"$3,200",Feb 4th 2017,Santa Ana,4
+720,220,assembly-winter-2017,2649,"$15,000",Feb 3rd,"Helsinki, Finland",16
+721,221,iem-katowice-2017-eu-open-qualifier-2,2654,TBA,Feb 1st,,16
+722,222,hellcase-cup-2-closed-qualifier,2667,TBA,Jan 30th,Online,8
+723,223,zen-esports-network-league-season-1-east-asia-qualifier,2669,TBA,Jan 30th 2017,East Asia,4
+724,224,dust2dk-masters-2,2666,"$1,793",Jan 27th,Online,8
+725,225,eleague-major-2017,2471,"$1,000,000",Jan 22nd,"Atlanta, Georgia, USA",16
+726,226,the-shootout-season-3,2661,TBA,Jan 21st,South-East Asia,8
+727,227,iem-katowice-2017-na-open-qualifier,2656,TBA,Jan 21st,,8
+728,228,esl-pro-league-season-4-europe-relegation,2643,TBA,Jan 18th 2017,,4
+729,229,esl-pro-league-season-4-north-america-relegation,2644,TBA,Jan 17th,,4
+730,230,iem-katowice-2017-eu-open-qualifier-1,2653,TBA,Jan 16th,Online,16
+731,231,fragadelphia-10,2650,"$30,500",Jan 15th 2017,"Philadelphia, Pennsylvania, USA",4
+732,232,dreamhack-masters-las-vegas-2017-north-america-closed-qualifier,2648,TBA,Jan 15th 2017,,16
+733,233,tuddinn-lan-1-2017,2651,"$3,080",Jan 15th 2017,Reykjavík,2
+734,234,dreamhack-astro-open-leipzig-2017,2566,"$100,000",Jan 13th,"Leipzig, Germany",8
+735,235,wesg-2016-world-finals,2564,"$1,500,000",Jan 12th,"Changzhou, China",24
+736,236,zen-esports-network-league-season-1-anz-offline-qualifier,2627,TBA,Jan 13th 2017,"Sydney, Australia",4
+737,237,liga-pro-gamersclub-dec-16,2646,$800,Jan 9th,Online,8
+738,238,acer-cybergamer-premier-league-autumn-2017-ffyi-qualifier,2647,TBA,Jan 11th 2017,Australia,8
+739,239,starrygame-cis,2609,$800,Jan 8th,Online,8
+740,240,dreamhack-masters-las-vegas-2017-europe-closed-qualifier,2633,TBA,Jan 9th 2017,,16
+741,241,esea-season-23-mdl-global-challenge,2538,"$50,000",Jan 6th,"Burbank, California, USA",8
+742,242,asus-rog-community-challenge-grand-finals-2017,2642,TBA,Jan 5th,"Stockholm, Sweden",8
+743,243,esea-mdl-season-23-north-america-finals,2640,TBA,Jan 5th 2017,"Burbank, California, USA",2
+744,244,esea-mdl-season-23-europe-finals,2634,TBA,Jan 5th 2017,"Burbank, California, USA",2
+745,245,hellcase-cup-1,2629,"$3,000",Dec 22nd,,8
+746,246,the-masters-2017-amateurs,2631,"$5,035",Dec 22nd,,8
+747,247,hltv-xmas-cup-2016,2630,$783,Dec 21st 2016,Online,4
+748,248,esl-major-winter-2016-spain,2626,"$4,180",Dec 20th 2016,Madrid,4
+749,249,lvp-season-11-division-de-honor-finals,2611,"$8,590",Dec 18th 2016,Madrid,4
+750,250,rog-finals-11,2624,"$1,925",Dec 17th,"Svitavy, Czech Republic",4
+751,251,china-top-2016,2613,"$145,421",Dec 16th,"Shenzhen, China",4
+752,252,dust2dk-masters-1,2623,"$1,788",Dec 15th,Online,8
+753,253,eleague-major-main-qualifier,2472,8 spots for the ELEAGUE Major,Dec 15th,"Atlanta, Georgia, USA",16
+754,254,zen-esports-network-league-season-1-anz-open-qualifier,2625,TBA,Dec 15th,Australia,9
+755,255,liga-pro-gamersclub-nov-16,2622,$800,Dec 12th,Online,8
+756,256,99damage-league-season-4,2617,"$10,535",Dec 12th,Online,4
+757,257,global-offensive-champions-league-season-5,2596,"$5,000",Nov 28th,Online,16
+758,258,game-smash-uruguay-2016,2621,$275,Dec 11th 2016,Montevideo,2
+759,259,interlan-vol-6,2620,"$2,640",Dec 11th 2016,"Viljandi, Estonia",4
+760,260,esl-national-championship-france-winter-2016,2618,"$10,535",Dec 11th 2016,"Paris, France",4
+761,261,adriamasters-by-pvprocom-finals,2612,"$1,610",Dec 10th,"Belgrade, Serbia",8
+762,262,wca-2016-finals,2599,"$195,500",Dec 9th,"Yinchuan, China",10
+763,263,ecs-season-2-finals,2367,"$660,000",Dec 9th,"Anaheim, California, USA",8
+764,264,brekan-latam-north-league-1,2616,$110,Dec 8th,Online,4
+765,265,cybergamer-intermediate-season-9-finals,2615,"$1,890",Dec 10th 2016,,4
+766,266,dreamhack-masters-las-vegas-2017-europe-open-qualifier,2619,TBA,Dec 10th 2016,Online,16
+767,267,alientech-csgo-league-season-ii-finals,2610,"$5,380",Dec 8th,"Porto, Portugal",4
+768,268,uk-masters-season-2-finals,2593,"$14,000",Dec 9th 2016,"Birmingham, England",2
+769,269,esportsarcadetv-cup,2608,"$5,000",Dec 6th,Online,8
+770,270,adriamasters-by-pvprocom-online-qualifier,2607,TBA,Dec 4th 2016,Online,8
+771,271,dreamhack-masters-las-vegas-2017-asia-closed-qualifier,2589,TBA,Dec 3rd,,8
+772,272,americas-minor-eleague-major-2017,2555,$0,Dec 3rd,"Atlanta, Georgia, USA",4
+773,273,uk-masters-season-2,2592,"$4,250",Dec 3rd,Online,4
+774,274,vitalbet-balkan-pro-league-finals,2547,"$5,000",Dec 3rd,"Sofia, Bulgaria",4
+775,275,xlg-uol-super-cup,2605,TBA,Dec 1st,São Paulo,4
+776,276,sp-gaming-tournament-1,2602,$300,Nov 28th,,4
+777,277,esea-mdl-season-23-north-america,2578,"$5,000",Nov 17th,,8
+778,278,eleague-season-2,2407,"$1,100,000",Oct 21st,"Atlanta, Georgia, USA",16
+779,279,ecs-season-2-europe,2495,TBA,Oct 9th 2016,Online,10
+780,280,esl-benelux-winter-championship-2016-finals,2477,"$5,800",Nov 26th,"Amsterdam, Netherlands",4
+781,281,esu-razer-csgo-ladies-tournament-2016,2598,"$4,250",Nov 24th,Elmia,6
+782,282,igl-2016-grand-final,2559,"$100,621",Nov 20th,,8
+783,283,dreamhack-zowie-open-winter-2016-byoc,2603,"$2,705",Nov 26th 2016,"Jönköping, Sweden",2
+784,284,esl-southeast-europe-championship-season-4-finals,2601,"$3,700",Nov 26th 2016,"Belgrade, Serbia",4
+785,285,esl-meisterschaft-winter-2016-finals,2511,"$14,950",Nov 26th 2016,"Duisburg, Germany",4
+786,286,dreamhack-zowie-open-winter-2016,2110,"$100,000",Nov 24th,"Jönköping, Sweden",8
+787,287,cybergamer-pro-league-season-9,2536,TBA,Oct 23rd,,12
+788,288,quickshot-arena-31,2600,"$1,500",Nov 23rd,Online,8
+789,289,vitalbet-balkan-pro-league,2546,TBA,Nov 1st 2016,Online,8
+790,290,dreamhack-nordic-championship-2016,2561,"$8,457",Nov 24th 2016,"Jönköping, Sweden",2
+791,291,esea-open-season-23-brazil,2584,"$2,000",Nov 17th,,8
+792,292,esea-open-season-23-asia,2581,"$2,000",Nov 17th,,11
+793,293,esea-mdl-season-23-oceania,2580,"$5,000",Nov 17th,,8
+794,294,ecs-season-2-north-america,2494,TBA,Oct 6th 2016,Online,10
+795,295,esea-open-season-23-south-africa,2583,"$1,495",Nov 17th,,8
+796,296,copa-go4gold-1,2539,"$16,900",Oct 25th,,4
+797,297,betway-wca-2016-eu-main-qualifier,2380,"$33,175",Aug 19th 2016,,16
+798,298,dust2dk-eoddset-4,2576,"$1,800",Nov 18th,,8
+799,299,iem-oakland-2016,2261,"$300,000",Nov 16th,"Oakland, California, USA",12
+800,300,anykey-invitational-2016,2597,"$10,000",Nov 19th 2016,,2
+801,301,crownstudent-csgo-challenge,2595,"$2,700",Nov 19th 2016,"Stockholm, Sweden",4
+802,302,xfunction-champions-series-2016,2585,"$2,130",Nov 18th,"Lisbon, Portugal",6
+803,303,quickshot-arena-30,2582,"$1,500",Nov 16th,Online,8
+804,304,vsl-season-2,2434,"$9,000",Sep 25th,"Seoul, Korea",8
+805,305,wca-2016-americas,2575,"$26,390",Nov 13th 2016,,8
+806,306,ibuypower-masters-2016,2454,"$100,000",Nov 12th,"Costa Mesa, California, USA",8
+807,307,starladder-regional-minor-championship-cis-eleague-major-2017,2535,"$50,000",Nov 11th,"Saint Petersburg, Russia",8
+808,308,rog-masters-asia-2016,2423,"$50,000",Nov 10th,"Kuala Lumpur, Malaysia",12
+809,309,wesg-2016-asia-pacific-regional-finals,2453,"$75,000",Nov 10th,"Goyang, South Korea",18
+810,310,northern-arena-2016-montreal,2286,"$100,000",Nov 10th,"Montreal, Canada",8
+811,311,gtl-rosario-2016,2562,"$1,600",Nov 12th 2016,Rosario,4
+812,312,telenor-league-winter-2016,2565,"$9,525",Nov 12th 2016,"Lillestrøm, Norway",2
+813,313,reboot-esports-championship,2563,"$2,700",Nov 12th 2016,"Zagreb, Croatia",4
+814,314,quickshot-arena-29,2558,"$1,500",Nov 9th,Online,8
+815,315,dreamhack-nordic-championship-2016-qualifier,2560,"$2,176",Nov 10th 2016,,4
+816,316,liga-pro-gamersclub-oct-16,2554,$773,Nov 6th,Online,8
+817,317,americas-minor-eleague-major-2017-closed-qualifier,2551,TBA,Nov 8th,,8
+818,318,esl-benelux-winter-championship-2016,2476,TBA,Sep 28th,Online,8
+819,319,mr-cat-masters-asian,2432,"$25,000",Sep 16th 2016,,16
+820,320,americas-minor-eleague-major-2017-open-qualifier-2,2556,TBA,Nov 7th 2016,Online,8
+821,321,asus-rog-gamexpo-2016,2548,"$10,000",Nov 4th,"Helsinki, Finland",8
+822,322,czech-championship-2016,2552,"$3,430",Nov 4th,"Brno, Czech Republic",8
+823,323,pgl-regional-minor-championship-europe-eleague-major-2017,2504,"$50,000 + 2 spots at Main Qualifier",Nov 4th,"Bucharest, Romania",8
+824,324,predator-masters-3,2431,"$50,000",Nov 3rd,"Krefeld, Germany",8
+825,325,tengillinn-lan-2-2016,2447,"$1,350",Nov 5th 2016,"Reykjavík, Iceland",4
+826,326,esl-australia-nz-championship-season-2-finals,2480,"$12,280",Nov 4th,,4
+827,327,esea-mdl-season-23-europe,2577,"$5,000",Nov 17th,,8
+828,328,quickshot-arena-28,2549,"$1,500",Nov 2nd,Online,8
+829,329,americas-minor-eleague-major-2017-open-qualifier-1,2550,TBA,Nov 3rd 2016,Online,8
+830,330,starladder-regional-minor-championship-cis-eleague-major-2017-closed-qualifier,2544,TBA,Oct 29th,Online,16
+831,331,eswc-2016-female,2534,"$15,000",Oct 29th,"Paris, France",10
+832,332,rog-masters-2016-last-chance-qualifier,2545,1 spot at ROG MASTERS 2016,Oct 30th 2016,(Online) Asia,4
+833,333,gameon-2016,2501,"$6,720",Oct 29th,Vilnius,4
+834,334,pgl-regional-minor-championship-asia-eleague-major-2017,2497,"$50,000",Oct 28th,"Johor Bahru, Malaysia",8
+835,335,eswc-2016,2340,"$75,000",Oct 27th,"Paris, France",32
+836,336,esl-pro-league-season-4-finals,2306,"$600,000",Oct 26th,"São Paulo, Brazil",12
+837,337,esl-brazil-premier-league-2-finals,2540,"$4,800",Oct 29th 2016,Sao Paulo,2
+838,338,starladder-regional-minor-championship-cis-eleague-major-2017-open-qualifier,2542,TBA,Oct 28th 2016,Online,16
+839,339,quickshot-arena-27,2537,"$1,500",Oct 26th,Online,8
+840,340,wca-2016-china-qualifier-3,2528,"$32,600",Oct 21st,,8
+841,341,zotac-world-cup,2532,"$10,000",Oct 24th,,6
+842,342,dust2dk-eoddset-3,2529,"$1,840",Oct 23rd 2016,,8
+843,343,wesg-2016-north-south-americas-regional-finals,2452,"$75,000",Oct 21st,"São Paulo, Brazil",10
+844,344,epicenter-moscow,2410,"$490,000",Oct 17th,"Moscow, Russia",8
+845,345,pgl-regional-minor-championship-europe-eleague-major-2017-qualifier-2,2527,TBA,Oct 20th,Online,16
+846,346,wesg-2016-australia,2466,TBA,Oct 14th,,8
+847,347,pgl-regional-minor-championship-europe-eleague-major-2017-qualifier-1,2526,TBA,Oct 18th,Online,16
+848,348,igamecom-nordic-invitational,2499,"$5,000",Oct 9th,Online,8
+849,349,wca-world-contest-championship,2508,"$119,000",Oct 13th,"Beijing, China",9
+850,350,dreamhack-zowie-open-winter-2016-closed-qualifier,2524,TBA,Oct 16th 2016,Online,16
+851,351,wesg-2016-korea,2525,TBA,Oct 16th 2016,,11
+852,352,igl-summer-lan-final,2523,TBA,Oct 16th 2016,,2
+853,353,pgl-egg-minor-india-middle-east-qualifier,2521,TBA,Oct 15th,,16
+854,354,playzone-league-ii-lan-finals,2520,$890,Oct 15th,"Prague, Czech Republic",4
+855,355,pgl-egg-minor-oceania-qualifier,2517,TBA,Oct 15th,,16
+856,356,rog-masters-2016-china-qualifier,2516,TBA,Oct 14th,,8
+857,357,pgl-egg-minor-china-qualifier,2513,TBA,Oct 14th,,20
+858,358,team-ownit-challenge,2518,"$5,670",Oct 15th 2016,"Stockholm, Sweden",8
+859,359,dreamhack-zowie-open-winter-2016-open-qualifier,2522,TBA,Oct 15th 2016,,16
+860,360,league-of-sharks-csgo-championship,2489,"$15,000",Oct 15th 2016,"Fredericia, Denmark",4
+861,361,liga-pro-gamersclub-set-16,2514,$773,Oct 13th,,4
+862,362,wesg-2016-brazil,2512,TBA,Oct 12th,,4
+863,363,quickshot-arena-26,2507,"$1,500",Oct 12th,Online,8
+864,364,pgl-egg-minor-sea-qualifier,2505,2 spots at PGL eGG Minor,Oct 12th,Online (SEA),16+
+865,365,esl-pro-league-season-4-europe,2369,TBA,Aug 17th,Online,14
+866,366,esl-pro-league-season-4-north-america,2368,TBA,Aug 17th,Online,14
+867,367,esl-australia-nz-championship-season-2,2386,TBA,Aug 20th,,8
+868,368,gameon-2016-csgo-cup-qualifier,2492,TBA,Oct 8th,Online,8
+869,369,telkom-dgl-masters-2016-finals,2433,"$36,467",Oct 7th,"Johannesburg, South Africa",8
+870,370,wesg-2016-europe-cis-regional-finals,2390,"$75,000",Oct 6th,"Kiev, Ukraine",20
+871,371,iesf-world-championship-2016,2482,"$20,000",Oct 6th,"Jakarta, Indonesia",21
+872,372,world-championship-2016,2311,"$100,000",Oct 6th,"Belgrade, Serbia",8
+873,373,esl-brazil-premier-league-2,2388,"$4,650",Aug 27th,,8
+874,374,rog-masters-2016-rest-of-asia-qualifier,2498,TBA,Oct 8th 2016,Online,7
+875,375,eswc-2016-poland,2496,"$19,200",Oct 8th 2016,Warsaw,4
+876,376,neo-cup-2016,2491,"$2,689",Oct 8th 2016,"Riga, Latvia",4
+877,377,quickshot-arena-25,2490,"$1,500",Oct 5th,Online,8
+878,378,epicenter-moscow-cis-closed-qualifier,2397,"$5,000",Sep 5th 2016,,8
+879,379,wesg-2016-china-finals,2409,"~$26,200",Oct 1st,"Suzhou, China",18
+880,380,wesg-2016-south-america,2488,TBA,Oct 3rd 2016,,4
+881,381,balkantube-fest,2354,TBA,Aug 4th 2016,,
+882,382,wesg-2016-argentina,2485,TBA,Oct 1st,,8
+883,383,adrenaline-cyber-league-finals,2345,"$100,000",Sep 30th,"Moscow, Russia",4
+884,384,esl-one-new-york-2016,2239,"$250,000",Sep 30th,"New York, New York, United States",8
+885,385,intel-gaming-challenge,2478,"$3,077",Sep 29th,São Paulo,8
+886,386,gamesnetcl-league,2484,$275,Oct 1st 2016,Talca,2
+887,387,esl-polish-championship-2016-finals,2457,"$7,833",Oct 1st 2016,"Lodz, Poland",4
+888,388,eb-expo-sydney-finals,2475,"$7,500",Sep 30th,"Sydney, Australia",4
+889,389,quickshot-arena-24,2468,"$1,500",Sep 28th,Online,8
+890,390,wesg-2016-central-europe,2464,TBA,Sep 28th,Online,4
+891,391,wesg-2016-united-states,2469,TBA,Sep 27th,Online,4
+892,392,kinguin-for-charity-with-paypal,2467,"$5,000",Sep 27th,Online,8
+893,393,wesg-2016-germany,2463,TBA,Sep 28th 2016,Online,4
+894,394,wca-wcc-russia-qualifier,2450,TBA,Sep 21st,Online,9
+895,395,epicenter-moscow-eu-closed-qualifier,2395,"$5,000",Aug 28th 2016,,8
+896,396,wesg-2016-canada,2474,TBA,Sep 27th 2016,Online,4
+897,397,wesg-2016-northern-europe-post-cis,2462,TBA,Sep 27th 2016,Online,4
+898,398,esl-one-new-york-2016-north-america-qualifier,2413,TBA,Sep 12th,,8
+899,399,ecs-season-2-na-development-league,2420,TBA,Sep 9th,,8
+900,400,ecs-season-2-eu-development-league,2419,TBA,Sep 9th,,8
+901,401,world-championships-2016-european-qualifier,2349,TBA,Aug 8th 2016,Online,48
+902,402,csl-2016-finals,2161,"$44,200",Sep 24th,China,4
+903,403,wesg-2016-the-uk-ireland-iceland,2461,TBA,Sep 24th,Online,4
+904,404,wesg-2016-russia,2460,TBA,Sep 24th,Online,8
+905,405,wesg-2016-ukraine,2459,TBA,Sep 24th,Online,4
+906,406,gfinity-csgo-invitational-2016,2435,"$100,000",Sep 23rd,"Birmingham, United Kingdom",4
+907,407,extremesland-2016-asia-finals,2411,"$100,000",Sep 22nd,"Shanghai, China",16
+908,408,argentina-game-show-2016-finals,2421,"$1,340",Sep 24th 2016,Buenos Aires,2
+909,409,rog-masters-2016-southeast-asia-qualifier,2456,TBA,Sep 24th 2016,Online,8
+910,410,wesg-2016-benelux,2458,TBA,Sep 23rd 2016,Online,3
+911,411,wesg-2016-denmark,2334,TBA,Sep 22nd,Online,8
+912,412,quickshot-arena-23,2451,"$1,500",Sep 21st,Online,8
+913,413,wesg-2016-poland,2449,TBA,Sep 21st,Online,6
+914,414,king-of-the-king,2439,"$1,500",Sep 16th,Online,4
+915,415,wesg-2016-south-asia,2455,TBA,Sep 22nd 2016,Online,4
+916,416,game-show-spring-invitational-2016,2158,"$5,000",Feb 22nd 2016,Online,10
+917,417,wesg-2016-adriatica,2448,TBA,Sep 21st 2016,Online,4
+918,418,wesg-2016-central-asia,2446,TBA,Sep 20th 2016,Online,4
+919,419,wesg-2016-france-monaco,2445,TBA,Sep 19th,Online,7
+920,420,wesg-2016-norway,2440,TBA,Sep 18th,Online,4
+921,421,hitbox-challenger-cup-2,2296,"$10,000",Jun 27th 2016,Online,16
+922,422,dust2dk-eoddset-2,2444,"$1,875",Sep 18th 2016,Online,8
+923,423,ibuypower-invitational-fall-2016,2441,"$16,000",Sep 17th,,8
+924,424,wesg-2016-sweden,2443,TBA,Sep 17th,Online,6
+925,425,dreamhack-zowie-open-bucharest-2016,2112,"$100,000",Sep 16th,"Bucharest, Romania",8
+926,426,rog-masters-2016-east-asia-qualifier,2442,TBA,Sep 17th 2016,Online,8
+927,427,wesg-2016-iberia,2438,TBA,Sep 16th 2016,,4
+928,428,quickshot-arena-22,2436,"$1,500",Sep 14th,Online,8
+929,429,argentina-game-show-2016,2418,TBA,Sep 7th,,8
+930,430,wesg-2016-south-east-europe,2437,TBA,Sep 14th,,4
+931,431,eleague-season-2-north-america-closed-qualifier,2406,TBA,Sep 14th,,16
+932,432,adrenaline-cyber-league,2348,TBA,Aug 4th 2016,,16
+933,433,eleague-season-2-north-america-open-qualifier-3,2405,TBA,Sep 12th 2016,,0
+934,434,eleague-season-2-north-america-open-qualifier-2,2404,TBA,Sep 11th 2016,,0
+935,435,game-evolution,2389,"$4,000",Sep 11th 2016,"Sofia, Bulgaria",4
+936,436,sl-i-league-starseries-season-2-finals,2325,"$300,000",Sep 7th,"Kiev, Ukraine",16
+937,437,eleague-season-2-north-america-open-qualifier-1,2403,TBA,Sep 10th 2016,,0
+938,438,rog-masters-2016-oceania-qualifier,2428,TBA,Sep 10th 2016,Online,8
+939,439,eb-expo-sydney-2016-qualifier-1,2424,TBA,Sep 10th 2016,,4
+940,440,quickshot-arena-21,2422,"$1,500",Sep 7th,,8
+941,441,blasterx-inetkox-league-season-1,2262,"$15,000",May 25th 2016,Online,8
+942,442,eleague-season-2-europe-closed-qualifier,2402,TBA,Sep 7th,,16
+943,443,eleague-season-2-europe-open-qualifier-3,2401,TBA,Sep 5th 2016,,0
+944,444,esl-one-new-york-2016-europe-qualifier,2412,TBA,Sep 4th 2016,,8
+945,445,eleague-season-2-europe-open-qualifier-2,2400,TBA,Sep 4th 2016,,0
+946,446,serbian-first-league-s1-lan-finals,2351,"$1,000",Sep 4th 2016,"Belgrade, Serbia",4
+947,447,eswc-2016-bulgaria,2379,"$2,864",Sep 3rd,"Sofia, Bulgaria",4
+948,448,brasil-game-cup-2016,2391,"$6,140",Sep 2nd,"São Paulo, Brazil",4
+949,449,evetech-champions-league-2016,2408,"$10,400",Sep 2nd,"Pretoria, South Africa",6
+950,450,esports-tunisian-cup-2016,2415,IeSF 2016 spot,Sep 2nd,"Tunis, Tunisia",4
+951,451,northern-arena-2016-toronto,2285,"$100,000",Sep 1st,"Toronto, Canada",16
+952,452,wca-season-2-china-finals,2417,"$22,448",Sep 3rd 2016,Beijing,2
+953,453,eleague-season-2-europe-open-qualifier-1,2399,TBA,Sep 3rd 2016,,0
+954,454,pgl-national-division-season-2-finals,2416,"$6,000",Sep 3rd 2016,"Bucharest, Romania",2
+955,455,gg-masters,2315,"$20,000",Jul 14th 2016,Online,16
+956,456,xfunction-masters-2016,1690,"$5,000",Jun 27th 2016,,16
+957,457,extremesland-2016-china-regional-finals,2398,"$7,113",Aug 30th,"Kunshan, China",8
+958,458,global-offensive-champions-league-season-4,2269,"$5,000",Aug 22nd 2016,,16
+959,459,cybergamer-intermediate-season-8-finals,2414,"$1,890",Aug 30th 2016,,4
+960,460,liga-pro-gamersclub-aug-16,2387,$773,Aug 27th,,8
+961,461,cyberpowerpc-summer-2016-pro-series,2357,"$15,000",Aug 27th,Online,8
+962,462,esea-season-22-mdl-global-challenge,2350,"$50,000",Aug 27th,"Katowice, Poland",8
+963,463,wesg-2016-africa-middle-east-regional-finals,2356,"$75,000",Aug 26th,"Dubai, United Arab Emirates",8
+964,464,power-lan-2016,2324,"$26,000",Aug 26th,"Odense, Denmark",8
+965,465,vsl-season-1,2303,"~$6,000",Jul 3rd,"Seoul, Korea",10
+966,466,sl-i-league-s2-americas-qualifier,2364,TBA,Aug 8th 2016,,16
+967,467,sl-i-league-s2-europe-qualifier,2329,TBA,Jul 25th 2016,,20
+968,468,ground-zero-summer-2016,2385,"$2,500",Aug 21st 2016,"Beirut, Lebanon",2
+969,469,dreamhack-zowie-open-bucharest-2016-closed-qualifier,2382,TBA,Aug 21st 2016,Online,16
+970,470,ecs-season-2-eu-development-league-open-qualifier-3,2383,TBA,Aug 21st 2016,Online,16
+971,471,esports-festival-2016,2323,"~$19,500",Aug 21st 2016,Hong Kong,4
+972,472,ttu-e-sport-summer-2016,2381,"$1,700",Aug 20th,Tallinn,4
+973,473,cybergamer-oceania-esports-masters-finals,2320,"$5,600",Aug 20th,"Sydney, Australia",4
+974,474,esl-meisterschaft-summer-2016-finals,2343,"$15,700",Aug 20th 2016,,4
+975,475,esea-open-season-22-asia,2359,$1750,Aug 6th 2016,,16
+976,476,esea-open-season-22-oceania,2366,"$1,750",Aug 10th,,16
+977,477,esea-open-season-22-brazil,2361,$1750,Aug 8th,,16
+978,478,esea-premier-season-22-europe,2353,$5000,Aug 4th 2016,,8
+979,479,esl-pro-league-season-4-north-america-wild-card,2371,TBA,Aug 17th 2016,,2
+980,480,esea-open-season-22-south-africa,2365,$1750,Aug 8th,,8
+981,481,streamme-gauntlet-eu-1,2326,"$5,000",Jul 23rd 2016,Online,8
+982,482,esl-pro-league-season-4-europe-wild-card,2370,TBA,Aug 15th 2016,,2
+983,483,wesg-2016-turkey,2377,TBA,Aug 14th,,4
+984,484,wesg-2016-middle-east,2376,TBA,Aug 14th,,4
+985,485,wesg-2016-north-west-africa,2375,TBA,Aug 14th,,4
+986,486,wesg-2016-south-east-africa,2374,TBA,Aug 14th,,4
+987,487,2016-d-fire-lan-final,2338,TBA,Jul 31st,"Shanghai, China",2
+988,488,esea-premier-season-22-north-america,2352,$5000,Aug 4th 2016,,8
+989,489,ecs-season-2-eu-development-league-open-qualifier-2,2373,TBA,Aug 14th 2016,Online,16
+990,490,gtl-tecnofields-2016,2336,"~2,000",Aug 10th,"Buenos Aires, Argentina",4
+991,491,e-sports-festival-csgo-tournament-closed-qualifier,2344,2 spots for Esports Festival 2016,Aug 2nd,Online,8
+992,492,rog-csgo-hong-kong-tournament,2360,Spot for Esports Festival 2016,Aug 6th,"Hong Kong, Hong Kong",8
+993,493,betway-invitational,2335,"$3,000",Jul 30th,Online,8
+994,494,99damage-league-season-3,2346,"$11,218",Aug 6th,,4
+995,495,ecs-season-2-eu-development-league-open-qualifier-1,2358,1 spot for ECS S2 Developmental League,Aug 6th,Online,16+
+996,496,sl-i-league-s2-china-finals,2337,3 spots for StarSeries S2 Finals,Aug 4th,"Shanghai, China",12
+997,497,world-championships-2016-african-qualifier,2341,TBA,Aug 3rd 2016,,6
+998,498,asus-rog-summer-2016,2314,"$25,000",Aug 5th,"Helsinki, Finland",8
+999,499,peliliiga-esm-2016,2355,$10018,Aug 4th 2016,Helsinki,2
